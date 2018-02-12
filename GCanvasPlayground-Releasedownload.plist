@@ -14,18 +14,18 @@
 					<string>http://raw.githubusercontent.com/gplatformteam/gcanvas-playground-ios/master/GCanvasPlayground-Release.ipa</string>
 				</dict>
 				<dict>
-					<key>kind<key>
+					<key>kind</key>
 					<string>full-size-image</string>
 					<key>needs-shine</key>
-     				<true/>
+					<true/>
 					<key>url</key>
 					<string>https://raw.githubusercontent.com/gplatformteam/gcanvas-playground-ios/master/icon_512_512.png</string>
 				</dict>
 				<dict>
-					<key>kind<key>
+					<key>kind</key>
 					<string>display-image</string>
 					<key>needs-shine</key>
-     				<true/>
+					<true/>
 					<key>url</key>
 					<string>https://raw.githubusercontent.com/gplatformteam/gcanvas-playground-ios/master/icon_57_57.png</string>
 				</dict>
