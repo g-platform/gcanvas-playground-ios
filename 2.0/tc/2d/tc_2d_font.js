@@ -11,7 +11,7 @@ var handler = setInterval(function(){
     ctx.clearRect(0, 0, w, h);
 
     ctx.save();
-    ctx.font="20px Verdana";
+    //ctx.font="20px Verdana";
     ctx.fillStyle = 'red'
     ctx.fillText("GCanvas很牛逼", offsetX, 350);
     ctx.restore();
