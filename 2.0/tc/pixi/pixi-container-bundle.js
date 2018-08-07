@@ -60,7 +60,7 @@
 /******/ 	__webpack_require__.p = "";
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 299);
+/******/ 	return __webpack_require__(__webpack_require__.s = 297);
 /******/ })
 /************************************************************************/
 /******/ ([
@@ -117,7 +117,7 @@ Object.defineProperty(exports, 'Bounds', {
   }
 });
 
-var _DisplayObject = __webpack_require__(38);
+var _DisplayObject = __webpack_require__(39);
 
 Object.defineProperty(exports, 'DisplayObject', {
   enumerable: true,
@@ -135,7 +135,7 @@ Object.defineProperty(exports, 'Container', {
   }
 });
 
-var _Transform = __webpack_require__(79);
+var _Transform = __webpack_require__(78);
 
 Object.defineProperty(exports, 'Transform', {
   enumerable: true,
@@ -144,7 +144,7 @@ Object.defineProperty(exports, 'Transform', {
   }
 });
 
-var _TransformStatic = __webpack_require__(78);
+var _TransformStatic = __webpack_require__(77);
 
 Object.defineProperty(exports, 'TransformStatic', {
   enumerable: true,
@@ -153,7 +153,7 @@ Object.defineProperty(exports, 'TransformStatic', {
   }
 });
 
-var _TransformBase = __webpack_require__(40);
+var _TransformBase = __webpack_require__(41);
 
 Object.defineProperty(exports, 'TransformBase', {
   enumerable: true,
@@ -171,7 +171,7 @@ Object.defineProperty(exports, 'Sprite', {
   }
 });
 
-var _CanvasSpriteRenderer = __webpack_require__(174);
+var _CanvasSpriteRenderer = __webpack_require__(172);
 
 Object.defineProperty(exports, 'CanvasSpriteRenderer', {
   enumerable: true,
@@ -189,7 +189,7 @@ Object.defineProperty(exports, 'CanvasTinter', {
   }
 });
 
-var _SpriteRenderer = __webpack_require__(177);
+var _SpriteRenderer = __webpack_require__(175);
 
 Object.defineProperty(exports, 'SpriteRenderer', {
   enumerable: true,
@@ -198,7 +198,7 @@ Object.defineProperty(exports, 'SpriteRenderer', {
   }
 });
 
-var _Text = __webpack_require__(192);
+var _Text = __webpack_require__(190);
 
 Object.defineProperty(exports, 'Text', {
   enumerable: true,
@@ -207,7 +207,7 @@ Object.defineProperty(exports, 'Text', {
   }
 });
 
-var _TextStyle = __webpack_require__(92);
+var _TextStyle = __webpack_require__(91);
 
 Object.defineProperty(exports, 'TextStyle', {
   enumerable: true,
@@ -216,7 +216,7 @@ Object.defineProperty(exports, 'TextStyle', {
   }
 });
 
-var _TextMetrics = __webpack_require__(93);
+var _TextMetrics = __webpack_require__(92);
 
 Object.defineProperty(exports, 'TextMetrics', {
   enumerable: true,
@@ -225,7 +225,7 @@ Object.defineProperty(exports, 'TextMetrics', {
   }
 });
 
-var _Graphics = __webpack_require__(194);
+var _Graphics = __webpack_require__(192);
 
 Object.defineProperty(exports, 'Graphics', {
   enumerable: true,
@@ -234,7 +234,7 @@ Object.defineProperty(exports, 'Graphics', {
   }
 });
 
-var _GraphicsData = __webpack_require__(94);
+var _GraphicsData = __webpack_require__(93);
 
 Object.defineProperty(exports, 'GraphicsData', {
   enumerable: true,
@@ -243,7 +243,7 @@ Object.defineProperty(exports, 'GraphicsData', {
   }
 });
 
-var _GraphicsRenderer = __webpack_require__(196);
+var _GraphicsRenderer = __webpack_require__(194);
 
 Object.defineProperty(exports, 'GraphicsRenderer', {
   enumerable: true,
@@ -252,7 +252,7 @@ Object.defineProperty(exports, 'GraphicsRenderer', {
   }
 });
 
-var _CanvasGraphicsRenderer = __webpack_require__(203);
+var _CanvasGraphicsRenderer = __webpack_require__(201);
 
 Object.defineProperty(exports, 'CanvasGraphicsRenderer', {
   enumerable: true,
@@ -261,7 +261,7 @@ Object.defineProperty(exports, 'CanvasGraphicsRenderer', {
   }
 });
 
-var _Spritesheet = __webpack_require__(204);
+var _Spritesheet = __webpack_require__(202);
 
 Object.defineProperty(exports, 'Spritesheet', {
   enumerable: true,
@@ -270,7 +270,7 @@ Object.defineProperty(exports, 'Spritesheet', {
   }
 });
 
-var _Texture = __webpack_require__(6);
+var _Texture = __webpack_require__(7);
 
 Object.defineProperty(exports, 'Texture', {
   enumerable: true,
@@ -279,7 +279,7 @@ Object.defineProperty(exports, 'Texture', {
   }
 });
 
-var _TextureMatrix = __webpack_require__(89);
+var _TextureMatrix = __webpack_require__(88);
 
 Object.defineProperty(exports, 'TextureMatrix', {
   enumerable: true,
@@ -306,7 +306,7 @@ Object.defineProperty(exports, 'RenderTexture', {
   }
 });
 
-var _BaseRenderTexture = __webpack_require__(85);
+var _BaseRenderTexture = __webpack_require__(84);
 
 Object.defineProperty(exports, 'BaseRenderTexture', {
   enumerable: true,
@@ -315,7 +315,7 @@ Object.defineProperty(exports, 'BaseRenderTexture', {
   }
 });
 
-var _VideoBaseTexture = __webpack_require__(82);
+var _VideoBaseTexture = __webpack_require__(81);
 
 Object.defineProperty(exports, 'VideoBaseTexture', {
   enumerable: true,
@@ -324,7 +324,7 @@ Object.defineProperty(exports, 'VideoBaseTexture', {
   }
 });
 
-var _TextureUvs = __webpack_require__(83);
+var _TextureUvs = __webpack_require__(82);
 
 Object.defineProperty(exports, 'TextureUvs', {
   enumerable: true,
@@ -378,7 +378,7 @@ Object.defineProperty(exports, 'RenderTarget', {
   }
 });
 
-var _Quad = __webpack_require__(90);
+var _Quad = __webpack_require__(89);
 
 Object.defineProperty(exports, 'Quad', {
   enumerable: true,
@@ -387,7 +387,7 @@ Object.defineProperty(exports, 'Quad', {
   }
 });
 
-var _SpriteMaskFilter = __webpack_require__(87);
+var _SpriteMaskFilter = __webpack_require__(86);
 
 Object.defineProperty(exports, 'SpriteMaskFilter', {
   enumerable: true,
@@ -396,7 +396,7 @@ Object.defineProperty(exports, 'SpriteMaskFilter', {
   }
 });
 
-var _Filter = __webpack_require__(88);
+var _Filter = __webpack_require__(87);
 
 Object.defineProperty(exports, 'Filter', {
   enumerable: true,
@@ -625,7 +625,7 @@ var SCALE_MODES = exports.SCALE_MODES = {
 /**
  * The wrap modes that are supported by pixi.
  *
- * The {@link PIXI.settings.WRAP_MODE} wrap mode affects the default wrapping mode of future operations.
+ * The {@link PIXI.settings.WRAP_MODE} wrap mode affects the default wraping mode of future operations.
  * It can be re-assigned to either CLAMP or REPEAT, depending upon suitability.
  * If the texture is non power of two then clamp will be used regardless as webGL can
  * only use REPEAT if the texture is po2.
@@ -694,7 +694,7 @@ var URL_FILE_EXTENSION = exports.URL_FILE_EXTENSION = /\.(\w{3,4})(?:$|\?|#)/i;
  * @type {RegExp|string}
  * @example data:image/png;base64
  */
-var DATA_URI = exports.DATA_URI = /^\s*data:(?:([\w-]+)\/([\w+.-]+))?(?:;charset=([\w-]+))?(?:;(base64))?,(.*)/i;
+var DATA_URI = exports.DATA_URI = /^\s*data:(?:([\w-]+)\/([\w+.-]+))?(?:;(charset=[\w-]+|base64))?,(.*)/i;
 
 /**
  * Regexp for SVG size.
@@ -814,7 +814,7 @@ var UPDATE_PRIORITY = exports.UPDATE_PRIORITY = {
 Object.defineProperty(exports, "__esModule", {
     value: true
 });
-exports.premultiplyBlendMode = exports.BaseTextureCache = exports.TextureCache = exports.earcut = exports.mixins = exports.pluginTarget = exports.EventEmitter = exports.removeItems = exports.isMobile = undefined;
+exports.premultiplyBlendMode = exports.BaseTextureCache = exports.TextureCache = exports.mixins = exports.pluginTarget = exports.EventEmitter = exports.removeItems = exports.isMobile = undefined;
 exports.uid = uid;
 exports.hex2rgb = hex2rgb;
 exports.hex2string = hex2string;
@@ -844,29 +844,25 @@ var _eventemitter = __webpack_require__(10);
 
 var _eventemitter2 = _interopRequireDefault(_eventemitter);
 
-var _pluginTarget = __webpack_require__(162);
+var _pluginTarget = __webpack_require__(160);
 
 var _pluginTarget2 = _interopRequireDefault(_pluginTarget);
 
-var _mixin = __webpack_require__(163);
+var _mixin = __webpack_require__(161);
 
 var mixins = _interopRequireWildcard(_mixin);
 
-var _ismobilejs = __webpack_require__(39);
+var _ismobilejs = __webpack_require__(40);
 
 var isMobile = _interopRequireWildcard(_ismobilejs);
 
-var _removeArrayItems = __webpack_require__(164);
+var _removeArrayItems = __webpack_require__(162);
 
 var _removeArrayItems2 = _interopRequireDefault(_removeArrayItems);
 
-var _mapPremultipliedBlendModes = __webpack_require__(165);
+var _mapPremultipliedBlendModes = __webpack_require__(163);
 
 var _mapPremultipliedBlendModes2 = _interopRequireDefault(_mapPremultipliedBlendModes);
-
-var _earcut = __webpack_require__(41);
-
-var _earcut2 = _interopRequireDefault(_earcut);
 
 function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj; } else { var newObj = {}; if (obj != null) { for (var key in obj) { if (Object.prototype.hasOwnProperty.call(obj, key)) newObj[key] = obj[key]; } } newObj.default = obj; return newObj; } }
 
@@ -898,7 +894,6 @@ exports.removeItems = _removeArrayItems2.default;
 exports.EventEmitter = _eventemitter2.default;
 exports.pluginTarget = _pluginTarget2.default;
 exports.mixins = mixins;
-exports.earcut = _earcut2.default;
 
 /**
  * Gets the next unique identifier
@@ -1004,9 +999,8 @@ function decomposeDataUri(dataUri) {
         return {
             mediaType: dataUriMatch[1] ? dataUriMatch[1].toLowerCase() : undefined,
             subType: dataUriMatch[2] ? dataUriMatch[2].toLowerCase() : undefined,
-            charset: dataUriMatch[3] ? dataUriMatch[3].toLowerCase() : undefined,
-            encoding: dataUriMatch[4] ? dataUriMatch[4].toLowerCase() : undefined,
-            data: dataUriMatch[5]
+            encoding: dataUriMatch[3] ? dataUriMatch[3].toLowerCase() : undefined,
+            data: dataUriMatch[4]
         };
     }
 
@@ -1304,11 +1298,11 @@ Object.defineProperty(exports, "__esModule", {
   value: true
 });
 
-var _maxRecommendedTextures = __webpack_require__(160);
+var _maxRecommendedTextures = __webpack_require__(158);
 
 var _maxRecommendedTextures2 = _interopRequireDefault(_maxRecommendedTextures);
 
-var _canUploadSameBuffer = __webpack_require__(161);
+var _canUploadSameBuffer = __webpack_require__(159);
 
 var _canUploadSameBuffer2 = _interopRequireDefault(_canUploadSameBuffer);
 
@@ -1527,21 +1521,11 @@ exports.default = {
    *
    * @static
    * @constant
-   * @memberof PIXI.settings
+   * @memberof PIXI
    * @type {boolean}
    */
-  CAN_UPLOAD_SAME_BUFFER: (0, _canUploadSameBuffer2.default)(),
+  CAN_UPLOAD_SAME_BUFFER: (0, _canUploadSameBuffer2.default)()
 
-  /**
-   * Default Mesh `canvasPadding`.
-   *
-   * @see PIXI.mesh.Mesh#canvasPadding
-   * @static
-   * @constant
-   * @memberof PIXI.settings
-   * @type {number}
-   */
-  MESH_CANVAS_PADDING: 0
 };
 
 /***/ }),
@@ -1549,14 +1533,14 @@ exports.default = {
 /***/ (function(module, exports, __webpack_require__) {
 
 var gl = {
-    createContext:          __webpack_require__(154),
-    setVertexAttribArrays:  __webpack_require__(69),
-    GLBuffer:               __webpack_require__(155),
-    GLFramebuffer:          __webpack_require__(156),
-    GLShader:               __webpack_require__(157),
-    GLTexture:              __webpack_require__(70),
-    VertexArrayObject:      __webpack_require__(158),
-    shader:                 __webpack_require__(159)
+    createContext:          __webpack_require__(152),
+    setVertexAttribArrays:  __webpack_require__(68),
+    GLBuffer:               __webpack_require__(153),
+    GLFramebuffer:          __webpack_require__(154),
+    GLShader:               __webpack_require__(155),
+    GLTexture:              __webpack_require__(69),
+    VertexArrayObject:      __webpack_require__(156),
+    shader:                 __webpack_require__(157)
 };
 
 // Export for Node-compatible environments
@@ -1595,7 +1579,7 @@ Object.defineProperty(exports, 'Point', {
   }
 });
 
-var _ObservablePoint = __webpack_require__(67);
+var _ObservablePoint = __webpack_require__(66);
 
 Object.defineProperty(exports, 'ObservablePoint', {
   enumerable: true,
@@ -1604,7 +1588,7 @@ Object.defineProperty(exports, 'ObservablePoint', {
   }
 });
 
-var _Matrix = __webpack_require__(35);
+var _Matrix = __webpack_require__(36);
 
 Object.defineProperty(exports, 'Matrix', {
   enumerable: true,
@@ -1613,7 +1597,7 @@ Object.defineProperty(exports, 'Matrix', {
   }
 });
 
-var _GroupD = __webpack_require__(68);
+var _GroupD = __webpack_require__(67);
 
 Object.defineProperty(exports, 'GroupD8', {
   enumerable: true,
@@ -1622,7 +1606,7 @@ Object.defineProperty(exports, 'GroupD8', {
   }
 });
 
-var _Circle = __webpack_require__(150);
+var _Circle = __webpack_require__(148);
 
 Object.defineProperty(exports, 'Circle', {
   enumerable: true,
@@ -1631,7 +1615,7 @@ Object.defineProperty(exports, 'Circle', {
   }
 });
 
-var _Ellipse = __webpack_require__(151);
+var _Ellipse = __webpack_require__(149);
 
 Object.defineProperty(exports, 'Ellipse', {
   enumerable: true,
@@ -1640,7 +1624,7 @@ Object.defineProperty(exports, 'Ellipse', {
   }
 });
 
-var _Polygon = __webpack_require__(152);
+var _Polygon = __webpack_require__(150);
 
 Object.defineProperty(exports, 'Polygon', {
   enumerable: true,
@@ -1649,7 +1633,7 @@ Object.defineProperty(exports, 'Polygon', {
   }
 });
 
-var _Rectangle = __webpack_require__(36);
+var _Rectangle = __webpack_require__(37);
 
 Object.defineProperty(exports, 'Rectangle', {
   enumerable: true,
@@ -1658,7 +1642,7 @@ Object.defineProperty(exports, 'Rectangle', {
   }
 });
 
-var _RoundedRectangle = __webpack_require__(153);
+var _RoundedRectangle = __webpack_require__(151);
 
 Object.defineProperty(exports, 'RoundedRectangle', {
   enumerable: true,
@@ -1671,6 +1655,237 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 
 /***/ }),
 /* 6 */
+/***/ (function(module, exports, __webpack_require__) {
+
+/* WEBPACK VAR INJECTION */(function(process) {// Copyright Joyent, Inc. and other Node contributors.
+//
+// Permission is hereby granted, free of charge, to any person obtaining a
+// copy of this software and associated documentation files (the
+// "Software"), to deal in the Software without restriction, including
+// without limitation the rights to use, copy, modify, merge, publish,
+// distribute, sublicense, and/or sell copies of the Software, and to permit
+// persons to whom the Software is furnished to do so, subject to the
+// following conditions:
+//
+// The above copyright notice and this permission notice shall be included
+// in all copies or substantial portions of the Software.
+//
+// THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+// OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+// MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN
+// NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+// DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+// OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE
+// USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+// resolves . and .. elements in a path array with directory names there
+// must be no slashes, empty elements, or device names (c:\) in the array
+// (so also no leading and trailing slashes - it does not distinguish
+// relative and absolute paths)
+function normalizeArray(parts, allowAboveRoot) {
+  // if the path tries to go above the root, `up` ends up > 0
+  var up = 0;
+  for (var i = parts.length - 1; i >= 0; i--) {
+    var last = parts[i];
+    if (last === '.') {
+      parts.splice(i, 1);
+    } else if (last === '..') {
+      parts.splice(i, 1);
+      up++;
+    } else if (up) {
+      parts.splice(i, 1);
+      up--;
+    }
+  }
+
+  // if the path is allowed to go above the root, restore leading ..s
+  if (allowAboveRoot) {
+    for (; up--; up) {
+      parts.unshift('..');
+    }
+  }
+
+  return parts;
+}
+
+// Split a filename into [root, dir, basename, ext], unix version
+// 'root' is just a slash, or nothing.
+var splitPathRe =
+    /^(\/?|)([\s\S]*?)((?:\.{1,2}|[^\/]+?|)(\.[^.\/]*|))(?:[\/]*)$/;
+var splitPath = function(filename) {
+  return splitPathRe.exec(filename).slice(1);
+};
+
+// path.resolve([from ...], to)
+// posix version
+exports.resolve = function() {
+  var resolvedPath = '',
+      resolvedAbsolute = false;
+
+  for (var i = arguments.length - 1; i >= -1 && !resolvedAbsolute; i--) {
+    var path = (i >= 0) ? arguments[i] : process.cwd();
+
+    // Skip empty and invalid entries
+    if (typeof path !== 'string') {
+      throw new TypeError('Arguments to path.resolve must be strings');
+    } else if (!path) {
+      continue;
+    }
+
+    resolvedPath = path + '/' + resolvedPath;
+    resolvedAbsolute = path.charAt(0) === '/';
+  }
+
+  // At this point the path should be resolved to a full absolute path, but
+  // handle relative paths to be safe (might happen when process.cwd() fails)
+
+  // Normalize the path
+  resolvedPath = normalizeArray(filter(resolvedPath.split('/'), function(p) {
+    return !!p;
+  }), !resolvedAbsolute).join('/');
+
+  return ((resolvedAbsolute ? '/' : '') + resolvedPath) || '.';
+};
+
+// path.normalize(path)
+// posix version
+exports.normalize = function(path) {
+  var isAbsolute = exports.isAbsolute(path),
+      trailingSlash = substr(path, -1) === '/';
+
+  // Normalize the path
+  path = normalizeArray(filter(path.split('/'), function(p) {
+    return !!p;
+  }), !isAbsolute).join('/');
+
+  if (!path && !isAbsolute) {
+    path = '.';
+  }
+  if (path && trailingSlash) {
+    path += '/';
+  }
+
+  return (isAbsolute ? '/' : '') + path;
+};
+
+// posix version
+exports.isAbsolute = function(path) {
+  return path.charAt(0) === '/';
+};
+
+// posix version
+exports.join = function() {
+  var paths = Array.prototype.slice.call(arguments, 0);
+  return exports.normalize(filter(paths, function(p, index) {
+    if (typeof p !== 'string') {
+      throw new TypeError('Arguments to path.join must be strings');
+    }
+    return p;
+  }).join('/'));
+};
+
+
+// path.relative(from, to)
+// posix version
+exports.relative = function(from, to) {
+  from = exports.resolve(from).substr(1);
+  to = exports.resolve(to).substr(1);
+
+  function trim(arr) {
+    var start = 0;
+    for (; start < arr.length; start++) {
+      if (arr[start] !== '') break;
+    }
+
+    var end = arr.length - 1;
+    for (; end >= 0; end--) {
+      if (arr[end] !== '') break;
+    }
+
+    if (start > end) return [];
+    return arr.slice(start, end - start + 1);
+  }
+
+  var fromParts = trim(from.split('/'));
+  var toParts = trim(to.split('/'));
+
+  var length = Math.min(fromParts.length, toParts.length);
+  var samePartsLength = length;
+  for (var i = 0; i < length; i++) {
+    if (fromParts[i] !== toParts[i]) {
+      samePartsLength = i;
+      break;
+    }
+  }
+
+  var outputParts = [];
+  for (var i = samePartsLength; i < fromParts.length; i++) {
+    outputParts.push('..');
+  }
+
+  outputParts = outputParts.concat(toParts.slice(samePartsLength));
+
+  return outputParts.join('/');
+};
+
+exports.sep = '/';
+exports.delimiter = ':';
+
+exports.dirname = function(path) {
+  var result = splitPath(path),
+      root = result[0],
+      dir = result[1];
+
+  if (!root && !dir) {
+    // No dirname whatsoever
+    return '.';
+  }
+
+  if (dir) {
+    // It has a dirname, strip trailing slash
+    dir = dir.substr(0, dir.length - 1);
+  }
+
+  return root + dir;
+};
+
+
+exports.basename = function(path, ext) {
+  var f = splitPath(path)[2];
+  // TODO: make this comparison case-insensitive on windows?
+  if (ext && f.substr(-1 * ext.length) === ext) {
+    f = f.substr(0, f.length - ext.length);
+  }
+  return f;
+};
+
+
+exports.extname = function(path) {
+  return splitPath(path)[3];
+};
+
+function filter (xs, f) {
+    if (xs.filter) return xs.filter(f);
+    var res = [];
+    for (var i = 0; i < xs.length; i++) {
+        if (f(xs[i], i, xs)) res.push(xs[i]);
+    }
+    return res;
+}
+
+// String.prototype.substr - negative index don't work in IE8
+var substr = 'ab'.substr(-1) === 'b'
+    ? function (str, start, len) { return str.substr(start, len) }
+    : function (str, start, len) {
+        if (start < 0) start = str.length + start;
+        return str.substr(start, len);
+    }
+;
+
+/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(178)))
+
+/***/ }),
+/* 7 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -1686,11 +1901,11 @@ var _BaseTexture = __webpack_require__(12);
 
 var _BaseTexture2 = _interopRequireDefault(_BaseTexture);
 
-var _VideoBaseTexture = __webpack_require__(82);
+var _VideoBaseTexture = __webpack_require__(81);
 
 var _VideoBaseTexture2 = _interopRequireDefault(_VideoBaseTexture);
 
-var _TextureUvs = __webpack_require__(83);
+var _TextureUvs = __webpack_require__(82);
 
 var _TextureUvs2 = _interopRequireDefault(_TextureUvs);
 
@@ -2383,237 +2598,6 @@ removeAllHandlers(Texture.WHITE);
 removeAllHandlers(Texture.WHITE.baseTexture);
 
 /***/ }),
-/* 7 */
-/***/ (function(module, exports, __webpack_require__) {
-
-/* WEBPACK VAR INJECTION */(function(process) {// Copyright Joyent, Inc. and other Node contributors.
-//
-// Permission is hereby granted, free of charge, to any person obtaining a
-// copy of this software and associated documentation files (the
-// "Software"), to deal in the Software without restriction, including
-// without limitation the rights to use, copy, modify, merge, publish,
-// distribute, sublicense, and/or sell copies of the Software, and to permit
-// persons to whom the Software is furnished to do so, subject to the
-// following conditions:
-//
-// The above copyright notice and this permission notice shall be included
-// in all copies or substantial portions of the Software.
-//
-// THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
-// OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-// MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN
-// NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
-// DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
-// OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE
-// USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-// resolves . and .. elements in a path array with directory names there
-// must be no slashes, empty elements, or device names (c:\) in the array
-// (so also no leading and trailing slashes - it does not distinguish
-// relative and absolute paths)
-function normalizeArray(parts, allowAboveRoot) {
-  // if the path tries to go above the root, `up` ends up > 0
-  var up = 0;
-  for (var i = parts.length - 1; i >= 0; i--) {
-    var last = parts[i];
-    if (last === '.') {
-      parts.splice(i, 1);
-    } else if (last === '..') {
-      parts.splice(i, 1);
-      up++;
-    } else if (up) {
-      parts.splice(i, 1);
-      up--;
-    }
-  }
-
-  // if the path is allowed to go above the root, restore leading ..s
-  if (allowAboveRoot) {
-    for (; up--; up) {
-      parts.unshift('..');
-    }
-  }
-
-  return parts;
-}
-
-// Split a filename into [root, dir, basename, ext], unix version
-// 'root' is just a slash, or nothing.
-var splitPathRe =
-    /^(\/?|)([\s\S]*?)((?:\.{1,2}|[^\/]+?|)(\.[^.\/]*|))(?:[\/]*)$/;
-var splitPath = function(filename) {
-  return splitPathRe.exec(filename).slice(1);
-};
-
-// path.resolve([from ...], to)
-// posix version
-exports.resolve = function() {
-  var resolvedPath = '',
-      resolvedAbsolute = false;
-
-  for (var i = arguments.length - 1; i >= -1 && !resolvedAbsolute; i--) {
-    var path = (i >= 0) ? arguments[i] : process.cwd();
-
-    // Skip empty and invalid entries
-    if (typeof path !== 'string') {
-      throw new TypeError('Arguments to path.resolve must be strings');
-    } else if (!path) {
-      continue;
-    }
-
-    resolvedPath = path + '/' + resolvedPath;
-    resolvedAbsolute = path.charAt(0) === '/';
-  }
-
-  // At this point the path should be resolved to a full absolute path, but
-  // handle relative paths to be safe (might happen when process.cwd() fails)
-
-  // Normalize the path
-  resolvedPath = normalizeArray(filter(resolvedPath.split('/'), function(p) {
-    return !!p;
-  }), !resolvedAbsolute).join('/');
-
-  return ((resolvedAbsolute ? '/' : '') + resolvedPath) || '.';
-};
-
-// path.normalize(path)
-// posix version
-exports.normalize = function(path) {
-  var isAbsolute = exports.isAbsolute(path),
-      trailingSlash = substr(path, -1) === '/';
-
-  // Normalize the path
-  path = normalizeArray(filter(path.split('/'), function(p) {
-    return !!p;
-  }), !isAbsolute).join('/');
-
-  if (!path && !isAbsolute) {
-    path = '.';
-  }
-  if (path && trailingSlash) {
-    path += '/';
-  }
-
-  return (isAbsolute ? '/' : '') + path;
-};
-
-// posix version
-exports.isAbsolute = function(path) {
-  return path.charAt(0) === '/';
-};
-
-// posix version
-exports.join = function() {
-  var paths = Array.prototype.slice.call(arguments, 0);
-  return exports.normalize(filter(paths, function(p, index) {
-    if (typeof p !== 'string') {
-      throw new TypeError('Arguments to path.join must be strings');
-    }
-    return p;
-  }).join('/'));
-};
-
-
-// path.relative(from, to)
-// posix version
-exports.relative = function(from, to) {
-  from = exports.resolve(from).substr(1);
-  to = exports.resolve(to).substr(1);
-
-  function trim(arr) {
-    var start = 0;
-    for (; start < arr.length; start++) {
-      if (arr[start] !== '') break;
-    }
-
-    var end = arr.length - 1;
-    for (; end >= 0; end--) {
-      if (arr[end] !== '') break;
-    }
-
-    if (start > end) return [];
-    return arr.slice(start, end - start + 1);
-  }
-
-  var fromParts = trim(from.split('/'));
-  var toParts = trim(to.split('/'));
-
-  var length = Math.min(fromParts.length, toParts.length);
-  var samePartsLength = length;
-  for (var i = 0; i < length; i++) {
-    if (fromParts[i] !== toParts[i]) {
-      samePartsLength = i;
-      break;
-    }
-  }
-
-  var outputParts = [];
-  for (var i = samePartsLength; i < fromParts.length; i++) {
-    outputParts.push('..');
-  }
-
-  outputParts = outputParts.concat(toParts.slice(samePartsLength));
-
-  return outputParts.join('/');
-};
-
-exports.sep = '/';
-exports.delimiter = ':';
-
-exports.dirname = function(path) {
-  var result = splitPath(path),
-      root = result[0],
-      dir = result[1];
-
-  if (!root && !dir) {
-    // No dirname whatsoever
-    return '.';
-  }
-
-  if (dir) {
-    // It has a dirname, strip trailing slash
-    dir = dir.substr(0, dir.length - 1);
-  }
-
-  return root + dir;
-};
-
-
-exports.basename = function(path, ext) {
-  var f = splitPath(path)[2];
-  // TODO: make this comparison case-insensitive on windows?
-  if (ext && f.substr(-1 * ext.length) === ext) {
-    f = f.substr(0, f.length - ext.length);
-  }
-  return f;
-};
-
-
-exports.extname = function(path) {
-  return splitPath(path)[3];
-};
-
-function filter (xs, f) {
-    if (xs.filter) return xs.filter(f);
-    var res = [];
-    for (var i = 0; i < xs.length; i++) {
-        if (f(xs[i], i, xs)) res.push(xs[i]);
-    }
-    return res;
-}
-
-// String.prototype.substr - negative index don't work in IE8
-var substr = 'ab'.substr(-1) === 'b'
-    ? function (str, start, len) { return str.substr(start, len) }
-    : function (str, start, len) {
-        if (start < 0) start = str.length + start;
-        return str.substr(start, len);
-    }
-;
-
-/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(180)))
-
-/***/ }),
 /* 8 */
 /***/ (function(module, exports) {
 
@@ -2653,11 +2637,11 @@ Object.defineProperty(exports, "__esModule", {
 
 var _index = __webpack_require__(13);
 
-var _mixin = __webpack_require__(31);
+var _mixin = __webpack_require__(32);
 
 var Mixin = _interopRequireWildcard(_mixin);
 
-var _Element2 = __webpack_require__(127);
+var _Element2 = __webpack_require__(126);
 
 var _Element3 = _interopRequireDefault(_Element2);
 
@@ -2703,6 +2687,7 @@ var HTMLElement = function (_Element) {
         Mixin.clientRegion(_this);
         Mixin.offsetRegion(_this);
         Mixin.scrollRegion(_this);
+        Mixin.eventTarget(_this);
         return _this;
     }
 
@@ -3125,7 +3110,7 @@ var _eventemitter = __webpack_require__(10);
 
 var _eventemitter2 = _interopRequireDefault(_eventemitter);
 
-var _determineCrossOrigin = __webpack_require__(80);
+var _determineCrossOrigin = __webpack_require__(79);
 
 var _determineCrossOrigin2 = _interopRequireDefault(_determineCrossOrigin);
 
@@ -4038,7 +4023,7 @@ var _get = function get(object, property, receiver) { if (object === null) objec
 
 var _utils = __webpack_require__(2);
 
-var _DisplayObject2 = __webpack_require__(38);
+var _DisplayObject2 = __webpack_require__(39);
 
 var _DisplayObject3 = _interopRequireDefault(_DisplayObject2);
 
@@ -4228,7 +4213,7 @@ var Container = function (_DisplayObject) {
         key: 'setChildIndex',
         value: function setChildIndex(child, index) {
             if (index < 0 || index >= this.children.length) {
-                throw new Error('The index ' + index + ' supplied is out of bounds ' + this.children.length);
+                throw new Error('The supplied index is out of bounds');
             }
 
             var currentIndex = this.getChildIndex(child);
@@ -4453,7 +4438,7 @@ var Container = function (_DisplayObject) {
             }
 
             // do a quick check to see if this element has a mask or a filter.
-            if (this._mask || this.filters) {
+            if (this._mask || this._filters) {
                 this.renderAdvancedWebGL(renderer);
             } else {
                 this._renderWebGL(renderer);
@@ -4474,7 +4459,7 @@ var Container = function (_DisplayObject) {
         value: function renderAdvancedWebGL(renderer) {
             renderer.flush();
 
-            var filters = this.filters;
+            var filters = this._filters;
             var mask = this._mask;
 
             // push filter first as we need to ensure the stencil buffer is correct for any masking
@@ -4915,11 +4900,11 @@ var _createClass = function () { function defineProperties(target, props) { for 
 
 var _get = function get(object, property, receiver) { if (object === null) object = Function.prototype; var desc = Object.getOwnPropertyDescriptor(object, property); if (desc === undefined) { var parent = Object.getPrototypeOf(object); if (parent === null) { return undefined; } else { return get(parent, property, receiver); } } else if ("value" in desc) { return desc.value; } else { var getter = desc.get; if (getter === undefined) { return undefined; } return getter.call(receiver); } };
 
-var _SystemRenderer2 = __webpack_require__(84);
+var _SystemRenderer2 = __webpack_require__(83);
 
 var _SystemRenderer3 = _interopRequireDefault(_SystemRenderer2);
 
-var _CanvasMaskManager = __webpack_require__(175);
+var _CanvasMaskManager = __webpack_require__(173);
 
 var _CanvasMaskManager2 = _interopRequireDefault(_CanvasMaskManager);
 
@@ -4927,7 +4912,7 @@ var _CanvasRenderTarget = __webpack_require__(45);
 
 var _CanvasRenderTarget2 = _interopRequireDefault(_CanvasRenderTarget);
 
-var _mapCanvasBlendModesToPixi = __webpack_require__(176);
+var _mapCanvasBlendModesToPixi = __webpack_require__(174);
 
 var _mapCanvasBlendModesToPixi2 = _interopRequireDefault(_mapCanvasBlendModesToPixi);
 
@@ -5492,13 +5477,6 @@ var RenderTarget = function () {
     this.filterData = null;
 
     /**
-     * The key for pooled texture of FilterSystem
-     * @private
-     * @member {string}
-     */
-    this.filterPoolKey = '';
-
-    /**
      * The scale mode.
      *
      * @member {number}
@@ -5715,7 +5693,7 @@ exports.default = RenderTarget;
 
 /* eslint-disable no-undef */
 
-var Loader = __webpack_require__(228).default;
+var Loader = __webpack_require__(226).default;
 var Resource = __webpack_require__(47).default;
 var async = __webpack_require__(111);
 var b64 = __webpack_require__(112);
@@ -6306,19 +6284,19 @@ var _createClass = function () { function defineProperties(target, props) { for 
 
 var _get = function get(object, property, receiver) { if (object === null) object = Function.prototype; var desc = Object.getOwnPropertyDescriptor(object, property); if (desc === undefined) { var parent = Object.getPrototypeOf(object); if (parent === null) { return undefined; } else { return get(parent, property, receiver); } } else if ("value" in desc) { return desc.value; } else { var getter = desc.get; if (getter === undefined) { return undefined; } return getter.call(receiver); } };
 
-var _SystemRenderer2 = __webpack_require__(84);
+var _SystemRenderer2 = __webpack_require__(83);
 
 var _SystemRenderer3 = _interopRequireDefault(_SystemRenderer2);
 
-var _MaskManager = __webpack_require__(178);
+var _MaskManager = __webpack_require__(176);
 
 var _MaskManager2 = _interopRequireDefault(_MaskManager);
 
-var _StencilManager = __webpack_require__(181);
+var _StencilManager = __webpack_require__(179);
 
 var _StencilManager2 = _interopRequireDefault(_StencilManager);
 
-var _FilterManager = __webpack_require__(182);
+var _FilterManager = __webpack_require__(180);
 
 var _FilterManager2 = _interopRequireDefault(_FilterManager);
 
@@ -6330,7 +6308,7 @@ var _ObjectRenderer = __webpack_require__(23);
 
 var _ObjectRenderer2 = _interopRequireDefault(_ObjectRenderer);
 
-var _TextureManager = __webpack_require__(184);
+var _TextureManager = __webpack_require__(182);
 
 var _TextureManager2 = _interopRequireDefault(_TextureManager);
 
@@ -6338,19 +6316,19 @@ var _BaseTexture = __webpack_require__(12);
 
 var _BaseTexture2 = _interopRequireDefault(_BaseTexture);
 
-var _TextureGarbageCollector = __webpack_require__(185);
+var _TextureGarbageCollector = __webpack_require__(183);
 
 var _TextureGarbageCollector2 = _interopRequireDefault(_TextureGarbageCollector);
 
-var _WebGLState = __webpack_require__(186);
+var _WebGLState = __webpack_require__(184);
 
 var _WebGLState2 = _interopRequireDefault(_WebGLState);
 
-var _mapWebGLDrawModesToPixi = __webpack_require__(188);
+var _mapWebGLDrawModesToPixi = __webpack_require__(186);
 
 var _mapWebGLDrawModesToPixi2 = _interopRequireDefault(_mapWebGLDrawModesToPixi);
 
-var _validateContext = __webpack_require__(189);
+var _validateContext = __webpack_require__(187);
 
 var _validateContext2 = _interopRequireDefault(_validateContext);
 
@@ -7288,14 +7266,10 @@ function buildLine(graphicsData, webGLData) {
     perpx *= width;
     perpy *= width;
 
-    var ratio = graphicsData.lineAlignment; // 0.5;
-    var r1 = (1 - ratio) * 2;
-    var r2 = ratio * 2;
-
     // start
-    verts.push(p1x - perpx * r1, p1y - perpy * r1, r, g, b, alpha);
+    verts.push(p1x - perpx, p1y - perpy, r, g, b, alpha);
 
-    verts.push(p1x + perpx * r2, p1y + perpy * r2, r, g, b, alpha);
+    verts.push(p1x + perpx, p1y + perpy, r, g, b, alpha);
 
     for (var i = 1; i < length - 1; ++i) {
         p1x = points[(i - 1) * 2];
@@ -7336,9 +7310,9 @@ function buildLine(graphicsData, webGLData) {
 
         if (Math.abs(denom) < 0.1) {
             denom += 10.1;
-            verts.push(p2x - perpx * r1, p2y - perpy * r1, r, g, b, alpha);
+            verts.push(p2x - perpx, p2y - perpy, r, g, b, alpha);
 
-            verts.push(p2x + perpx * r2, p2y + perpy * r2, r, g, b, alpha);
+            verts.push(p2x + perpx, p2y + perpy, r, g, b, alpha);
 
             continue;
         }
@@ -7357,21 +7331,21 @@ function buildLine(graphicsData, webGLData) {
             perp3x *= width;
             perp3y *= width;
 
-            verts.push(p2x - perp3x * r1, p2y - perp3y * r1);
+            verts.push(p2x - perp3x, p2y - perp3y);
             verts.push(r, g, b, alpha);
 
-            verts.push(p2x + perp3x * r2, p2y + perp3y * r2);
+            verts.push(p2x + perp3x, p2y + perp3y);
             verts.push(r, g, b, alpha);
 
-            verts.push(p2x - perp3x * r2 * r1, p2y - perp3y * r1);
+            verts.push(p2x - perp3x, p2y - perp3y);
             verts.push(r, g, b, alpha);
 
             indexCount++;
         } else {
-            verts.push(p2x + (px - p2x) * r1, p2y + (py - p2y) * r1);
+            verts.push(px, py);
             verts.push(r, g, b, alpha);
 
-            verts.push(p2x - (px - p2x) * r2, p2y - (py - p2y) * r2);
+            verts.push(p2x - (px - p2x), p2y - (py - p2y));
             verts.push(r, g, b, alpha);
         }
     }
@@ -7391,10 +7365,10 @@ function buildLine(graphicsData, webGLData) {
     perpx *= width;
     perpy *= width;
 
-    verts.push(p2x - perpx * r1, p2y - perpy * r1);
+    verts.push(p2x - perpx, p2y - perpy);
     verts.push(r, g, b, alpha);
 
-    verts.push(p2x + perpx * r2, p2y + perpy * r2);
+    verts.push(p2x + perpx, p2y + perpy);
     verts.push(r, g, b, alpha);
 
     indices.push(indexStart);
@@ -7480,7 +7454,7 @@ Object.defineProperty(exports, 'Mesh', {
   }
 });
 
-var _MeshRenderer = __webpack_require__(231);
+var _MeshRenderer = __webpack_require__(229);
 
 Object.defineProperty(exports, 'MeshRenderer', {
   enumerable: true,
@@ -7489,7 +7463,7 @@ Object.defineProperty(exports, 'MeshRenderer', {
   }
 });
 
-var _CanvasMeshRenderer = __webpack_require__(232);
+var _CanvasMeshRenderer = __webpack_require__(230);
 
 Object.defineProperty(exports, 'CanvasMeshRenderer', {
   enumerable: true,
@@ -7507,7 +7481,7 @@ Object.defineProperty(exports, 'Plane', {
   }
 });
 
-var _NineSlicePlane = __webpack_require__(233);
+var _NineSlicePlane = __webpack_require__(231);
 
 Object.defineProperty(exports, 'NineSlicePlane', {
   enumerable: true,
@@ -7516,7 +7490,7 @@ Object.defineProperty(exports, 'NineSlicePlane', {
   }
 });
 
-var _Rope = __webpack_require__(234);
+var _Rope = __webpack_require__(232);
 
 Object.defineProperty(exports, 'Rope', {
   enumerable: true,
@@ -7544,18 +7518,16 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 
 
 Object.defineProperty(exports, "__esModule", {
-    value: true
+  value: true
 });
 
 var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
-
-var _get = function get(object, property, receiver) { if (object === null) object = Function.prototype; var desc = Object.getOwnPropertyDescriptor(object, property); if (desc === undefined) { var parent = Object.getPrototypeOf(object); if (parent === null) { return undefined; } else { return get(parent, property, receiver); } } else if ("value" in desc) { return desc.value; } else { var getter = desc.get; if (getter === undefined) { return undefined; } return getter.call(receiver); } };
 
 var _core = __webpack_require__(0);
 
 var core = _interopRequireWildcard(_core);
 
-var _Texture = __webpack_require__(6);
+var _Texture = __webpack_require__(7);
 
 var _Texture2 = _interopRequireDefault(_Texture);
 
@@ -7580,416 +7552,351 @@ var tempPolygon = new core.Polygon();
  */
 
 var Mesh = function (_core$Container) {
-    _inherits(Mesh, _core$Container);
+  _inherits(Mesh, _core$Container);
+
+  /**
+   * @param {PIXI.Texture} texture - The texture to use
+   * @param {Float32Array} [vertices] - if you want to specify the vertices
+   * @param {Float32Array} [uvs] - if you want to specify the uvs
+   * @param {Uint16Array} [indices] - if you want to specify the indices
+   * @param {number} [drawMode] - the drawMode, can be any of the Mesh.DRAW_MODES consts
+   */
+  function Mesh(texture, vertices, uvs, indices, drawMode) {
+    _classCallCheck(this, Mesh);
 
     /**
-     * @param {PIXI.Texture} texture - The texture to use
-     * @param {Float32Array} [vertices] - if you want to specify the vertices
-     * @param {Float32Array} [uvs] - if you want to specify the uvs
-     * @param {Uint16Array} [indices] - if you want to specify the indices
-     * @param {number} [drawMode] - the drawMode, can be any of the Mesh.DRAW_MODES consts
+     * The texture of the Mesh
+     *
+     * @member {PIXI.Texture}
+     * @default PIXI.Texture.EMPTY
+     * @private
      */
-    function Mesh(texture, vertices, uvs, indices, drawMode) {
-        _classCallCheck(this, Mesh);
+    var _this = _possibleConstructorReturn(this, (Mesh.__proto__ || Object.getPrototypeOf(Mesh)).call(this));
 
-        /**
-         * The texture of the Mesh
-         *
-         * @member {PIXI.Texture}
-         * @default PIXI.Texture.EMPTY
-         * @private
-         */
-        var _this = _possibleConstructorReturn(this, (Mesh.__proto__ || Object.getPrototypeOf(Mesh)).call(this));
+    _this._texture = texture || _Texture2.default.EMPTY;
 
-        _this._texture = texture || _Texture2.default.EMPTY;
-
-        if (!_this._texture.baseTexture.hasLoaded) {
-            _this._texture.once('update', _this._onTextureUpdate, _this);
-        }
-
-        /**
-         * The Uvs of the Mesh
-         *
-         * @member {Float32Array}
-         */
-        _this.uvs = uvs || new Float32Array([0, 0, 1, 0, 1, 1, 0, 1]);
-
-        /**
-         * An array of vertices
-         *
-         * @member {Float32Array}
-         */
-        _this.vertices = vertices || new Float32Array([0, 0, 100, 0, 100, 100, 0, 100]);
-
-        /**
-         * An array containing the indices of the vertices
-         *
-         * @member {Uint16Array}
-         */
-        //  TODO auto generate this based on draw mode!
-        _this.indices = indices || new Uint16Array([0, 1, 3, 2]);
-
-        /**
-         * Version of mesh uvs are dirty or not
-         *
-         * @member {number}
-         */
-        _this.dirty = 0;
-
-        /**
-         * Version of mesh indices
-         *
-         * @member {number}
-         */
-        _this.indexDirty = 0;
-
-        /**
-         * Version of mesh verticies array
-         *
-         * @member {number}
-         */
-        _this.vertexDirty = 0;
-
-        /**
-         * For backwards compatibility the default is to re-upload verticies each render call.
-         * Set this to `false` and increase `vertexDirty` to manually re-upload the buffer.
-         *
-         * @member {boolean}
-         */
-        _this.autoUpdate = true;
-
-        /**
-         * The blend mode to be applied to the sprite. Set to `PIXI.BLEND_MODES.NORMAL` to remove
-         * any blend mode.
-         *
-         * @member {number}
-         * @default PIXI.BLEND_MODES.NORMAL
-         * @see PIXI.BLEND_MODES
-         */
-        _this.blendMode = core.BLEND_MODES.NORMAL;
-
-        /**
-         * Triangles in canvas mode are automatically antialiased, use this value to force triangles
-         * to overlap a bit with each other.
-         *
-         * @member {number}
-         */
-        _this.canvasPadding = core.settings.MESH_CANVAS_PADDING;
-
-        /**
-         * The way the Mesh should be drawn, can be any of the {@link PIXI.mesh.Mesh.DRAW_MODES} consts
-         *
-         * @member {number}
-         * @see PIXI.mesh.Mesh.DRAW_MODES
-         */
-        _this.drawMode = drawMode || Mesh.DRAW_MODES.TRIANGLE_MESH;
-
-        /**
-         * The default shader that is used if a mesh doesn't have a more specific one.
-         *
-         * @member {PIXI.Shader}
-         */
-        _this.shader = null;
-
-        /**
-         * The tint applied to the mesh. This is a [r,g,b] value. A value of [1,1,1] will remove any
-         * tint effect.
-         *
-         * @member {number}
-         */
-        _this.tintRgb = new Float32Array([1, 1, 1]);
-
-        /**
-         * The colorMultiplier will scale the value of tint in shader. `new color = color * colorMultiplier` .
-         *
-         * @member {number}
-         * @default 1.0
-         */
-        _this.colorMultiplier = 1.0;
-
-        /**
-         * A map of renderer IDs to webgl render data
-         *
-         * @private
-         * @member {object<number, object>}
-         */
-        _this._glDatas = {};
-
-        /**
-         * transform that is applied to UV to get the texture coords
-         * its updated independently from texture uvTransform
-         * updates of uvs are tied to that thing
-         *
-         * @member {PIXI.TextureMatrix}
-         * @private
-         */
-        _this._uvTransform = new core.TextureMatrix(_this._texture, 0);
-
-        /**
-         * whether or not upload uvTransform to shader
-         * if its false, then uvs should be pre-multiplied
-         * if you change it for generated mesh, please call 'refresh(true)'
-         * @member {boolean}
-         * @default false
-         */
-        _this.uploadUvTransform = false;
-
-        /**
-         * Plugin that is responsible for rendering this element.
-         * Allows to customize the rendering process without overriding '_renderWebGL' & '_renderCanvas' methods.
-         * @member {string}
-         * @default 'mesh'
-         */
-        _this.pluginName = 'mesh';
-        return _this;
+    if (!_this._texture.baseTexture.hasLoaded) {
+      _this._texture.once('update', _this._onTextureUpdate, _this);
     }
 
     /**
-     * Updates the object transform for rendering
+     * The Uvs of the Mesh
+     *
+     * @member {Float32Array}
+     */
+    _this.uvs = uvs || new Float32Array([0, 0, 1, 0, 1, 1, 0, 1]);
+
+    /**
+     * An array of vertices
+     *
+     * @member {Float32Array}
+     */
+    _this.vertices = vertices || new Float32Array([0, 0, 100, 0, 100, 100, 0, 100]);
+
+    /**
+     * An array containing the indices of the vertices
+     *
+     * @member {Uint16Array}
+     */
+    //  TODO auto generate this based on draw mode!
+    _this.indices = indices || new Uint16Array([0, 1, 3, 2]);
+
+    /**
+     * Version of mesh uvs are dirty or not
+     *
+     * @member {number}
+     */
+    _this.dirty = 0;
+
+    /**
+     * Version of mesh indices
+     *
+     * @member {number}
+     */
+    _this.indexDirty = 0;
+
+    /**
+     * The blend mode to be applied to the mesh. Set to `PIXI.BLEND_MODES.NORMAL` to remove
+     * any blend mode.
+     *
+     * @member {number}
+     * @default PIXI.BLEND_MODES.NORMAL
+     * @see PIXI.BLEND_MODES
+     */
+    _this.blendMode = core.BLEND_MODES.NORMAL;
+
+    /**
+     * Triangles in canvas mode are automatically antialiased, use this value to force triangles
+     * to overlap a bit with each other.
+     *
+     * @member {number}
+     */
+    _this.canvasPadding = 0;
+
+    /**
+     * The way the Mesh should be drawn, can be any of the {@link PIXI.mesh.Mesh.DRAW_MODES} consts
+     *
+     * @member {number}
+     * @see PIXI.mesh.Mesh.DRAW_MODES
+     */
+    _this.drawMode = drawMode || Mesh.DRAW_MODES.TRIANGLE_MESH;
+
+    /**
+     * The default shader that is used if a mesh doesn't have a more specific one.
+     *
+     * @member {PIXI.Shader}
+     */
+    _this.shader = null;
+
+    /**
+     * The tint applied to the mesh. This is a [r,g,b] value. A value of [1,1,1] will remove any
+     * tint effect.
+     *
+     * @member {number}
+     */
+    _this.tintRgb = new Float32Array([1, 1, 1]);
+
+    /**
+     * The colorMultiplier will scale the value of tint in shader. `new color = color * colorMultiplier` .
+     *
+     * @member {number}
+     * @default 1.0
+     */
+    _this.colorMultiplier = 1.0;
+
+    /**
+     * A map of renderer IDs to webgl render data
+     *
+     * @private
+     * @member {object<number, object>}
+     */
+    _this._glDatas = {};
+
+    /**
+     * transform that is applied to UV to get the texture coords
+     * its updated independently from texture uvTransform
+     * updates of uvs are tied to that thing
+     *
+     * @member {PIXI.TextureMatrix}
+     * @private
+     */
+    _this._uvTransform = new core.TextureMatrix(_this._texture, 0);
+
+    /**
+     * whether or not upload uvTransform to shader
+     * if its false, then uvs should be pre-multiplied
+     * if you change it for generated mesh, please call 'refresh(true)'
+     * @member {boolean}
+     * @default false
+     */
+    _this.uploadUvTransform = false;
+
+    /**
+     * Plugin that is responsible for rendering this element.
+     * Allows to customize the rendering process without overriding '_renderWebGL' & '_renderCanvas' methods.
+     * @member {string}
+     * @default 'mesh'
+     */
+    _this.pluginName = 'mesh';
+    return _this;
+  }
+
+  /**
+   * Updates the object transform for rendering
+   *
+   * @private
+   */
+
+
+  _createClass(Mesh, [{
+    key: 'updateTransform',
+    value: function updateTransform() {
+      this.refresh();
+      this.containerUpdateTransform();
+    }
+
+    /**
+     * Renders the object using the WebGL renderer
+     *
+     * @private
+     * @param {PIXI.WebGLRenderer} renderer - a reference to the WebGL renderer
+     */
+
+  }, {
+    key: '_renderWebGL',
+    value: function _renderWebGL(renderer) {
+      renderer.setObjectRenderer(renderer.plugins[this.pluginName]);
+      renderer.plugins[this.pluginName].render(this);
+    }
+
+    /**
+     * Renders the object using the Canvas renderer
+     *
+     * @private
+     * @param {PIXI.CanvasRenderer} renderer - The canvas renderer.
+     */
+
+  }, {
+    key: '_renderCanvas',
+    value: function _renderCanvas(renderer) {
+      renderer.plugins[this.pluginName].render(this);
+    }
+
+    /**
+     * When the texture is updated, this event will fire to update the scale and frame
      *
      * @private
      */
 
+  }, {
+    key: '_onTextureUpdate',
+    value: function _onTextureUpdate() {
+      this._uvTransform.texture = this._texture;
+      this.refresh();
+    }
 
-    _createClass(Mesh, [{
-        key: 'updateTransform',
-        value: function updateTransform() {
-            this.refresh();
-            this.containerUpdateTransform();
+    /**
+     * multiplies uvs only if uploadUvTransform is false
+     * call it after you change uvs manually
+     * make sure that texture is valid
+     */
+
+  }, {
+    key: 'multiplyUvs',
+    value: function multiplyUvs() {
+      if (!this.uploadUvTransform) {
+        this._uvTransform.multiplyUvs(this.uvs);
+      }
+    }
+
+    /**
+     * Refreshes uvs for generated meshes (rope, plane)
+     * sometimes refreshes vertices too
+     *
+     * @param {boolean} [forceUpdate=false] if true, matrices will be updated any case
+     */
+
+  }, {
+    key: 'refresh',
+    value: function refresh(forceUpdate) {
+      if (this._uvTransform.update(forceUpdate)) {
+        this._refreshUvs();
+      }
+    }
+
+    /**
+     * re-calculates mesh coords
+     * @protected
+     */
+
+  }, {
+    key: '_refreshUvs',
+    value: function _refreshUvs() {}
+    /* empty */
+
+
+    /**
+     * Returns the bounds of the mesh as a rectangle. The bounds calculation takes the worldTransform into account.
+     *
+     */
+
+  }, {
+    key: '_calculateBounds',
+    value: function _calculateBounds() {
+      // TODO - we can cache local bounds and use them if they are dirty (like graphics)
+      this._bounds.addVertices(this.transform, this.vertices, 0, this.vertices.length);
+    }
+
+    /**
+     * Tests if a point is inside this mesh. Works only for TRIANGLE_MESH
+     *
+     * @param {PIXI.Point} point - the point to test
+     * @return {boolean} the result of the test
+     */
+
+  }, {
+    key: 'containsPoint',
+    value: function containsPoint(point) {
+      if (!this.getBounds().contains(point.x, point.y)) {
+        return false;
+      }
+
+      this.worldTransform.applyInverse(point, tempPoint);
+
+      var vertices = this.vertices;
+      var points = tempPolygon.points;
+      var indices = this.indices;
+      var len = this.indices.length;
+      var step = this.drawMode === Mesh.DRAW_MODES.TRIANGLES ? 3 : 1;
+
+      for (var i = 0; i + 2 < len; i += step) {
+        var ind0 = indices[i] * 2;
+        var ind1 = indices[i + 1] * 2;
+        var ind2 = indices[i + 2] * 2;
+
+        points[0] = vertices[ind0];
+        points[1] = vertices[ind0 + 1];
+        points[2] = vertices[ind1];
+        points[3] = vertices[ind1 + 1];
+        points[4] = vertices[ind2];
+        points[5] = vertices[ind2 + 1];
+
+        if (tempPolygon.contains(tempPoint.x, tempPoint.y)) {
+          return true;
         }
+      }
 
-        /**
-         * Renders the object using the WebGL renderer
-         *
-         * @private
-         * @param {PIXI.WebGLRenderer} renderer - a reference to the WebGL renderer
-         */
+      return false;
+    }
 
-    }, {
-        key: '_renderWebGL',
-        value: function _renderWebGL(renderer) {
-            renderer.setObjectRenderer(renderer.plugins[this.pluginName]);
-            renderer.plugins[this.pluginName].render(this);
+    /**
+     * The texture that the mesh uses.
+     *
+     * @member {PIXI.Texture}
+     */
+
+  }, {
+    key: 'texture',
+    get: function get() {
+      return this._texture;
+    },
+    set: function set(value) // eslint-disable-line require-jsdoc
+    {
+      if (this._texture === value) {
+        return;
+      }
+
+      this._texture = value;
+
+      if (value) {
+        // wait for the texture to load
+        if (value.baseTexture.hasLoaded) {
+          this._onTextureUpdate();
+        } else {
+          value.once('update', this._onTextureUpdate, this);
         }
+      }
+    }
 
-        /**
-         * Renders the object using the Canvas renderer
-         *
-         * @private
-         * @param {PIXI.CanvasRenderer} renderer - The canvas renderer.
-         */
+    /**
+     * The tint applied to the mesh. This is a hex value. A value of 0xFFFFFF will remove any tint effect.
+     *
+     * @member {number}
+     * @default 0xFFFFFF
+     */
 
-    }, {
-        key: '_renderCanvas',
-        value: function _renderCanvas(renderer) {
-            renderer.plugins[this.pluginName].render(this);
-        }
+  }, {
+    key: 'tint',
+    get: function get() {
+      return core.utils.rgb2hex(this.tintRgb);
+    },
+    set: function set(value) // eslint-disable-line require-jsdoc
+    {
+      this.tintRgb = core.utils.hex2rgb(value, this.tintRgb);
+    }
+  }]);
 
-        /**
-         * When the texture is updated, this event will fire to update the scale and frame
-         *
-         * @private
-         */
-
-    }, {
-        key: '_onTextureUpdate',
-        value: function _onTextureUpdate() {
-            this._uvTransform.texture = this._texture;
-            this.refresh();
-        }
-
-        /**
-         * multiplies uvs only if uploadUvTransform is false
-         * call it after you change uvs manually
-         * make sure that texture is valid
-         */
-
-    }, {
-        key: 'multiplyUvs',
-        value: function multiplyUvs() {
-            if (!this.uploadUvTransform) {
-                this._uvTransform.multiplyUvs(this.uvs);
-            }
-        }
-
-        /**
-         * Refreshes uvs for generated meshes (rope, plane)
-         * sometimes refreshes vertices too
-         *
-         * @param {boolean} [forceUpdate=false] if true, matrices will be updated any case
-         */
-
-    }, {
-        key: 'refresh',
-        value: function refresh(forceUpdate) {
-            if (this.autoUpdate) {
-                this.vertexDirty++;
-            }
-            if (this._uvTransform.update(forceUpdate)) {
-                this._refreshUvs();
-            }
-        }
-
-        /**
-         * re-calculates mesh coords
-         * @protected
-         */
-
-    }, {
-        key: '_refreshUvs',
-        value: function _refreshUvs() {}
-        /* empty */
-
-
-        /**
-         * Returns the bounds of the mesh as a rectangle. The bounds calculation takes the worldTransform into account.
-         *
-         */
-
-    }, {
-        key: '_calculateBounds',
-        value: function _calculateBounds() {
-            // TODO - we can cache local bounds and use them if they are dirty (like graphics)
-            this._bounds.addVertices(this.transform, this.vertices, 0, this.vertices.length);
-        }
-
-        /**
-         * Tests if a point is inside this mesh. Works only for TRIANGLE_MESH
-         *
-         * @param {PIXI.Point} point - the point to test
-         * @return {boolean} the result of the test
-         */
-
-    }, {
-        key: 'containsPoint',
-        value: function containsPoint(point) {
-            if (!this.getBounds().contains(point.x, point.y)) {
-                return false;
-            }
-
-            this.worldTransform.applyInverse(point, tempPoint);
-
-            var vertices = this.vertices;
-            var points = tempPolygon.points;
-            var indices = this.indices;
-            var len = this.indices.length;
-            var step = this.drawMode === Mesh.DRAW_MODES.TRIANGLES ? 3 : 1;
-
-            for (var i = 0; i + 2 < len; i += step) {
-                var ind0 = indices[i] * 2;
-                var ind1 = indices[i + 1] * 2;
-                var ind2 = indices[i + 2] * 2;
-
-                points[0] = vertices[ind0];
-                points[1] = vertices[ind0 + 1];
-                points[2] = vertices[ind1];
-                points[3] = vertices[ind1 + 1];
-                points[4] = vertices[ind2];
-                points[5] = vertices[ind2 + 1];
-
-                if (tempPolygon.contains(tempPoint.x, tempPoint.y)) {
-                    return true;
-                }
-            }
-
-            return false;
-        }
-
-        /**
-         * The texture that the mesh uses.
-         *
-         * @member {PIXI.Texture}
-         */
-
-    }, {
-        key: 'destroy',
-
-
-        /**
-         * Destroys the Mesh object.
-         *
-         * @param {object|boolean} [options] - Options parameter. A boolean will act as if all
-         *  options have been set to that value
-         * @param {boolean} [options.children=false] - if set to true, all the children will have
-         *  their destroy method called as well. 'options' will be passed on to those calls.
-         * @param {boolean} [options.texture=false] - Only used for child Sprites if options.children is set to true
-         *  Should it destroy the texture of the child sprite
-         * @param {boolean} [options.baseTexture=false] - Only used for child Sprites if options.children is set to true
-         *  Should it destroy the base texture of the child sprite
-         */
-        value: function destroy(options) {
-            // for each webgl data entry, destroy the WebGLGraphicsData
-            for (var id in this._glDatas) {
-                var data = this._glDatas[id];
-
-                if (data.destroy) {
-                    data.destroy();
-                } else {
-                    if (data.vertexBuffer) {
-                        data.vertexBuffer.destroy();
-                        data.vertexBuffer = null;
-                    }
-                    if (data.indexBuffer) {
-                        data.indexBuffer.destroy();
-                        data.indexBuffer = null;
-                    }
-                    if (data.uvBuffer) {
-                        data.uvBuffer.destroy();
-                        data.uvBuffer = null;
-                    }
-                    if (data.vao) {
-                        data.vao.destroy();
-                        data.vao = null;
-                    }
-                }
-            }
-
-            this._glDatas = null;
-
-            _get(Mesh.prototype.__proto__ || Object.getPrototypeOf(Mesh.prototype), 'destroy', this).call(this, options);
-        }
-    }, {
-        key: 'texture',
-        get: function get() {
-            return this._texture;
-        },
-        set: function set(value) // eslint-disable-line require-jsdoc
-        {
-            if (this._texture === value) {
-                return;
-            }
-
-            this._texture = value;
-
-            if (value) {
-                // wait for the texture to load
-                if (value.baseTexture.hasLoaded) {
-                    this._onTextureUpdate();
-                } else {
-                    value.once('update', this._onTextureUpdate, this);
-                }
-            }
-        }
-
-        /**
-         * The tint applied to the mesh. This is a hex value. A value of 0xFFFFFF will remove any tint effect.
-         *
-         * @member {number}
-         * @default 0xFFFFFF
-         */
-
-    }, {
-        key: 'tint',
-        get: function get() {
-            return core.utils.rgb2hex(this.tintRgb);
-        },
-        set: function set(value) // eslint-disable-line require-jsdoc
-        {
-            this.tintRgb = core.utils.hex2rgb(value, this.tintRgb);
-        }
-    }]);
-
-    return Mesh;
+  return Mesh;
 }(core.Container);
 
 /**
@@ -8005,8 +7912,8 @@ var Mesh = function (_core$Container) {
 
 exports.default = Mesh;
 Mesh.DRAW_MODES = {
-    TRIANGLE_MESH: 0,
-    TRIANGLES: 1
+  TRIANGLE_MESH: 0,
+  TRIANGLES: 1
 };
 
 /***/ }),
@@ -8228,11 +8135,11 @@ var _pixiGlCore2 = _interopRequireDefault(_pixiGlCore);
 
 var _math = __webpack_require__(5);
 
-var _Texture = __webpack_require__(6);
+var _Texture = __webpack_require__(7);
 
 var _Texture2 = _interopRequireDefault(_Texture);
 
-var _DisplayObject2 = __webpack_require__(38);
+var _DisplayObject2 = __webpack_require__(39);
 
 var _DisplayObject3 = _interopRequireDefault(_DisplayObject2);
 
@@ -8776,14 +8683,105 @@ exports.default = ShaderParticle;
 Object.defineProperty(exports, "__esModule", {
     value: true
 });
+
+var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
+
+function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
+
+var _events = new WeakMap();
+
+var EventTarget = function () {
+    function EventTarget() {
+        _classCallCheck(this, EventTarget);
+
+        _events.set(this, {});
+    }
+
+    _createClass(EventTarget, [{
+        key: "addEventListener",
+        value: function addEventListener(type, listener) {
+            var options = arguments.length > 2 && arguments[2] !== undefined ? arguments[2] : {};
+
+            var events = _events.get(this);
+
+            if (!events) {
+                events = {};
+                _events.set(this, events);
+            }
+            if (!events[type]) {
+                events[type] = [];
+            }
+            events[type].push(listener);
+
+            if (options.capture) {
+                // console.warn('EventTarget.addEventListener: options.capture is not implemented.')
+            }
+            if (options.once) {
+                // console.warn('EventTarget.addEventListener: options.once is not implemented.')
+            }
+            if (options.passive) {
+                // console.warn('EventTarget.addEventListener: options.passive is not implemented.')
+            }
+        }
+    }, {
+        key: "removeEventListener",
+        value: function removeEventListener(type, listener) {
+            var listeners = _events.get(this)[type];
+
+            if (listeners && listeners.length > 0) {
+                for (var i = listeners.length; i--; i > 0) {
+                    if (listeners[i] === listener) {
+                        listeners.splice(i, 1);
+                        break;
+                    }
+                }
+            }
+        }
+    }, {
+        key: "dispatchEvent",
+        value: function dispatchEvent() {
+            var event = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : {};
+
+            var listeners = _events.get(this)[event.type];
+
+            if (listeners) {
+                for (var i = 0; i < listeners.length; i++) {
+                    listeners[i](event);
+                }
+            }
+        }
+    }]);
+
+    return EventTarget;
+}();
+
+exports.default = EventTarget;
+
+/***/ }),
+/* 32 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+    value: true
+});
 exports.parentNode = parentNode;
 exports.style = style;
 exports.clientRegion = clientRegion;
 exports.offsetRegion = offsetRegion;
 exports.scrollRegion = scrollRegion;
 exports.classList = classList;
+exports.eventTarget = eventTarget;
 
-var _WindowProperties = __webpack_require__(61);
+var _WindowProperties = __webpack_require__(60);
+
+var _EventTarget = __webpack_require__(31);
+
+var _EventTarget2 = _interopRequireDefault(_EventTarget);
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 function parentNode(obj, level) {
     if (!('parentNode' in obj)) {
@@ -8906,8 +8904,26 @@ function classList(obj) {
     obj.classList.toggle = noop;
 }
 
+function eventTarget(obj) {
+    if (!('eventTarget' in obj)) {
+        obj.eventTarget = new _EventTarget2.default();
+    }
+
+    if (!('addEventListener' in obj)) {
+        obj.addEventListener = obj.eventTarget.addEventListener;
+    }
+
+    if (!('removeEventListener' in obj)) {
+        obj.removeEventListener = obj.eventTarget.removeEventListener;
+    }
+
+    if (!('dispatchEvent' in obj)) {
+        obj.dispatchEvent = obj.eventTarget.dispatchEvent;
+    }
+}
+
 /***/ }),
-/* 32 */
+/* 33 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -8966,7 +8982,7 @@ var HTMLMediaElement = function (_HTMLElement) {
 exports.default = HTMLMediaElement;
 
 /***/ }),
-/* 33 */
+/* 34 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -8977,7 +8993,7 @@ Object.defineProperty(exports, "__esModule", {
 });
 exports.default = Canvas;
 
-var _mixin = __webpack_require__(31);
+var _mixin = __webpack_require__(32);
 
 var Mixin = _interopRequireWildcard(_mixin);
 
@@ -9035,7 +9051,7 @@ function Canvas() {
 }
 
 /***/ }),
-/* 34 */
+/* 35 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -9638,7 +9654,7 @@ var style = {
 exports.default = style;
 
 /***/ }),
-/* 35 */
+/* 36 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -9654,8 +9670,6 @@ var _Point = __webpack_require__(21);
 
 var _Point2 = _interopRequireDefault(_Point);
 
-var _const = __webpack_require__(1);
-
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
@@ -9663,8 +9677,8 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 /**
  * The PixiJS Matrix class as an object, which makes it a lot faster,
  * here is a representation of it :
- * | a | c | tx|
- * | b | d | ty|
+ * | a | b | tx|
+ * | c | d | ty|
  * | 0 | 0 | 1 |
  *
  * @class
@@ -9673,8 +9687,8 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 var Matrix = function () {
     /**
      * @param {number} [a=1] - x scale
-     * @param {number} [b=0] - x skew
-     * @param {number} [c=0] - y skew
+     * @param {number} [b=0] - y skew
+     * @param {number} [c=0] - x skew
      * @param {number} [d=1] - y scale
      * @param {number} [tx=0] - x translation
      * @param {number} [ty=0] - y translation
@@ -9978,13 +9992,25 @@ var Matrix = function () {
     }, {
         key: 'setTransform',
         value: function setTransform(x, y, pivotX, pivotY, scaleX, scaleY, rotation, skewX, skewY) {
-            this.a = Math.cos(rotation + skewY) * scaleX;
-            this.b = Math.sin(rotation + skewY) * scaleX;
-            this.c = -Math.sin(rotation - skewX) * scaleY;
-            this.d = Math.cos(rotation - skewX) * scaleY;
+            var sr = Math.sin(rotation);
+            var cr = Math.cos(rotation);
+            var cy = Math.cos(skewY);
+            var sy = Math.sin(skewY);
+            var nsx = -Math.sin(skewX);
+            var cx = Math.cos(skewX);
 
-            this.tx = x - (pivotX * this.a + pivotY * this.c);
-            this.ty = y - (pivotX * this.b + pivotY * this.d);
+            var a = cr * scaleX;
+            var b = sr * scaleX;
+            var c = -sr * scaleY;
+            var d = cr * scaleY;
+
+            this.a = cy * a + sy * c;
+            this.b = cy * b + sy * d;
+            this.c = nsx * a + cx * c;
+            this.d = nsx * b + cx * d;
+
+            this.tx = x + (pivotX * a + pivotY * c);
+            this.ty = y + (pivotX * b + pivotY * d);
 
             return this;
         }
@@ -10038,7 +10064,7 @@ var Matrix = function () {
 
             var delta = Math.abs(skewX + skewY);
 
-            if (delta < 0.00001 || Math.abs(_const.PI_2 - delta) < 0.00001) {
+            if (delta < 0.00001) {
                 transform.rotation = skewY;
 
                 if (a < 0 && d >= 0) {
@@ -10047,7 +10073,6 @@ var Matrix = function () {
 
                 transform.skew.x = transform.skew.y = 0;
             } else {
-                transform.rotation = 0;
                 transform.skew.x = skewX;
                 transform.skew.y = skewY;
             }
@@ -10182,7 +10207,7 @@ var Matrix = function () {
 exports.default = Matrix;
 
 /***/ }),
-/* 36 */
+/* 37 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -10321,7 +10346,7 @@ var Rectangle = function () {
          * Pads the rectangle making it grow in all directions.
          *
          * @param {number} paddingX - The horizontal padding amount.
-         * @param {number} [paddingY] - The vertical padding amount.
+         * @param {number} paddingY - The vertical padding amount.
          */
 
     }, {
@@ -10459,7 +10484,7 @@ var Rectangle = function () {
 exports.default = Rectangle;
 
 /***/ }),
-/* 37 */
+/* 38 */
 /***/ (function(module, exports) {
 
 
@@ -10511,7 +10536,7 @@ module.exports = mapType;
 
 
 /***/ }),
-/* 38 */
+/* 39 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -10533,11 +10558,11 @@ var _settings = __webpack_require__(3);
 
 var _settings2 = _interopRequireDefault(_settings);
 
-var _TransformStatic = __webpack_require__(78);
+var _TransformStatic = __webpack_require__(77);
 
 var _TransformStatic2 = _interopRequireDefault(_TransformStatic);
 
-var _Transform = __webpack_require__(79);
+var _Transform = __webpack_require__(78);
 
 var _Transform2 = _interopRequireDefault(_Transform);
 
@@ -10642,15 +10667,7 @@ var DisplayObject = function (_EventEmitter) {
          */
         _this.filterArea = null;
 
-        /**
-         * Sets the filters for the displayObject.
-         * * IMPORTANT: This is a webGL only feature and will be ignored by the canvas renderer.
-         * To remove filters simply set this property to 'null'
-         *
-         * @member {PIXI.Filter[]}
-         */
-        _this.filters = null;
-
+        _this._filters = null;
         _this._enabledFilters = null;
 
         /**
@@ -11192,15 +11209,31 @@ var DisplayObject = function (_EventEmitter) {
         {
             if (this._mask) {
                 this._mask.renderable = true;
-                this._mask.isMask = false;
             }
 
             this._mask = value;
 
             if (this._mask) {
                 this._mask.renderable = false;
-                this._mask.isMask = true;
             }
+        }
+
+        /**
+         * Sets the filters for the displayObject.
+         * * IMPORTANT: This is a webGL only feature and will be ignored by the canvas renderer.
+         * To remove filters simply set this property to 'null'
+         *
+         * @member {PIXI.Filter[]}
+         */
+
+    }, {
+        key: 'filters',
+        get: function get() {
+            return this._filters; // && this._filters.slice();
+        },
+        set: function set(value) // eslint-disable-line require-jsdoc
+        {
+            this._filters = value; // && value.slice();
         }
     }]);
 
@@ -11214,7 +11247,7 @@ exports.default = DisplayObject;
 DisplayObject.prototype.displayObjectUpdateTransform = DisplayObject.prototype.updateTransform;
 
 /***/ }),
-/* 39 */
+/* 40 */
 /***/ (function(module, exports, __webpack_require__) {
 
 var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_DEFINE_RESULT__;/**
@@ -11360,7 +11393,7 @@ var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_
 
 
 /***/ }),
-/* 40 */
+/* 41 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -11459,663 +11492,6 @@ TransformBase.prototype.updateWorldTransform = TransformBase.prototype.updateTra
 TransformBase.IDENTITY = new TransformBase();
 
 /***/ }),
-/* 41 */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
-
-module.exports = earcut;
-module.exports.default = earcut;
-
-function earcut(data, holeIndices, dim) {
-
-    dim = dim || 2;
-
-    var hasHoles = holeIndices && holeIndices.length,
-        outerLen = hasHoles ? holeIndices[0] * dim : data.length,
-        outerNode = linkedList(data, 0, outerLen, dim, true),
-        triangles = [];
-
-    if (!outerNode) return triangles;
-
-    var minX, minY, maxX, maxY, x, y, invSize;
-
-    if (hasHoles) outerNode = eliminateHoles(data, holeIndices, outerNode, dim);
-
-    // if the shape is not too simple, we'll use z-order curve hash later; calculate polygon bbox
-    if (data.length > 80 * dim) {
-        minX = maxX = data[0];
-        minY = maxY = data[1];
-
-        for (var i = dim; i < outerLen; i += dim) {
-            x = data[i];
-            y = data[i + 1];
-            if (x < minX) minX = x;
-            if (y < minY) minY = y;
-            if (x > maxX) maxX = x;
-            if (y > maxY) maxY = y;
-        }
-
-        // minX, minY and invSize are later used to transform coords into integers for z-order calculation
-        invSize = Math.max(maxX - minX, maxY - minY);
-        invSize = invSize !== 0 ? 1 / invSize : 0;
-    }
-
-    earcutLinked(outerNode, triangles, dim, minX, minY, invSize);
-
-    return triangles;
-}
-
-// create a circular doubly linked list from polygon points in the specified winding order
-function linkedList(data, start, end, dim, clockwise) {
-    var i, last;
-
-    if (clockwise === (signedArea(data, start, end, dim) > 0)) {
-        for (i = start; i < end; i += dim) last = insertNode(i, data[i], data[i + 1], last);
-    } else {
-        for (i = end - dim; i >= start; i -= dim) last = insertNode(i, data[i], data[i + 1], last);
-    }
-
-    if (last && equals(last, last.next)) {
-        removeNode(last);
-        last = last.next;
-    }
-
-    return last;
-}
-
-// eliminate colinear or duplicate points
-function filterPoints(start, end) {
-    if (!start) return start;
-    if (!end) end = start;
-
-    var p = start,
-        again;
-    do {
-        again = false;
-
-        if (!p.steiner && (equals(p, p.next) || area(p.prev, p, p.next) === 0)) {
-            removeNode(p);
-            p = end = p.prev;
-            if (p === p.next) break;
-            again = true;
-
-        } else {
-            p = p.next;
-        }
-    } while (again || p !== end);
-
-    return end;
-}
-
-// main ear slicing loop which triangulates a polygon (given as a linked list)
-function earcutLinked(ear, triangles, dim, minX, minY, invSize, pass) {
-    if (!ear) return;
-
-    // interlink polygon nodes in z-order
-    if (!pass && invSize) indexCurve(ear, minX, minY, invSize);
-
-    var stop = ear,
-        prev, next;
-
-    // iterate through ears, slicing them one by one
-    while (ear.prev !== ear.next) {
-        prev = ear.prev;
-        next = ear.next;
-
-        if (invSize ? isEarHashed(ear, minX, minY, invSize) : isEar(ear)) {
-            // cut off the triangle
-            triangles.push(prev.i / dim);
-            triangles.push(ear.i / dim);
-            triangles.push(next.i / dim);
-
-            removeNode(ear);
-
-            // skipping the next vertice leads to less sliver triangles
-            ear = next.next;
-            stop = next.next;
-
-            continue;
-        }
-
-        ear = next;
-
-        // if we looped through the whole remaining polygon and can't find any more ears
-        if (ear === stop) {
-            // try filtering points and slicing again
-            if (!pass) {
-                earcutLinked(filterPoints(ear), triangles, dim, minX, minY, invSize, 1);
-
-            // if this didn't work, try curing all small self-intersections locally
-            } else if (pass === 1) {
-                ear = cureLocalIntersections(ear, triangles, dim);
-                earcutLinked(ear, triangles, dim, minX, minY, invSize, 2);
-
-            // as a last resort, try splitting the remaining polygon into two
-            } else if (pass === 2) {
-                splitEarcut(ear, triangles, dim, minX, minY, invSize);
-            }
-
-            break;
-        }
-    }
-}
-
-// check whether a polygon node forms a valid ear with adjacent nodes
-function isEar(ear) {
-    var a = ear.prev,
-        b = ear,
-        c = ear.next;
-
-    if (area(a, b, c) >= 0) return false; // reflex, can't be an ear
-
-    // now make sure we don't have other points inside the potential ear
-    var p = ear.next.next;
-
-    while (p !== ear.prev) {
-        if (pointInTriangle(a.x, a.y, b.x, b.y, c.x, c.y, p.x, p.y) &&
-            area(p.prev, p, p.next) >= 0) return false;
-        p = p.next;
-    }
-
-    return true;
-}
-
-function isEarHashed(ear, minX, minY, invSize) {
-    var a = ear.prev,
-        b = ear,
-        c = ear.next;
-
-    if (area(a, b, c) >= 0) return false; // reflex, can't be an ear
-
-    // triangle bbox; min & max are calculated like this for speed
-    var minTX = a.x < b.x ? (a.x < c.x ? a.x : c.x) : (b.x < c.x ? b.x : c.x),
-        minTY = a.y < b.y ? (a.y < c.y ? a.y : c.y) : (b.y < c.y ? b.y : c.y),
-        maxTX = a.x > b.x ? (a.x > c.x ? a.x : c.x) : (b.x > c.x ? b.x : c.x),
-        maxTY = a.y > b.y ? (a.y > c.y ? a.y : c.y) : (b.y > c.y ? b.y : c.y);
-
-    // z-order range for the current triangle bbox;
-    var minZ = zOrder(minTX, minTY, minX, minY, invSize),
-        maxZ = zOrder(maxTX, maxTY, minX, minY, invSize);
-
-    var p = ear.prevZ,
-        n = ear.nextZ;
-
-    // look for points inside the triangle in both directions
-    while (p && p.z >= minZ && n && n.z <= maxZ) {
-        if (p !== ear.prev && p !== ear.next &&
-            pointInTriangle(a.x, a.y, b.x, b.y, c.x, c.y, p.x, p.y) &&
-            area(p.prev, p, p.next) >= 0) return false;
-        p = p.prevZ;
-
-        if (n !== ear.prev && n !== ear.next &&
-            pointInTriangle(a.x, a.y, b.x, b.y, c.x, c.y, n.x, n.y) &&
-            area(n.prev, n, n.next) >= 0) return false;
-        n = n.nextZ;
-    }
-
-    // look for remaining points in decreasing z-order
-    while (p && p.z >= minZ) {
-        if (p !== ear.prev && p !== ear.next &&
-            pointInTriangle(a.x, a.y, b.x, b.y, c.x, c.y, p.x, p.y) &&
-            area(p.prev, p, p.next) >= 0) return false;
-        p = p.prevZ;
-    }
-
-    // look for remaining points in increasing z-order
-    while (n && n.z <= maxZ) {
-        if (n !== ear.prev && n !== ear.next &&
-            pointInTriangle(a.x, a.y, b.x, b.y, c.x, c.y, n.x, n.y) &&
-            area(n.prev, n, n.next) >= 0) return false;
-        n = n.nextZ;
-    }
-
-    return true;
-}
-
-// go through all polygon nodes and cure small local self-intersections
-function cureLocalIntersections(start, triangles, dim) {
-    var p = start;
-    do {
-        var a = p.prev,
-            b = p.next.next;
-
-        if (!equals(a, b) && intersects(a, p, p.next, b) && locallyInside(a, b) && locallyInside(b, a)) {
-
-            triangles.push(a.i / dim);
-            triangles.push(p.i / dim);
-            triangles.push(b.i / dim);
-
-            // remove two nodes involved
-            removeNode(p);
-            removeNode(p.next);
-
-            p = start = b;
-        }
-        p = p.next;
-    } while (p !== start);
-
-    return p;
-}
-
-// try splitting polygon into two and triangulate them independently
-function splitEarcut(start, triangles, dim, minX, minY, invSize) {
-    // look for a valid diagonal that divides the polygon into two
-    var a = start;
-    do {
-        var b = a.next.next;
-        while (b !== a.prev) {
-            if (a.i !== b.i && isValidDiagonal(a, b)) {
-                // split the polygon in two by the diagonal
-                var c = splitPolygon(a, b);
-
-                // filter colinear points around the cuts
-                a = filterPoints(a, a.next);
-                c = filterPoints(c, c.next);
-
-                // run earcut on each half
-                earcutLinked(a, triangles, dim, minX, minY, invSize);
-                earcutLinked(c, triangles, dim, minX, minY, invSize);
-                return;
-            }
-            b = b.next;
-        }
-        a = a.next;
-    } while (a !== start);
-}
-
-// link every hole into the outer loop, producing a single-ring polygon without holes
-function eliminateHoles(data, holeIndices, outerNode, dim) {
-    var queue = [],
-        i, len, start, end, list;
-
-    for (i = 0, len = holeIndices.length; i < len; i++) {
-        start = holeIndices[i] * dim;
-        end = i < len - 1 ? holeIndices[i + 1] * dim : data.length;
-        list = linkedList(data, start, end, dim, false);
-        if (list === list.next) list.steiner = true;
-        queue.push(getLeftmost(list));
-    }
-
-    queue.sort(compareX);
-
-    // process holes from left to right
-    for (i = 0; i < queue.length; i++) {
-        eliminateHole(queue[i], outerNode);
-        outerNode = filterPoints(outerNode, outerNode.next);
-    }
-
-    return outerNode;
-}
-
-function compareX(a, b) {
-    return a.x - b.x;
-}
-
-// find a bridge between vertices that connects hole with an outer ring and and link it
-function eliminateHole(hole, outerNode) {
-    outerNode = findHoleBridge(hole, outerNode);
-    if (outerNode) {
-        var b = splitPolygon(outerNode, hole);
-        filterPoints(b, b.next);
-    }
-}
-
-// David Eberly's algorithm for finding a bridge between hole and outer polygon
-function findHoleBridge(hole, outerNode) {
-    var p = outerNode,
-        hx = hole.x,
-        hy = hole.y,
-        qx = -Infinity,
-        m;
-
-    // find a segment intersected by a ray from the hole's leftmost point to the left;
-    // segment's endpoint with lesser x will be potential connection point
-    do {
-        if (hy <= p.y && hy >= p.next.y && p.next.y !== p.y) {
-            var x = p.x + (hy - p.y) * (p.next.x - p.x) / (p.next.y - p.y);
-            if (x <= hx && x > qx) {
-                qx = x;
-                if (x === hx) {
-                    if (hy === p.y) return p;
-                    if (hy === p.next.y) return p.next;
-                }
-                m = p.x < p.next.x ? p : p.next;
-            }
-        }
-        p = p.next;
-    } while (p !== outerNode);
-
-    if (!m) return null;
-
-    if (hx === qx) return m.prev; // hole touches outer segment; pick lower endpoint
-
-    // look for points inside the triangle of hole point, segment intersection and endpoint;
-    // if there are no points found, we have a valid connection;
-    // otherwise choose the point of the minimum angle with the ray as connection point
-
-    var stop = m,
-        mx = m.x,
-        my = m.y,
-        tanMin = Infinity,
-        tan;
-
-    p = m.next;
-
-    while (p !== stop) {
-        if (hx >= p.x && p.x >= mx && hx !== p.x &&
-                pointInTriangle(hy < my ? hx : qx, hy, mx, my, hy < my ? qx : hx, hy, p.x, p.y)) {
-
-            tan = Math.abs(hy - p.y) / (hx - p.x); // tangential
-
-            if ((tan < tanMin || (tan === tanMin && p.x > m.x)) && locallyInside(p, hole)) {
-                m = p;
-                tanMin = tan;
-            }
-        }
-
-        p = p.next;
-    }
-
-    return m;
-}
-
-// interlink polygon nodes in z-order
-function indexCurve(start, minX, minY, invSize) {
-    var p = start;
-    do {
-        if (p.z === null) p.z = zOrder(p.x, p.y, minX, minY, invSize);
-        p.prevZ = p.prev;
-        p.nextZ = p.next;
-        p = p.next;
-    } while (p !== start);
-
-    p.prevZ.nextZ = null;
-    p.prevZ = null;
-
-    sortLinked(p);
-}
-
-// Simon Tatham's linked list merge sort algorithm
-// http://www.chiark.greenend.org.uk/~sgtatham/algorithms/listsort.html
-function sortLinked(list) {
-    var i, p, q, e, tail, numMerges, pSize, qSize,
-        inSize = 1;
-
-    do {
-        p = list;
-        list = null;
-        tail = null;
-        numMerges = 0;
-
-        while (p) {
-            numMerges++;
-            q = p;
-            pSize = 0;
-            for (i = 0; i < inSize; i++) {
-                pSize++;
-                q = q.nextZ;
-                if (!q) break;
-            }
-            qSize = inSize;
-
-            while (pSize > 0 || (qSize > 0 && q)) {
-
-                if (pSize !== 0 && (qSize === 0 || !q || p.z <= q.z)) {
-                    e = p;
-                    p = p.nextZ;
-                    pSize--;
-                } else {
-                    e = q;
-                    q = q.nextZ;
-                    qSize--;
-                }
-
-                if (tail) tail.nextZ = e;
-                else list = e;
-
-                e.prevZ = tail;
-                tail = e;
-            }
-
-            p = q;
-        }
-
-        tail.nextZ = null;
-        inSize *= 2;
-
-    } while (numMerges > 1);
-
-    return list;
-}
-
-// z-order of a point given coords and inverse of the longer side of data bbox
-function zOrder(x, y, minX, minY, invSize) {
-    // coords are transformed into non-negative 15-bit integer range
-    x = 32767 * (x - minX) * invSize;
-    y = 32767 * (y - minY) * invSize;
-
-    x = (x | (x << 8)) & 0x00FF00FF;
-    x = (x | (x << 4)) & 0x0F0F0F0F;
-    x = (x | (x << 2)) & 0x33333333;
-    x = (x | (x << 1)) & 0x55555555;
-
-    y = (y | (y << 8)) & 0x00FF00FF;
-    y = (y | (y << 4)) & 0x0F0F0F0F;
-    y = (y | (y << 2)) & 0x33333333;
-    y = (y | (y << 1)) & 0x55555555;
-
-    return x | (y << 1);
-}
-
-// find the leftmost node of a polygon ring
-function getLeftmost(start) {
-    var p = start,
-        leftmost = start;
-    do {
-        if (p.x < leftmost.x) leftmost = p;
-        p = p.next;
-    } while (p !== start);
-
-    return leftmost;
-}
-
-// check if a point lies within a convex triangle
-function pointInTriangle(ax, ay, bx, by, cx, cy, px, py) {
-    return (cx - px) * (ay - py) - (ax - px) * (cy - py) >= 0 &&
-           (ax - px) * (by - py) - (bx - px) * (ay - py) >= 0 &&
-           (bx - px) * (cy - py) - (cx - px) * (by - py) >= 0;
-}
-
-// check if a diagonal between two polygon nodes is valid (lies in polygon interior)
-function isValidDiagonal(a, b) {
-    return a.next.i !== b.i && a.prev.i !== b.i && !intersectsPolygon(a, b) &&
-           locallyInside(a, b) && locallyInside(b, a) && middleInside(a, b);
-}
-
-// signed area of a triangle
-function area(p, q, r) {
-    return (q.y - p.y) * (r.x - q.x) - (q.x - p.x) * (r.y - q.y);
-}
-
-// check if two points are equal
-function equals(p1, p2) {
-    return p1.x === p2.x && p1.y === p2.y;
-}
-
-// check if two segments intersect
-function intersects(p1, q1, p2, q2) {
-    if ((equals(p1, q1) && equals(p2, q2)) ||
-        (equals(p1, q2) && equals(p2, q1))) return true;
-    return area(p1, q1, p2) > 0 !== area(p1, q1, q2) > 0 &&
-           area(p2, q2, p1) > 0 !== area(p2, q2, q1) > 0;
-}
-
-// check if a polygon diagonal intersects any polygon segments
-function intersectsPolygon(a, b) {
-    var p = a;
-    do {
-        if (p.i !== a.i && p.next.i !== a.i && p.i !== b.i && p.next.i !== b.i &&
-                intersects(p, p.next, a, b)) return true;
-        p = p.next;
-    } while (p !== a);
-
-    return false;
-}
-
-// check if a polygon diagonal is locally inside the polygon
-function locallyInside(a, b) {
-    return area(a.prev, a, a.next) < 0 ?
-        area(a, b, a.next) >= 0 && area(a, a.prev, b) >= 0 :
-        area(a, b, a.prev) < 0 || area(a, a.next, b) < 0;
-}
-
-// check if the middle point of a polygon diagonal is inside the polygon
-function middleInside(a, b) {
-    var p = a,
-        inside = false,
-        px = (a.x + b.x) / 2,
-        py = (a.y + b.y) / 2;
-    do {
-        if (((p.y > py) !== (p.next.y > py)) && p.next.y !== p.y &&
-                (px < (p.next.x - p.x) * (py - p.y) / (p.next.y - p.y) + p.x))
-            inside = !inside;
-        p = p.next;
-    } while (p !== a);
-
-    return inside;
-}
-
-// link two polygon vertices with a bridge; if the vertices belong to the same ring, it splits polygon into two;
-// if one belongs to the outer ring and another to a hole, it merges it into a single ring
-function splitPolygon(a, b) {
-    var a2 = new Node(a.i, a.x, a.y),
-        b2 = new Node(b.i, b.x, b.y),
-        an = a.next,
-        bp = b.prev;
-
-    a.next = b;
-    b.prev = a;
-
-    a2.next = an;
-    an.prev = a2;
-
-    b2.next = a2;
-    a2.prev = b2;
-
-    bp.next = b2;
-    b2.prev = bp;
-
-    return b2;
-}
-
-// create a node and optionally link it with previous one (in a circular doubly linked list)
-function insertNode(i, x, y, last) {
-    var p = new Node(i, x, y);
-
-    if (!last) {
-        p.prev = p;
-        p.next = p;
-
-    } else {
-        p.next = last.next;
-        p.prev = last;
-        last.next.prev = p;
-        last.next = p;
-    }
-    return p;
-}
-
-function removeNode(p) {
-    p.next.prev = p.prev;
-    p.prev.next = p.next;
-
-    if (p.prevZ) p.prevZ.nextZ = p.nextZ;
-    if (p.nextZ) p.nextZ.prevZ = p.prevZ;
-}
-
-function Node(i, x, y) {
-    // vertice index in coordinates array
-    this.i = i;
-
-    // vertex coordinates
-    this.x = x;
-    this.y = y;
-
-    // previous and next vertice nodes in a polygon ring
-    this.prev = null;
-    this.next = null;
-
-    // z-order curve value
-    this.z = null;
-
-    // previous and next nodes in z-order
-    this.prevZ = null;
-    this.nextZ = null;
-
-    // indicates whether this is a steiner point
-    this.steiner = false;
-}
-
-// return a percentage difference between the polygon area and its triangulation area;
-// used to verify correctness of triangulation
-earcut.deviation = function (data, holeIndices, dim, triangles) {
-    var hasHoles = holeIndices && holeIndices.length;
-    var outerLen = hasHoles ? holeIndices[0] * dim : data.length;
-
-    var polygonArea = Math.abs(signedArea(data, 0, outerLen, dim));
-    if (hasHoles) {
-        for (var i = 0, len = holeIndices.length; i < len; i++) {
-            var start = holeIndices[i] * dim;
-            var end = i < len - 1 ? holeIndices[i + 1] * dim : data.length;
-            polygonArea -= Math.abs(signedArea(data, start, end, dim));
-        }
-    }
-
-    var trianglesArea = 0;
-    for (i = 0; i < triangles.length; i += 3) {
-        var a = triangles[i] * dim;
-        var b = triangles[i + 1] * dim;
-        var c = triangles[i + 2] * dim;
-        trianglesArea += Math.abs(
-            (data[a] - data[c]) * (data[b + 1] - data[a + 1]) -
-            (data[a] - data[b]) * (data[c + 1] - data[a + 1]));
-    }
-
-    return polygonArea === 0 && trianglesArea === 0 ? 0 :
-        Math.abs((trianglesArea - polygonArea) / polygonArea);
-};
-
-function signedArea(data, start, end, dim) {
-    var sum = 0;
-    for (var i = start, j = end - dim; i < end; i += dim) {
-        sum += (data[j] - data[i]) * (data[i + 1] + data[j + 1]);
-        j = i;
-    }
-    return sum;
-}
-
-// turn a polygon in a multi-dimensional array form (e.g. as in GeoJSON) into a form Earcut accepts
-earcut.flatten = function (data) {
-    var dim = data[0][0].length,
-        result = {vertices: [], holes: [], dimensions: dim},
-        holeIndex = 0;
-
-    for (var i = 0; i < data.length; i++) {
-        for (var j = 0; j < data[i].length; j++) {
-            for (var d = 0; d < dim; d++) result.vertices.push(data[i][j][d]);
-        }
-        if (i > 0) {
-            holeIndex += data[i - 1].length;
-            result.holes.push(holeIndex);
-        }
-    }
-    return result;
-};
-
-
-/***/ }),
 /* 42 */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -12136,7 +11512,7 @@ var _utils = __webpack_require__(2);
 
 var _const = __webpack_require__(1);
 
-var _Texture = __webpack_require__(6);
+var _Texture = __webpack_require__(7);
 
 var _Texture2 = _interopRequireDefault(_Texture);
 
@@ -12597,8 +11973,6 @@ var Sprite = function (_Container) {
         value: function destroy(options) {
             _get(Sprite.prototype.__proto__ || Object.getPrototypeOf(Sprite.prototype), 'destroy', this).call(this, options);
 
-            this._texture.off('update', this._onTextureUpdate, this);
-
             this._anchor = null;
 
             var destroyTexture = typeof options === 'boolean' ? options : options && options.texture;
@@ -12718,7 +12092,7 @@ var Sprite = function (_Container) {
                 return;
             }
 
-            this._texture = value || _Texture2.default.EMPTY;
+            this._texture = value;
             this.cachedTint = 0xFFFFFF;
 
             this._textureID = -1;
@@ -12900,7 +12274,7 @@ Object.defineProperty(exports, "__esModule", {
 });
 exports.Ticker = exports.shared = undefined;
 
-var _Ticker = __webpack_require__(172);
+var _Ticker = __webpack_require__(170);
 
 var _Ticker2 = _interopRequireDefault(_Ticker);
 
@@ -12987,11 +12361,11 @@ Object.defineProperty(exports, "__esModule", {
 
 var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
-var _BaseRenderTexture = __webpack_require__(85);
+var _BaseRenderTexture = __webpack_require__(84);
 
 var _BaseRenderTexture2 = _interopRequireDefault(_BaseRenderTexture);
 
-var _Texture2 = __webpack_require__(6);
+var _Texture2 = __webpack_require__(7);
 
 var _Texture3 = _interopRequireDefault(_Texture2);
 
@@ -13286,7 +12660,7 @@ Object.defineProperty(exports, "__esModule", {
 
 var _utils = __webpack_require__(2);
 
-var _canUseNewCanvasBlendModes = __webpack_require__(86);
+var _canUseNewCanvasBlendModes = __webpack_require__(85);
 
 var _canUseNewCanvasBlendModes2 = _interopRequireDefault(_canUseNewCanvasBlendModes);
 
@@ -15217,7 +14591,7 @@ Object.defineProperty(exports, "__esModule", {
   value: true
 });
 
-var _ParticleContainer = __webpack_require__(235);
+var _ParticleContainer = __webpack_require__(233);
 
 Object.defineProperty(exports, 'ParticleContainer', {
   enumerable: true,
@@ -15226,7 +14600,7 @@ Object.defineProperty(exports, 'ParticleContainer', {
   }
 });
 
-var _ParticleRenderer = __webpack_require__(236);
+var _ParticleRenderer = __webpack_require__(234);
 
 Object.defineProperty(exports, 'ParticleRenderer', {
   enumerable: true,
@@ -16164,7 +15538,7 @@ Object.defineProperty(exports, "__esModule", {
 });
 exports.cancelAnimationFrame = exports.requestAnimationFrame = exports.clearInterval = exports.setInterval = exports.clearTimeout = exports.setTimeout = exports.scrollBy = exports.scrollTo = exports.getComputedStyle = exports.blur = exports.focus = exports.alert = exports.canvas = exports.location = exports.localStorage = exports.MouseEvent = exports.PointerEvent = exports.TouchEvent = exports.WebGLRenderingContext = exports.HTMLVideoElement = exports.HTMLAudioElement = exports.HTMLMediaElement = exports.HTMLCanvasElement = exports.HTMLImageElement = exports.HTMLElement = exports.FileReader = exports.Audio = exports.ImageBitmap = exports.Image = exports.Worker = exports.WebSocket = exports.XMLHttpRequest = exports.navigator = undefined;
 
-var _navigator = __webpack_require__(122);
+var _navigator = __webpack_require__(121);
 
 Object.defineProperty(exports, 'navigator', {
     enumerable: true,
@@ -16173,7 +15547,7 @@ Object.defineProperty(exports, 'navigator', {
     }
 });
 
-var _XMLHttpRequest = __webpack_require__(123);
+var _XMLHttpRequest = __webpack_require__(122);
 
 Object.defineProperty(exports, 'XMLHttpRequest', {
     enumerable: true,
@@ -16182,7 +15556,7 @@ Object.defineProperty(exports, 'XMLHttpRequest', {
     }
 });
 
-var _WebSocket = __webpack_require__(124);
+var _WebSocket = __webpack_require__(123);
 
 Object.defineProperty(exports, 'WebSocket', {
     enumerable: true,
@@ -16191,7 +15565,7 @@ Object.defineProperty(exports, 'WebSocket', {
     }
 });
 
-var _Worker = __webpack_require__(125);
+var _Worker = __webpack_require__(124);
 
 Object.defineProperty(exports, 'Worker', {
     enumerable: true,
@@ -16200,7 +15574,7 @@ Object.defineProperty(exports, 'Worker', {
     }
 });
 
-var _Image = __webpack_require__(60);
+var _Image = __webpack_require__(59);
 
 Object.defineProperty(exports, 'Image', {
     enumerable: true,
@@ -16209,7 +15583,7 @@ Object.defineProperty(exports, 'Image', {
     }
 });
 
-var _ImageBitmap = __webpack_require__(129);
+var _ImageBitmap = __webpack_require__(128);
 
 Object.defineProperty(exports, 'ImageBitmap', {
     enumerable: true,
@@ -16218,7 +15592,7 @@ Object.defineProperty(exports, 'ImageBitmap', {
     }
 });
 
-var _Audio = __webpack_require__(63);
+var _Audio = __webpack_require__(62);
 
 Object.defineProperty(exports, 'Audio', {
     enumerable: true,
@@ -16227,7 +15601,7 @@ Object.defineProperty(exports, 'Audio', {
     }
 });
 
-var _FileReader = __webpack_require__(130);
+var _FileReader = __webpack_require__(129);
 
 Object.defineProperty(exports, 'FileReader', {
     enumerable: true,
@@ -16245,7 +15619,7 @@ Object.defineProperty(exports, 'HTMLElement', {
     }
 });
 
-var _HTMLImageElement = __webpack_require__(62);
+var _HTMLImageElement = __webpack_require__(61);
 
 Object.defineProperty(exports, 'HTMLImageElement', {
     enumerable: true,
@@ -16254,7 +15628,7 @@ Object.defineProperty(exports, 'HTMLImageElement', {
     }
 });
 
-var _HTMLCanvasElement = __webpack_require__(131);
+var _HTMLCanvasElement = __webpack_require__(130);
 
 Object.defineProperty(exports, 'HTMLCanvasElement', {
     enumerable: true,
@@ -16263,7 +15637,7 @@ Object.defineProperty(exports, 'HTMLCanvasElement', {
     }
 });
 
-var _HTMLMediaElement = __webpack_require__(32);
+var _HTMLMediaElement = __webpack_require__(33);
 
 Object.defineProperty(exports, 'HTMLMediaElement', {
     enumerable: true,
@@ -16272,7 +15646,7 @@ Object.defineProperty(exports, 'HTMLMediaElement', {
     }
 });
 
-var _HTMLAudioElement = __webpack_require__(64);
+var _HTMLAudioElement = __webpack_require__(63);
 
 Object.defineProperty(exports, 'HTMLAudioElement', {
     enumerable: true,
@@ -16281,7 +15655,7 @@ Object.defineProperty(exports, 'HTMLAudioElement', {
     }
 });
 
-var _HTMLVideoElement = __webpack_require__(65);
+var _HTMLVideoElement = __webpack_require__(64);
 
 Object.defineProperty(exports, 'HTMLVideoElement', {
     enumerable: true,
@@ -16290,7 +15664,7 @@ Object.defineProperty(exports, 'HTMLVideoElement', {
     }
 });
 
-var _WebGLRenderingContext = __webpack_require__(132);
+var _WebGLRenderingContext = __webpack_require__(131);
 
 Object.defineProperty(exports, 'WebGLRenderingContext', {
     enumerable: true,
@@ -16299,7 +15673,7 @@ Object.defineProperty(exports, 'WebGLRenderingContext', {
     }
 });
 
-var _index = __webpack_require__(66);
+var _index = __webpack_require__(65);
 
 Object.defineProperty(exports, 'TouchEvent', {
     enumerable: true,
@@ -16320,7 +15694,7 @@ Object.defineProperty(exports, 'MouseEvent', {
     }
 });
 
-var _localStorage = __webpack_require__(136);
+var _localStorage = __webpack_require__(135);
 
 Object.defineProperty(exports, 'localStorage', {
     enumerable: true,
@@ -16329,7 +15703,7 @@ Object.defineProperty(exports, 'localStorage', {
     }
 });
 
-var _location = __webpack_require__(137);
+var _location = __webpack_require__(136);
 
 Object.defineProperty(exports, 'location', {
     enumerable: true,
@@ -16338,7 +15712,7 @@ Object.defineProperty(exports, 'location', {
     }
 });
 
-var _WindowProperties = __webpack_require__(61);
+var _WindowProperties = __webpack_require__(60);
 
 Object.keys(_WindowProperties).forEach(function (key) {
     if (key === "default" || key === "__esModule") return;
@@ -16350,19 +15724,19 @@ Object.keys(_WindowProperties).forEach(function (key) {
     });
 });
 
-var _Canvas = __webpack_require__(33);
+var _Canvas = __webpack_require__(34);
 
 var _Canvas2 = _interopRequireDefault(_Canvas);
 
-var _CommonComputedStyle = __webpack_require__(34);
+var _CommonComputedStyle = __webpack_require__(35);
 
 var _CommonComputedStyle2 = _interopRequireDefault(_CommonComputedStyle);
 
-var _ImageComputedStyle = __webpack_require__(138);
+var _ImageComputedStyle = __webpack_require__(137);
 
 var _ImageComputedStyle2 = _interopRequireDefault(_ImageComputedStyle);
 
-var _CanvasComputedStyle = __webpack_require__(139);
+var _CanvasComputedStyle = __webpack_require__(138);
 
 var _CanvasComputedStyle2 = _interopRequireDefault(_CanvasComputedStyle);
 
@@ -16480,78 +15854,35 @@ Object.defineProperty(exports, "__esModule", {
     value: true
 });
 
-var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
+exports.default = function () {
+    var image = tbplay.createImage();
 
-function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
+    // image.__proto__.__proto__.__proto__ = new HTMLImageElement();
 
-var _events = new WeakMap();
-
-var EventTarget = function () {
-    function EventTarget() {
-        _classCallCheck(this, EventTarget);
-
-        _events.set(this, {});
+    if (!('tagName' in image)) {
+        image.tagName = 'IMG';
     }
 
-    _createClass(EventTarget, [{
-        key: "addEventListener",
-        value: function addEventListener(type, listener) {
-            var options = arguments.length > 2 && arguments[2] !== undefined ? arguments[2] : {};
+    Mixin.parentNode(image);
+    Mixin.classList(image);
+    Mixin.eventTarget(image);
 
-            var events = _events.get(this);
+    return image;
+};
 
-            if (!events) {
-                events = {};
-                _events.set(this, events);
-            }
-            if (!events[type]) {
-                events[type] = [];
-            }
-            events[type].push(listener);
+var _mixin = __webpack_require__(32);
 
-            if (options.capture) {
-                // console.warn('EventTarget.addEventListener: options.capture is not implemented.')
-            }
-            if (options.once) {
-                // console.warn('EventTarget.addEventListener: options.once is not implemented.')
-            }
-            if (options.passive) {
-                // console.warn('EventTarget.addEventListener: options.passive is not implemented.')
-            }
-        }
-    }, {
-        key: "removeEventListener",
-        value: function removeEventListener(type, listener) {
-            var listeners = _events.get(this)[type];
+var Mixin = _interopRequireWildcard(_mixin);
 
-            if (listeners && listeners.length > 0) {
-                for (var i = listeners.length; i--; i > 0) {
-                    if (listeners[i] === listener) {
-                        listeners.splice(i, 1);
-                        break;
-                    }
-                }
-            }
-        }
-    }, {
-        key: "dispatchEvent",
-        value: function dispatchEvent() {
-            var event = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : {};
+var _HTMLImageElement = __webpack_require__(61);
 
-            var listeners = _events.get(this)[event.type];
+var _HTMLImageElement2 = _interopRequireDefault(_HTMLImageElement);
 
-            if (listeners) {
-                for (var i = 0; i < listeners.length; i++) {
-                    listeners[i](event);
-                }
-            }
-        }
-    }]);
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-    return EventTarget;
-}();
+function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj; } else { var newObj = {}; if (obj != null) { for (var key in obj) { if (Object.prototype.hasOwnProperty.call(obj, key)) newObj[key] = obj[key]; } } newObj.default = obj; return newObj; } }
 
-exports.default = EventTarget;
+;
 
 /***/ }),
 /* 60 */
@@ -16564,47 +15895,7 @@ Object.defineProperty(exports, "__esModule", {
     value: true
 });
 
-exports.default = function () {
-    var image = tbplay.createImage();
-
-    // image.__proto__.__proto__.__proto__ = new HTMLImageElement();
-
-    if (!('tagName' in image)) {
-        image.tagName = 'IMG';
-    }
-
-    Mixin.parentNode(image);
-    Mixin.classList(image);
-
-    return image;
-};
-
-var _mixin = __webpack_require__(31);
-
-var Mixin = _interopRequireWildcard(_mixin);
-
-var _HTMLImageElement = __webpack_require__(62);
-
-var _HTMLImageElement2 = _interopRequireDefault(_HTMLImageElement);
-
-function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
-
-function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj; } else { var newObj = {}; if (obj != null) { for (var key in obj) { if (Object.prototype.hasOwnProperty.call(obj, key)) newObj[key] = obj[key]; } } newObj.default = obj; return newObj; } }
-
-;
-
-/***/ }),
-/* 61 */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
-
-Object.defineProperty(exports, "__esModule", {
-    value: true
-});
-
-var _performance = __webpack_require__(126);
+var _performance = __webpack_require__(125);
 
 Object.defineProperty(exports, 'performance', {
     enumerable: true,
@@ -16638,7 +15929,7 @@ var ontouchmove = exports.ontouchmove = null;
 var ontouchend = exports.ontouchend = null;
 
 /***/ }),
-/* 62 */
+/* 61 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -16670,7 +15961,7 @@ var imageConstructor = tbplay.createImage().constructor;
 exports.default = imageConstructor;
 
 /***/ }),
-/* 63 */
+/* 62 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -16682,7 +15973,7 @@ Object.defineProperty(exports, "__esModule", {
 
 var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
-var _HTMLAudioElement2 = __webpack_require__(64);
+var _HTMLAudioElement2 = __webpack_require__(63);
 
 var _HTMLAudioElement3 = _interopRequireDefault(_HTMLAudioElement2);
 
@@ -16880,7 +16171,7 @@ var Audio = function (_HTMLAudioElement) {
 exports.default = Audio;
 
 /***/ }),
-/* 64 */
+/* 63 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -16890,7 +16181,7 @@ Object.defineProperty(exports, "__esModule", {
     value: true
 });
 
-var _HTMLMediaElement2 = __webpack_require__(32);
+var _HTMLMediaElement2 = __webpack_require__(33);
 
 var _HTMLMediaElement3 = _interopRequireDefault(_HTMLMediaElement2);
 
@@ -16917,7 +16208,7 @@ var HTMLAudioElement = function (_HTMLMediaElement) {
 exports.default = HTMLAudioElement;
 
 /***/ }),
-/* 65 */
+/* 64 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -16927,7 +16218,7 @@ Object.defineProperty(exports, "__esModule", {
     value: true
 });
 
-var _HTMLMediaElement2 = __webpack_require__(32);
+var _HTMLMediaElement2 = __webpack_require__(33);
 
 var _HTMLMediaElement3 = _interopRequireDefault(_HTMLMediaElement2);
 
@@ -16955,7 +16246,7 @@ exports.default = HTMLVideoElement;
 ;
 
 /***/ }),
-/* 66 */
+/* 65 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -16965,7 +16256,7 @@ Object.defineProperty(exports, "__esModule", {
   value: true
 });
 
-var _TouchEvent = __webpack_require__(133);
+var _TouchEvent = __webpack_require__(132);
 
 Object.defineProperty(exports, 'TouchEvent', {
   enumerable: true,
@@ -16974,7 +16265,7 @@ Object.defineProperty(exports, 'TouchEvent', {
   }
 });
 
-var _PointerEvent = __webpack_require__(134);
+var _PointerEvent = __webpack_require__(133);
 
 Object.defineProperty(exports, 'PointerEvent', {
   enumerable: true,
@@ -16983,7 +16274,7 @@ Object.defineProperty(exports, 'PointerEvent', {
   }
 });
 
-var _MouseEvent = __webpack_require__(135);
+var _MouseEvent = __webpack_require__(134);
 
 Object.defineProperty(exports, 'MouseEvent', {
   enumerable: true,
@@ -16995,7 +16286,7 @@ Object.defineProperty(exports, 'MouseEvent', {
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 /***/ }),
-/* 67 */
+/* 66 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -17120,7 +16411,7 @@ var ObservablePoint = function () {
 exports.default = ObservablePoint;
 
 /***/ }),
-/* 68 */
+/* 67 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -17130,7 +16421,7 @@ Object.defineProperty(exports, "__esModule", {
     value: true
 });
 
-var _Matrix = __webpack_require__(35);
+var _Matrix = __webpack_require__(36);
 
 var _Matrix2 = _interopRequireDefault(_Matrix);
 
@@ -17319,7 +16610,7 @@ var GroupD8 = {
 exports.default = GroupD8;
 
 /***/ }),
-/* 69 */
+/* 68 */
 /***/ (function(module, exports) {
 
 // var GL_MAP = {};
@@ -17380,7 +16671,7 @@ module.exports = setVertexAttribArrays;
 
 
 /***/ }),
-/* 70 */
+/* 69 */
 /***/ (function(module, exports) {
 
 
@@ -17719,7 +17010,7 @@ module.exports = Texture;
 
 
 /***/ }),
-/* 71 */
+/* 70 */
 /***/ (function(module, exports) {
 
 
@@ -17805,12 +17096,12 @@ module.exports = compileProgram;
 
 
 /***/ }),
-/* 72 */
+/* 71 */
 /***/ (function(module, exports, __webpack_require__) {
 
 
-var mapType = __webpack_require__(37);
-var mapSize = __webpack_require__(73);
+var mapType = __webpack_require__(38);
+var mapSize = __webpack_require__(72);
 
 var gl;
 
@@ -17856,7 +17147,7 @@ module.exports = extractAttributes;
 
 
 /***/ }),
-/* 73 */
+/* 72 */
 /***/ (function(module, exports) {
 
 /**
@@ -17898,11 +17189,11 @@ module.exports = mapSize;
 
 
 /***/ }),
-/* 74 */
+/* 73 */
 /***/ (function(module, exports, __webpack_require__) {
 
-var mapType = __webpack_require__(37);
-var defaultValue = __webpack_require__(75);
+var mapType = __webpack_require__(38);
+var defaultValue = __webpack_require__(74);
 
 /**
  * Extracts the uniforms
@@ -17941,7 +17232,7 @@ module.exports = extractUniforms;
 
 
 /***/ }),
-/* 75 */
+/* 74 */
 /***/ (function(module, exports) {
 
 /**
@@ -18025,7 +17316,7 @@ module.exports = defaultValue;
 
 
 /***/ }),
-/* 76 */
+/* 75 */
 /***/ (function(module, exports) {
 
 /**
@@ -18049,7 +17340,7 @@ module.exports = setPrecision;
 
 
 /***/ }),
-/* 77 */
+/* 76 */
 /***/ (function(module, exports) {
 
 /**
@@ -18175,7 +17466,7 @@ module.exports = generateUniformAccessObject;
 
 
 /***/ }),
-/* 78 */
+/* 77 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -18189,7 +17480,7 @@ var _createClass = function () { function defineProperties(target, props) { for 
 
 var _math = __webpack_require__(5);
 
-var _TransformBase2 = __webpack_require__(40);
+var _TransformBase2 = __webpack_require__(41);
 
 var _TransformBase3 = _interopRequireDefault(_TransformBase2);
 
@@ -18396,7 +17687,7 @@ var TransformStatic = function (_TransformBase) {
 exports.default = TransformStatic;
 
 /***/ }),
-/* 79 */
+/* 78 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -18410,7 +17701,7 @@ var _createClass = function () { function defineProperties(target, props) { for 
 
 var _math = __webpack_require__(5);
 
-var _TransformBase2 = __webpack_require__(40);
+var _TransformBase2 = __webpack_require__(41);
 
 var _TransformBase3 = _interopRequireDefault(_TransformBase2);
 
@@ -18587,7 +17878,7 @@ var Transform = function (_TransformBase) {
 exports.default = Transform;
 
 /***/ }),
-/* 80 */
+/* 79 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -18598,7 +17889,7 @@ Object.defineProperty(exports, "__esModule", {
 });
 exports.default = determineCrossOrigin;
 
-var _url2 = __webpack_require__(81);
+var _url2 = __webpack_require__(80);
 
 var _url3 = _interopRequireDefault(_url2);
 
@@ -18649,7 +17940,7 @@ function determineCrossOrigin(url) {
 }
 
 /***/ }),
-/* 81 */
+/* 80 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -18676,8 +17967,8 @@ function determineCrossOrigin(url) {
 
 
 
-var punycode = __webpack_require__(166);
-var util = __webpack_require__(168);
+var punycode = __webpack_require__(164);
+var util = __webpack_require__(166);
 
 exports.parse = urlParse;
 exports.resolve = urlResolve;
@@ -18752,7 +18043,7 @@ var protocolPattern = /^([a-z0-9.+-]+:)/i,
       'gopher:': true,
       'file:': true
     },
-    querystring = __webpack_require__(169);
+    querystring = __webpack_require__(167);
 
 function urlParse(url, parseQueryString, slashesDenoteHost) {
   if (url && util.isObject(url) && url instanceof Url) return url;
@@ -19388,7 +18679,7 @@ Url.prototype.parseHost = function() {
 
 
 /***/ }),
-/* 82 */
+/* 81 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -19412,7 +18703,7 @@ var _ticker = __webpack_require__(43);
 
 var _const = __webpack_require__(1);
 
-var _determineCrossOrigin = __webpack_require__(80);
+var _determineCrossOrigin = __webpack_require__(79);
 
 var _determineCrossOrigin2 = _interopRequireDefault(_determineCrossOrigin);
 
@@ -19746,7 +19037,7 @@ function createSource(path, type) {
 }
 
 /***/ }),
-/* 83 */
+/* 82 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -19758,7 +19049,7 @@ Object.defineProperty(exports, "__esModule", {
 
 var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
-var _GroupD = __webpack_require__(68);
+var _GroupD = __webpack_require__(67);
 
 var _GroupD2 = _interopRequireDefault(_GroupD);
 
@@ -19862,7 +19153,7 @@ var TextureUvs = function () {
 exports.default = TextureUvs;
 
 /***/ }),
-/* 84 */
+/* 83 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -20238,7 +19529,7 @@ var SystemRenderer = function (_EventEmitter) {
 exports.default = SystemRenderer;
 
 /***/ }),
-/* 85 */
+/* 84 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -20414,7 +19705,7 @@ var BaseRenderTexture = function (_BaseTexture) {
 exports.default = BaseRenderTexture;
 
 /***/ }),
-/* 86 */
+/* 85 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -20481,7 +19772,7 @@ function canUseNewCanvasBlendModes() {
 }
 
 /***/ }),
-/* 87 */
+/* 86 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -20493,15 +19784,15 @@ Object.defineProperty(exports, "__esModule", {
 
 var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
-var _Filter2 = __webpack_require__(88);
+var _Filter2 = __webpack_require__(87);
 
 var _Filter3 = _interopRequireDefault(_Filter2);
 
 var _math = __webpack_require__(5);
 
-var _path = __webpack_require__(7);
+var _path = __webpack_require__(6);
 
-var _TextureMatrix = __webpack_require__(89);
+var _TextureMatrix = __webpack_require__(88);
 
 var _TextureMatrix2 = _interopRequireDefault(_TextureMatrix);
 
@@ -20580,7 +19871,7 @@ var SpriteMaskFilter = function (_Filter) {
 exports.default = SpriteMaskFilter;
 
 /***/ }),
-/* 88 */
+/* 87 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -20592,7 +19883,7 @@ Object.defineProperty(exports, "__esModule", {
 
 var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
-var _extractUniformsFromSrc = __webpack_require__(179);
+var _extractUniformsFromSrc = __webpack_require__(177);
 
 var _extractUniformsFromSrc2 = _interopRequireDefault(_extractUniformsFromSrc);
 
@@ -20686,7 +19977,7 @@ var Filter = function () {
      *
      * @member {number}
      */
-    this.resolution = _settings2.default.FILTER_RESOLUTION;
+    this.resolution = _settings2.default.RESOLUTION;
 
     /**
      * If enabled is true the filter is applied, if false it will not.
@@ -20783,7 +20074,7 @@ var Filter = function () {
 exports.default = Filter;
 
 /***/ }),
-/* 89 */
+/* 88 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -20795,7 +20086,7 @@ Object.defineProperty(exports, "__esModule", {
 
 var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
-var _Matrix = __webpack_require__(35);
+var _Matrix = __webpack_require__(36);
 
 var _Matrix2 = _interopRequireDefault(_Matrix);
 
@@ -20957,7 +20248,7 @@ var TextureMatrix = function () {
 exports.default = TextureMatrix;
 
 /***/ }),
-/* 90 */
+/* 89 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -21152,7 +20443,7 @@ var Quad = function () {
 exports.default = Quad;
 
 /***/ }),
-/* 91 */
+/* 90 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -21216,7 +20507,7 @@ var Buffer = function () {
 exports.default = Buffer;
 
 /***/ }),
-/* 92 */
+/* 91 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -21261,18 +20552,14 @@ var defaultStyle = {
     strokeThickness: 0,
     textBaseline: 'alphabetic',
     trim: false,
-    whiteSpace: 'pre',
     wordWrap: false,
     wordWrapWidth: 100,
     leading: 0
 };
 
-var genericFontFamilies = ['serif', 'sans-serif', 'monospace', 'cursive', 'fantasy', 'system-ui'];
-
 /**
  * A TextStyle Object decorates a Text Object. It can be shared between
  * multiple Text objects. Changing the style will update all text objects using it.
- * It can be generated [here](https://pixijs.io/pixi-text-style).
  *
  * @class
  * @memberof PIXI
@@ -21322,8 +20609,6 @@ var TextStyle = function () {
      *  Default is 0 (no stroke)
      * @param {boolean} [style.trim=false] - Trim transparent borders
      * @param {string} [style.textBaseline='alphabetic'] - The baseline of the text that is rendered.
-     * @param {boolean} [style.whiteSpace='pre'] - Determines whether newlines & spaces are collapsed or preserved "normal"
-     *      (collapse, collapse), "pre" (preserve, preserve) | "pre-line" (preserve, collapse). It needs wordWrap to be set to true
      * @param {boolean} [style.wordWrap=false] - Indicates if word wrap should be used
      * @param {number} [style.wordWrapWidth=100] - The width at which text will wrap, it needs wordWrap to be set to true
      */
@@ -21364,12 +20649,6 @@ var TextStyle = function () {
         value: function reset() {
             deepCopyProperties(this, defaultStyle, defaultStyle);
         }
-    }, {
-        key: '_updateDropShadowOffset',
-        value: function _updateDropShadowOffset() {
-            this._dropShadowOffsetX = Math.cos(this._dropShadowAngle || 0) * (this._dropShadowDistance || 0);
-            this._dropShadowOffsetY = Math.sin(this._dropShadowAngle || 0) * (this._dropShadowDistance || 0);
-        }
 
         /**
          * Alignment for multiline text ('left', 'center' or 'right'), does not affect single line text
@@ -21402,8 +20681,8 @@ var TextStyle = function () {
                 // Trim any extra white-space
                 var fontFamily = fontFamilies[i].trim();
 
-                // Check if font is already escaped in quotes except for CSS generic fonts
-                if (!/([\"\'])[^\'\"]+\1/.test(fontFamily) && genericFontFamilies.indexOf(fontFamily) < 0) {
+                // Check if font already contains strings
+                if (!/([\"\'])[^\'\"]+\1/.test(fontFamily)) {
                     fontFamily = '"' + fontFamily + '"';
                 }
                 fontFamilies[i] = fontFamily;
@@ -21496,7 +20775,6 @@ var TextStyle = function () {
         {
             if (this._dropShadowAngle !== dropShadowAngle) {
                 this._dropShadowAngle = dropShadowAngle;
-                this._updateDropShadowOffset();
                 this.styleID++;
             }
         }
@@ -21555,7 +20833,6 @@ var TextStyle = function () {
         {
             if (this._dropShadowDistance !== dropShadowDistance) {
                 this._dropShadowDistance = dropShadowDistance;
-                this._updateDropShadowOffset();
                 this.styleID++;
             }
         }
@@ -21921,32 +21198,6 @@ var TextStyle = function () {
         }
 
         /**
-         * How newlines and spaces should be handled.
-         * Default is 'pre' (preserve, preserve).
-         *
-         *  value       | New lines     |   Spaces
-         *  ---         | ---           |   ---
-         * 'normal'     | Collapse      |   Collapse
-         * 'pre'        | Preserve      |   Preserve
-         * 'pre-line'   | Preserve      |   Collapse
-         *
-         * @member {string}
-         */
-
-    }, {
-        key: 'whiteSpace',
-        get: function get() {
-            return this._whiteSpace;
-        },
-        set: function set(whiteSpace) // eslint-disable-line require-jsdoc
-        {
-            if (this._whiteSpace !== whiteSpace) {
-                this._whiteSpace = whiteSpace;
-                this.styleID++;
-            }
-        }
-
-        /**
          * Indicates if word wrap should be used
          *
          * @member {boolean}
@@ -22072,7 +21323,7 @@ function deepCopyProperties(target, source, propertyObj) {
 }
 
 /***/ }),
-/* 93 */
+/* 92 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -22088,11 +21339,6 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
 /**
  * The TextMetrics object represents the measurement of a block of text with a specified style.
- *
- * ```js
- * let style = new PIXI.TextStyle({fontFamily : 'Arial', fontSize: 24, fill : 0xff1010, align : 'center'})
- * let textMetrics = PIXI.TextMetrics.measureText('Your text', style)
- * ```
  *
  * @class
  * @memberOf PIXI
@@ -22191,393 +21437,70 @@ var TextMetrics = function () {
 
             var context = canvas.getContext('2d');
 
-            var width = 0;
-            var line = '';
-            var lines = '';
+            // Greedy wrapping algorithm that will wrap words as the line grows longer
+            // than its horizontal bounds.
+            var result = '';
+            var firstChar = text.charAt(0);
+            var lines = text.split('\n');
+            var wordWrapWidth = style.wordWrapWidth;
+            var characterCache = {};
 
-            var cache = {};
-            var letterSpacing = style.letterSpacing,
-                whiteSpace = style.whiteSpace;
+            for (var i = 0; i < lines.length; i++) {
+                var spaceLeft = wordWrapWidth;
+                var words = lines[i].split(' ');
 
-            // How to handle whitespaces
+                for (var j = 0; j < words.length; j++) {
+                    var wordWidth = context.measureText(words[j]).width;
 
-            var collapseSpaces = TextMetrics.collapseSpaces(whiteSpace);
-            var collapseNewlines = TextMetrics.collapseNewlines(whiteSpace);
+                    if (style.breakWords && wordWidth > wordWrapWidth) {
+                        // Word should be split in the middle
+                        var characters = words[j].split('');
 
-            // whether or not spaces may be added to the beginning of lines
-            var canPrependSpaces = !collapseSpaces;
+                        for (var c = 0; c < characters.length; c++) {
+                            var character = characters[c];
+                            var characterWidth = characterCache[character];
 
-            // There is letterSpacing after every char except the last one
-            // t_h_i_s_' '_i_s_' '_a_n_' '_e_x_a_m_p_l_e_' '_!
-            // so for convenience the above needs to be compared to width + 1 extra letterSpace
-            // t_h_i_s_' '_i_s_' '_a_n_' '_e_x_a_m_p_l_e_' '_!_
-            // ________________________________________________
-            // And then the final space is simply no appended to each line
-            var wordWrapWidth = style.wordWrapWidth + letterSpacing;
+                            if (characterWidth === undefined) {
+                                characterWidth = context.measureText(character).width;
+                                characterCache[character] = characterWidth;
+                            }
 
-            // break text into words, spaces and newline chars
-            var tokens = TextMetrics.tokenize(text);
-
-            for (var i = 0; i < tokens.length; i++) {
-                // get the word, space or newlineChar
-                var token = tokens[i];
-
-                // if word is a new line
-                if (TextMetrics.isNewline(token)) {
-                    // keep the new line
-                    if (!collapseNewlines) {
-                        lines += TextMetrics.addLine(line);
-                        canPrependSpaces = !collapseSpaces;
-                        line = '';
-                        width = 0;
-                        continue;
-                    }
-
-                    // if we should collapse new lines
-                    // we simply convert it into a space
-                    token = ' ';
-                }
-
-                // if we should collapse repeated whitespaces
-                if (collapseSpaces) {
-                    // check both this and the last tokens for spaces
-                    var currIsBreakingSpace = TextMetrics.isBreakingSpace(token);
-                    var lastIsBreakingSpace = TextMetrics.isBreakingSpace(line[line.length - 1]);
-
-                    if (currIsBreakingSpace && lastIsBreakingSpace) {
-                        continue;
-                    }
-                }
-
-                // get word width from cache if possible
-                var tokenWidth = TextMetrics.getFromCache(token, letterSpacing, cache, context);
-
-                // word is longer than desired bounds
-                if (tokenWidth > wordWrapWidth) {
-                    // if we are not already at the beginning of a line
-                    if (line !== '') {
-                        // start newlines for overflow words
-                        lines += TextMetrics.addLine(line);
-                        line = '';
-                        width = 0;
-                    }
-
-                    // break large word over multiple lines
-                    if (TextMetrics.canBreakWords(token, style.breakWords)) {
-                        // break word into characters
-                        var characters = token.split('');
-
-                        // loop the characters
-                        for (var j = 0; j < characters.length; j++) {
-                            var char = characters[j];
-
-                            var k = 1;
-                            // we are not at the end of the token
-
-                            while (characters[j + k]) {
-                                var nextChar = characters[j + k];
-                                var lastChar = char[char.length - 1];
-
-                                // should not split chars
-                                if (!TextMetrics.canBreakChars(lastChar, nextChar, token, j, style.breakWords)) {
-                                    // combine chars & move forward one
-                                    char += nextChar;
-                                } else {
-                                    break;
+                            if (characterWidth > spaceLeft) {
+                                result += '\n' + character;
+                                spaceLeft = wordWrapWidth - characterWidth;
+                            } else {
+                                if (c === 0 && (j > 0 || firstChar === ' ')) {
+                                    result += ' ';
                                 }
 
-                                k++;
+                                result += character;
+                                spaceLeft -= characterWidth;
                             }
+                        }
+                    } else {
+                        var wordWidthWithSpace = wordWidth + context.measureText(' ').width;
 
-                            j += char.length - 1;
-
-                            var characterWidth = TextMetrics.getFromCache(char, letterSpacing, cache, context);
-
-                            if (characterWidth + width > wordWrapWidth) {
-                                lines += TextMetrics.addLine(line);
-                                canPrependSpaces = false;
-                                line = '';
-                                width = 0;
+                        if (j === 0 || wordWidthWithSpace > spaceLeft) {
+                            // Skip printing the newline if it's the first word of the line that is
+                            // greater than the word wrap width.
+                            if (j > 0) {
+                                result += '\n';
                             }
-
-                            line += char;
-                            width += characterWidth;
+                            result += words[j];
+                            spaceLeft = wordWrapWidth - wordWidth;
+                        } else {
+                            spaceLeft -= wordWidthWithSpace;
+                            result += ' ' + words[j];
                         }
                     }
-
-                    // run word out of the bounds
-                    else {
-                            // if there are words in this line already
-                            // finish that line and start a new one
-                            if (line.length > 0) {
-                                lines += TextMetrics.addLine(line);
-                                line = '';
-                                width = 0;
-                            }
-
-                            var isLastToken = i === tokens.length - 1;
-
-                            // give it its own line if it's not the end
-                            lines += TextMetrics.addLine(token, !isLastToken);
-                            canPrependSpaces = false;
-                            line = '';
-                            width = 0;
-                        }
                 }
 
-                // word could fit
-                else {
-                        // word won't fit because of existing words
-                        // start a new line
-                        if (tokenWidth + width > wordWrapWidth) {
-                            // if its a space we don't want it
-                            canPrependSpaces = false;
-
-                            // add a new line
-                            lines += TextMetrics.addLine(line);
-
-                            // start a new line
-                            line = '';
-                            width = 0;
-                        }
-
-                        // don't add spaces to the beginning of lines
-                        if (line.length > 0 || !TextMetrics.isBreakingSpace(token) || canPrependSpaces) {
-                            // add the word to the current line
-                            line += token;
-
-                            // update width counter
-                            width += tokenWidth;
-                        }
-                    }
-            }
-
-            lines += TextMetrics.addLine(line, false);
-
-            return lines;
-        }
-
-        /**
-         * Convienience function for logging each line added during the wordWrap
-         * method
-         *
-         * @private
-         * @param  {string}   line        - The line of text to add
-         * @param  {boolean}  newLine     - Add new line character to end
-         * @return {string}   A formatted line
-         */
-
-    }, {
-        key: 'addLine',
-        value: function addLine(line) {
-            var newLine = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : true;
-
-            line = TextMetrics.trimRight(line);
-
-            line = newLine ? line + '\n' : line;
-
-            return line;
-        }
-
-        /**
-         * Gets & sets the widths of calculated characters in a cache object
-         *
-         * @private
-         * @param  {string}                    key            The key
-         * @param  {number}                    letterSpacing  The letter spacing
-         * @param  {object}                    cache          The cache
-         * @param  {CanvasRenderingContext2D}  context        The canvas context
-         * @return {number}                    The from cache.
-         */
-
-    }, {
-        key: 'getFromCache',
-        value: function getFromCache(key, letterSpacing, cache, context) {
-            var width = cache[key];
-
-            if (width === undefined) {
-                var spacing = key.length * letterSpacing;
-
-                width = context.measureText(key).width + spacing;
-                cache[key] = width;
-            }
-
-            return width;
-        }
-
-        /**
-         * Determines whether we should collapse breaking spaces
-         *
-         * @private
-         * @param  {string}   whiteSpace  The TextStyle property whiteSpace
-         * @return {boolean}  should collapse
-         */
-
-    }, {
-        key: 'collapseSpaces',
-        value: function collapseSpaces(whiteSpace) {
-            return whiteSpace === 'normal' || whiteSpace === 'pre-line';
-        }
-
-        /**
-         * Determines whether we should collapse newLine chars
-         *
-         * @private
-         * @param  {string}   whiteSpace  The white space
-         * @return {boolean}  should collapse
-         */
-
-    }, {
-        key: 'collapseNewlines',
-        value: function collapseNewlines(whiteSpace) {
-            return whiteSpace === 'normal';
-        }
-
-        /**
-         * trims breaking whitespaces from string
-         *
-         * @private
-         * @param  {string}  text  The text
-         * @return {string}  trimmed string
-         */
-
-    }, {
-        key: 'trimRight',
-        value: function trimRight(text) {
-            if (typeof text !== 'string') {
-                return '';
-            }
-
-            for (var i = text.length - 1; i >= 0; i--) {
-                var char = text[i];
-
-                if (!TextMetrics.isBreakingSpace(char)) {
-                    break;
+                if (i < lines.length - 1) {
+                    result += '\n';
                 }
-
-                text = text.slice(0, -1);
             }
 
-            return text;
-        }
-
-        /**
-         * Determines if char is a newline.
-         *
-         * @private
-         * @param  {string}  char  The character
-         * @return {boolean}  True if newline, False otherwise.
-         */
-
-    }, {
-        key: 'isNewline',
-        value: function isNewline(char) {
-            if (typeof char !== 'string') {
-                return false;
-            }
-
-            return TextMetrics._newlines.indexOf(char.charCodeAt(0)) >= 0;
-        }
-
-        /**
-         * Determines if char is a breaking whitespace.
-         *
-         * @private
-         * @param  {string}  char  The character
-         * @return {boolean}  True if whitespace, False otherwise.
-         */
-
-    }, {
-        key: 'isBreakingSpace',
-        value: function isBreakingSpace(char) {
-            if (typeof char !== 'string') {
-                return false;
-            }
-
-            return TextMetrics._breakingSpaces.indexOf(char.charCodeAt(0)) >= 0;
-        }
-
-        /**
-         * Splits a string into words, breaking-spaces and newLine characters
-         *
-         * @private
-         * @param  {string}  text       The text
-         * @return {array}  A tokenized array
-         */
-
-    }, {
-        key: 'tokenize',
-        value: function tokenize(text) {
-            var tokens = [];
-            var token = '';
-
-            if (typeof text !== 'string') {
-                return tokens;
-            }
-
-            for (var i = 0; i < text.length; i++) {
-                var char = text[i];
-
-                if (TextMetrics.isBreakingSpace(char) || TextMetrics.isNewline(char)) {
-                    if (token !== '') {
-                        tokens.push(token);
-                        token = '';
-                    }
-
-                    tokens.push(char);
-
-                    continue;
-                }
-
-                token += char;
-            }
-
-            if (token !== '') {
-                tokens.push(token);
-            }
-
-            return tokens;
-        }
-
-        /**
-         * This method exists to be easily overridden
-         * It allows one to customise which words should break
-         * Examples are if the token is CJK or numbers.
-         * It must return a boolean.
-         *
-         * @private
-         * @param  {string}  token       The token
-         * @param  {boolean}  breakWords  The style attr break words
-         * @return {boolean} whether to break word or not
-         */
-
-    }, {
-        key: 'canBreakWords',
-        value: function canBreakWords(token, breakWords) {
-            return breakWords;
-        }
-
-        /**
-         * This method exists to be easily overridden
-         * It allows one to determine whether a pair of characters
-         * should be broken by newlines
-         * For example certain characters in CJK langs or numbers.
-         * It must return a boolean.
-         *
-         * @private
-         * @param  {string}  char      The character
-         * @param  {string}  nextChar  The next character
-         * @param  {string}  token     The token/word the characters are from
-         * @param  {number}  index     The index in the token of the char
-         * @param  {boolean}  breakWords  The style attr break words
-         * @return {boolean} whether to break word or not
-         */
-
-    }, {
-        key: 'canBreakChars',
-        value: function canBreakChars(char, nextChar, token, index, breakWords) // eslint-disable-line no-unused-vars
-        {
-            return true;
+            return result;
         }
 
         /**
@@ -22603,12 +21526,11 @@ var TextMetrics = function () {
 
             context.font = font;
 
-            var metricsString = TextMetrics.METRICS_STRING + TextMetrics.BASELINE_SYMBOL;
-            var width = Math.ceil(context.measureText(metricsString).width);
-            var baseline = Math.ceil(context.measureText(TextMetrics.BASELINE_SYMBOL).width);
+            var width = Math.ceil(context.measureText('|MÉq').width);
+            var baseline = Math.ceil(context.measureText('M').width);
             var height = 2 * baseline;
 
-            baseline = baseline * TextMetrics.BASELINE_MULTIPLIER | 0;
+            baseline = baseline * 1.4 | 0;
 
             canvas.width = width;
             canvas.height = height;
@@ -22620,7 +21542,7 @@ var TextMetrics = function () {
 
             context.textBaseline = 'alphabetic';
             context.fillStyle = '#000';
-            context.fillText(metricsString, 0, baseline);
+            context.fillText('|MÉq', 0, baseline);
 
             var imagedata = context.getImageData(0, 0, width, height).data;
             var pixels = imagedata.length;
@@ -22673,25 +21595,6 @@ var TextMetrics = function () {
 
             return properties;
         }
-
-        /**
-         * Clear font metrics in metrics cache.
-         *
-         * @static
-         * @param {string} [font] - font name. If font name not set then clear cache for all fonts.
-         */
-
-    }, {
-        key: 'clearMetrics',
-        value: function clearMetrics() {
-            var font = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : '';
-
-            if (font) {
-                delete TextMetrics._fonts[font];
-            } else {
-                TextMetrics._fonts = {};
-            }
-        }
     }]);
 
     return TextMetrics;
@@ -22735,68 +21638,8 @@ TextMetrics._context = canvas.getContext('2d');
  */
 TextMetrics._fonts = {};
 
-/**
- * String used for calculate font metrics.
- * @static
- * @memberof PIXI.TextMetrics
- * @name METRICS_STRING
- * @type {string}
- * @default |Éq
- */
-TextMetrics.METRICS_STRING = '|Éq';
-
-/**
- * Baseline symbol for calculate font metrics.
- * @static
- * @memberof PIXI.TextMetrics
- * @name BASELINE_SYMBOL
- * @type {string}
- * @default M
- */
-TextMetrics.BASELINE_SYMBOL = 'M';
-
-/**
- * Baseline multiplier for calculate font metrics.
- * @static
- * @memberof PIXI.TextMetrics
- * @name BASELINE_MULTIPLIER
- * @type {number}
- * @default 1.4
- */
-TextMetrics.BASELINE_MULTIPLIER = 1.4;
-
-/**
- * Cache of new line chars.
- * @memberof PIXI.TextMetrics
- * @type {number[]}
- * @private
- */
-TextMetrics._newlines = [0x000A, // line feed
-0x000D];
-
-/**
- * Cache of breaking spaces.
- * @memberof PIXI.TextMetrics
- * @type {number[]}
- * @private
- */
-TextMetrics._breakingSpaces = [0x0009, // character tabulation
-0x0020, // space
-0x2000, // en quad
-0x2001, // em quad
-0x2002, // en space
-0x2003, // em space
-0x2004, // three-per-em space
-0x2005, // four-per-em space
-0x2006, // six-per-em space
-0x2008, // punctuation space
-0x2009, // thin space
-0x200A, // hair space
-0x205F, // medium mathematical space
-0x3000];
-
 /***/ }),
-/* 94 */
+/* 93 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -22827,9 +21670,8 @@ var GraphicsData = function () {
    * @param {boolean} fill - whether or not the shape is filled with a colour
    * @param {boolean} nativeLines - the method for drawing lines
    * @param {PIXI.Circle|PIXI.Rectangle|PIXI.Ellipse|PIXI.Polygon} shape - The shape object to draw.
-   * @param {number} lineAlignment - the alignment of the line.
    */
-  function GraphicsData(lineWidth, lineColor, lineAlpha, fillColor, fillAlpha, fill, nativeLines, shape, lineAlignment) {
+  function GraphicsData(lineWidth, lineColor, lineAlpha, fillColor, fillAlpha, fill, nativeLines, shape) {
     _classCallCheck(this, GraphicsData);
 
     /**
@@ -22837,14 +21679,6 @@ var GraphicsData = function () {
      * @member {number}
      */
     this.lineWidth = lineWidth;
-
-    /**
-     * The alignment of any lines drawn (0.5 = middle, 1 = outter, 0 = inner).
-     *
-     * @member {number}
-     * @default 0
-     */
-    this.lineAlignment = lineAlignment;
 
     /**
      * if true the liens will be draw using LINES instead of TRIANGLE_STRIP
@@ -22952,6 +21786,663 @@ var GraphicsData = function () {
 }();
 
 exports.default = GraphicsData;
+
+/***/ }),
+/* 94 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+module.exports = earcut;
+module.exports.default = earcut;
+
+function earcut(data, holeIndices, dim) {
+
+    dim = dim || 2;
+
+    var hasHoles = holeIndices && holeIndices.length,
+        outerLen = hasHoles ? holeIndices[0] * dim : data.length,
+        outerNode = linkedList(data, 0, outerLen, dim, true),
+        triangles = [];
+
+    if (!outerNode) return triangles;
+
+    var minX, minY, maxX, maxY, x, y, invSize;
+
+    if (hasHoles) outerNode = eliminateHoles(data, holeIndices, outerNode, dim);
+
+    // if the shape is not too simple, we'll use z-order curve hash later; calculate polygon bbox
+    if (data.length > 80 * dim) {
+        minX = maxX = data[0];
+        minY = maxY = data[1];
+
+        for (var i = dim; i < outerLen; i += dim) {
+            x = data[i];
+            y = data[i + 1];
+            if (x < minX) minX = x;
+            if (y < minY) minY = y;
+            if (x > maxX) maxX = x;
+            if (y > maxY) maxY = y;
+        }
+
+        // minX, minY and invSize are later used to transform coords into integers for z-order calculation
+        invSize = Math.max(maxX - minX, maxY - minY);
+        invSize = invSize !== 0 ? 1 / invSize : 0;
+    }
+
+    earcutLinked(outerNode, triangles, dim, minX, minY, invSize);
+
+    return triangles;
+}
+
+// create a circular doubly linked list from polygon points in the specified winding order
+function linkedList(data, start, end, dim, clockwise) {
+    var i, last;
+
+    if (clockwise === (signedArea(data, start, end, dim) > 0)) {
+        for (i = start; i < end; i += dim) last = insertNode(i, data[i], data[i + 1], last);
+    } else {
+        for (i = end - dim; i >= start; i -= dim) last = insertNode(i, data[i], data[i + 1], last);
+    }
+
+    if (last && equals(last, last.next)) {
+        removeNode(last);
+        last = last.next;
+    }
+
+    return last;
+}
+
+// eliminate colinear or duplicate points
+function filterPoints(start, end) {
+    if (!start) return start;
+    if (!end) end = start;
+
+    var p = start,
+        again;
+    do {
+        again = false;
+
+        if (!p.steiner && (equals(p, p.next) || area(p.prev, p, p.next) === 0)) {
+            removeNode(p);
+            p = end = p.prev;
+            if (p === p.next) break;
+            again = true;
+
+        } else {
+            p = p.next;
+        }
+    } while (again || p !== end);
+
+    return end;
+}
+
+// main ear slicing loop which triangulates a polygon (given as a linked list)
+function earcutLinked(ear, triangles, dim, minX, minY, invSize, pass) {
+    if (!ear) return;
+
+    // interlink polygon nodes in z-order
+    if (!pass && invSize) indexCurve(ear, minX, minY, invSize);
+
+    var stop = ear,
+        prev, next;
+
+    // iterate through ears, slicing them one by one
+    while (ear.prev !== ear.next) {
+        prev = ear.prev;
+        next = ear.next;
+
+        if (invSize ? isEarHashed(ear, minX, minY, invSize) : isEar(ear)) {
+            // cut off the triangle
+            triangles.push(prev.i / dim);
+            triangles.push(ear.i / dim);
+            triangles.push(next.i / dim);
+
+            removeNode(ear);
+
+            // skipping the next vertice leads to less sliver triangles
+            ear = next.next;
+            stop = next.next;
+
+            continue;
+        }
+
+        ear = next;
+
+        // if we looped through the whole remaining polygon and can't find any more ears
+        if (ear === stop) {
+            // try filtering points and slicing again
+            if (!pass) {
+                earcutLinked(filterPoints(ear), triangles, dim, minX, minY, invSize, 1);
+
+            // if this didn't work, try curing all small self-intersections locally
+            } else if (pass === 1) {
+                ear = cureLocalIntersections(ear, triangles, dim);
+                earcutLinked(ear, triangles, dim, minX, minY, invSize, 2);
+
+            // as a last resort, try splitting the remaining polygon into two
+            } else if (pass === 2) {
+                splitEarcut(ear, triangles, dim, minX, minY, invSize);
+            }
+
+            break;
+        }
+    }
+}
+
+// check whether a polygon node forms a valid ear with adjacent nodes
+function isEar(ear) {
+    var a = ear.prev,
+        b = ear,
+        c = ear.next;
+
+    if (area(a, b, c) >= 0) return false; // reflex, can't be an ear
+
+    // now make sure we don't have other points inside the potential ear
+    var p = ear.next.next;
+
+    while (p !== ear.prev) {
+        if (pointInTriangle(a.x, a.y, b.x, b.y, c.x, c.y, p.x, p.y) &&
+            area(p.prev, p, p.next) >= 0) return false;
+        p = p.next;
+    }
+
+    return true;
+}
+
+function isEarHashed(ear, minX, minY, invSize) {
+    var a = ear.prev,
+        b = ear,
+        c = ear.next;
+
+    if (area(a, b, c) >= 0) return false; // reflex, can't be an ear
+
+    // triangle bbox; min & max are calculated like this for speed
+    var minTX = a.x < b.x ? (a.x < c.x ? a.x : c.x) : (b.x < c.x ? b.x : c.x),
+        minTY = a.y < b.y ? (a.y < c.y ? a.y : c.y) : (b.y < c.y ? b.y : c.y),
+        maxTX = a.x > b.x ? (a.x > c.x ? a.x : c.x) : (b.x > c.x ? b.x : c.x),
+        maxTY = a.y > b.y ? (a.y > c.y ? a.y : c.y) : (b.y > c.y ? b.y : c.y);
+
+    // z-order range for the current triangle bbox;
+    var minZ = zOrder(minTX, minTY, minX, minY, invSize),
+        maxZ = zOrder(maxTX, maxTY, minX, minY, invSize);
+
+    var p = ear.prevZ,
+        n = ear.nextZ;
+
+    // look for points inside the triangle in both directions
+    while (p && p.z >= minZ && n && n.z <= maxZ) {
+        if (p !== ear.prev && p !== ear.next &&
+            pointInTriangle(a.x, a.y, b.x, b.y, c.x, c.y, p.x, p.y) &&
+            area(p.prev, p, p.next) >= 0) return false;
+        p = p.prevZ;
+
+        if (n !== ear.prev && n !== ear.next &&
+            pointInTriangle(a.x, a.y, b.x, b.y, c.x, c.y, n.x, n.y) &&
+            area(n.prev, n, n.next) >= 0) return false;
+        n = n.nextZ;
+    }
+
+    // look for remaining points in decreasing z-order
+    while (p && p.z >= minZ) {
+        if (p !== ear.prev && p !== ear.next &&
+            pointInTriangle(a.x, a.y, b.x, b.y, c.x, c.y, p.x, p.y) &&
+            area(p.prev, p, p.next) >= 0) return false;
+        p = p.prevZ;
+    }
+
+    // look for remaining points in increasing z-order
+    while (n && n.z <= maxZ) {
+        if (n !== ear.prev && n !== ear.next &&
+            pointInTriangle(a.x, a.y, b.x, b.y, c.x, c.y, n.x, n.y) &&
+            area(n.prev, n, n.next) >= 0) return false;
+        n = n.nextZ;
+    }
+
+    return true;
+}
+
+// go through all polygon nodes and cure small local self-intersections
+function cureLocalIntersections(start, triangles, dim) {
+    var p = start;
+    do {
+        var a = p.prev,
+            b = p.next.next;
+
+        if (!equals(a, b) && intersects(a, p, p.next, b) && locallyInside(a, b) && locallyInside(b, a)) {
+
+            triangles.push(a.i / dim);
+            triangles.push(p.i / dim);
+            triangles.push(b.i / dim);
+
+            // remove two nodes involved
+            removeNode(p);
+            removeNode(p.next);
+
+            p = start = b;
+        }
+        p = p.next;
+    } while (p !== start);
+
+    return p;
+}
+
+// try splitting polygon into two and triangulate them independently
+function splitEarcut(start, triangles, dim, minX, minY, invSize) {
+    // look for a valid diagonal that divides the polygon into two
+    var a = start;
+    do {
+        var b = a.next.next;
+        while (b !== a.prev) {
+            if (a.i !== b.i && isValidDiagonal(a, b)) {
+                // split the polygon in two by the diagonal
+                var c = splitPolygon(a, b);
+
+                // filter colinear points around the cuts
+                a = filterPoints(a, a.next);
+                c = filterPoints(c, c.next);
+
+                // run earcut on each half
+                earcutLinked(a, triangles, dim, minX, minY, invSize);
+                earcutLinked(c, triangles, dim, minX, minY, invSize);
+                return;
+            }
+            b = b.next;
+        }
+        a = a.next;
+    } while (a !== start);
+}
+
+// link every hole into the outer loop, producing a single-ring polygon without holes
+function eliminateHoles(data, holeIndices, outerNode, dim) {
+    var queue = [],
+        i, len, start, end, list;
+
+    for (i = 0, len = holeIndices.length; i < len; i++) {
+        start = holeIndices[i] * dim;
+        end = i < len - 1 ? holeIndices[i + 1] * dim : data.length;
+        list = linkedList(data, start, end, dim, false);
+        if (list === list.next) list.steiner = true;
+        queue.push(getLeftmost(list));
+    }
+
+    queue.sort(compareX);
+
+    // process holes from left to right
+    for (i = 0; i < queue.length; i++) {
+        eliminateHole(queue[i], outerNode);
+        outerNode = filterPoints(outerNode, outerNode.next);
+    }
+
+    return outerNode;
+}
+
+function compareX(a, b) {
+    return a.x - b.x;
+}
+
+// find a bridge between vertices that connects hole with an outer ring and and link it
+function eliminateHole(hole, outerNode) {
+    outerNode = findHoleBridge(hole, outerNode);
+    if (outerNode) {
+        var b = splitPolygon(outerNode, hole);
+        filterPoints(b, b.next);
+    }
+}
+
+// David Eberly's algorithm for finding a bridge between hole and outer polygon
+function findHoleBridge(hole, outerNode) {
+    var p = outerNode,
+        hx = hole.x,
+        hy = hole.y,
+        qx = -Infinity,
+        m;
+
+    // find a segment intersected by a ray from the hole's leftmost point to the left;
+    // segment's endpoint with lesser x will be potential connection point
+    do {
+        if (hy <= p.y && hy >= p.next.y && p.next.y !== p.y) {
+            var x = p.x + (hy - p.y) * (p.next.x - p.x) / (p.next.y - p.y);
+            if (x <= hx && x > qx) {
+                qx = x;
+                if (x === hx) {
+                    if (hy === p.y) return p;
+                    if (hy === p.next.y) return p.next;
+                }
+                m = p.x < p.next.x ? p : p.next;
+            }
+        }
+        p = p.next;
+    } while (p !== outerNode);
+
+    if (!m) return null;
+
+    if (hx === qx) return m.prev; // hole touches outer segment; pick lower endpoint
+
+    // look for points inside the triangle of hole point, segment intersection and endpoint;
+    // if there are no points found, we have a valid connection;
+    // otherwise choose the point of the minimum angle with the ray as connection point
+
+    var stop = m,
+        mx = m.x,
+        my = m.y,
+        tanMin = Infinity,
+        tan;
+
+    p = m.next;
+
+    while (p !== stop) {
+        if (hx >= p.x && p.x >= mx && hx !== p.x &&
+                pointInTriangle(hy < my ? hx : qx, hy, mx, my, hy < my ? qx : hx, hy, p.x, p.y)) {
+
+            tan = Math.abs(hy - p.y) / (hx - p.x); // tangential
+
+            if ((tan < tanMin || (tan === tanMin && p.x > m.x)) && locallyInside(p, hole)) {
+                m = p;
+                tanMin = tan;
+            }
+        }
+
+        p = p.next;
+    }
+
+    return m;
+}
+
+// interlink polygon nodes in z-order
+function indexCurve(start, minX, minY, invSize) {
+    var p = start;
+    do {
+        if (p.z === null) p.z = zOrder(p.x, p.y, minX, minY, invSize);
+        p.prevZ = p.prev;
+        p.nextZ = p.next;
+        p = p.next;
+    } while (p !== start);
+
+    p.prevZ.nextZ = null;
+    p.prevZ = null;
+
+    sortLinked(p);
+}
+
+// Simon Tatham's linked list merge sort algorithm
+// http://www.chiark.greenend.org.uk/~sgtatham/algorithms/listsort.html
+function sortLinked(list) {
+    var i, p, q, e, tail, numMerges, pSize, qSize,
+        inSize = 1;
+
+    do {
+        p = list;
+        list = null;
+        tail = null;
+        numMerges = 0;
+
+        while (p) {
+            numMerges++;
+            q = p;
+            pSize = 0;
+            for (i = 0; i < inSize; i++) {
+                pSize++;
+                q = q.nextZ;
+                if (!q) break;
+            }
+            qSize = inSize;
+
+            while (pSize > 0 || (qSize > 0 && q)) {
+
+                if (pSize !== 0 && (qSize === 0 || !q || p.z <= q.z)) {
+                    e = p;
+                    p = p.nextZ;
+                    pSize--;
+                } else {
+                    e = q;
+                    q = q.nextZ;
+                    qSize--;
+                }
+
+                if (tail) tail.nextZ = e;
+                else list = e;
+
+                e.prevZ = tail;
+                tail = e;
+            }
+
+            p = q;
+        }
+
+        tail.nextZ = null;
+        inSize *= 2;
+
+    } while (numMerges > 1);
+
+    return list;
+}
+
+// z-order of a point given coords and inverse of the longer side of data bbox
+function zOrder(x, y, minX, minY, invSize) {
+    // coords are transformed into non-negative 15-bit integer range
+    x = 32767 * (x - minX) * invSize;
+    y = 32767 * (y - minY) * invSize;
+
+    x = (x | (x << 8)) & 0x00FF00FF;
+    x = (x | (x << 4)) & 0x0F0F0F0F;
+    x = (x | (x << 2)) & 0x33333333;
+    x = (x | (x << 1)) & 0x55555555;
+
+    y = (y | (y << 8)) & 0x00FF00FF;
+    y = (y | (y << 4)) & 0x0F0F0F0F;
+    y = (y | (y << 2)) & 0x33333333;
+    y = (y | (y << 1)) & 0x55555555;
+
+    return x | (y << 1);
+}
+
+// find the leftmost node of a polygon ring
+function getLeftmost(start) {
+    var p = start,
+        leftmost = start;
+    do {
+        if (p.x < leftmost.x) leftmost = p;
+        p = p.next;
+    } while (p !== start);
+
+    return leftmost;
+}
+
+// check if a point lies within a convex triangle
+function pointInTriangle(ax, ay, bx, by, cx, cy, px, py) {
+    return (cx - px) * (ay - py) - (ax - px) * (cy - py) >= 0 &&
+           (ax - px) * (by - py) - (bx - px) * (ay - py) >= 0 &&
+           (bx - px) * (cy - py) - (cx - px) * (by - py) >= 0;
+}
+
+// check if a diagonal between two polygon nodes is valid (lies in polygon interior)
+function isValidDiagonal(a, b) {
+    return a.next.i !== b.i && a.prev.i !== b.i && !intersectsPolygon(a, b) &&
+           locallyInside(a, b) && locallyInside(b, a) && middleInside(a, b);
+}
+
+// signed area of a triangle
+function area(p, q, r) {
+    return (q.y - p.y) * (r.x - q.x) - (q.x - p.x) * (r.y - q.y);
+}
+
+// check if two points are equal
+function equals(p1, p2) {
+    return p1.x === p2.x && p1.y === p2.y;
+}
+
+// check if two segments intersect
+function intersects(p1, q1, p2, q2) {
+    if ((equals(p1, q1) && equals(p2, q2)) ||
+        (equals(p1, q2) && equals(p2, q1))) return true;
+    return area(p1, q1, p2) > 0 !== area(p1, q1, q2) > 0 &&
+           area(p2, q2, p1) > 0 !== area(p2, q2, q1) > 0;
+}
+
+// check if a polygon diagonal intersects any polygon segments
+function intersectsPolygon(a, b) {
+    var p = a;
+    do {
+        if (p.i !== a.i && p.next.i !== a.i && p.i !== b.i && p.next.i !== b.i &&
+                intersects(p, p.next, a, b)) return true;
+        p = p.next;
+    } while (p !== a);
+
+    return false;
+}
+
+// check if a polygon diagonal is locally inside the polygon
+function locallyInside(a, b) {
+    return area(a.prev, a, a.next) < 0 ?
+        area(a, b, a.next) >= 0 && area(a, a.prev, b) >= 0 :
+        area(a, b, a.prev) < 0 || area(a, a.next, b) < 0;
+}
+
+// check if the middle point of a polygon diagonal is inside the polygon
+function middleInside(a, b) {
+    var p = a,
+        inside = false,
+        px = (a.x + b.x) / 2,
+        py = (a.y + b.y) / 2;
+    do {
+        if (((p.y > py) !== (p.next.y > py)) && p.next.y !== p.y &&
+                (px < (p.next.x - p.x) * (py - p.y) / (p.next.y - p.y) + p.x))
+            inside = !inside;
+        p = p.next;
+    } while (p !== a);
+
+    return inside;
+}
+
+// link two polygon vertices with a bridge; if the vertices belong to the same ring, it splits polygon into two;
+// if one belongs to the outer ring and another to a hole, it merges it into a single ring
+function splitPolygon(a, b) {
+    var a2 = new Node(a.i, a.x, a.y),
+        b2 = new Node(b.i, b.x, b.y),
+        an = a.next,
+        bp = b.prev;
+
+    a.next = b;
+    b.prev = a;
+
+    a2.next = an;
+    an.prev = a2;
+
+    b2.next = a2;
+    a2.prev = b2;
+
+    bp.next = b2;
+    b2.prev = bp;
+
+    return b2;
+}
+
+// create a node and optionally link it with previous one (in a circular doubly linked list)
+function insertNode(i, x, y, last) {
+    var p = new Node(i, x, y);
+
+    if (!last) {
+        p.prev = p;
+        p.next = p;
+
+    } else {
+        p.next = last.next;
+        p.prev = last;
+        last.next.prev = p;
+        last.next = p;
+    }
+    return p;
+}
+
+function removeNode(p) {
+    p.next.prev = p.prev;
+    p.prev.next = p.next;
+
+    if (p.prevZ) p.prevZ.nextZ = p.nextZ;
+    if (p.nextZ) p.nextZ.prevZ = p.prevZ;
+}
+
+function Node(i, x, y) {
+    // vertice index in coordinates array
+    this.i = i;
+
+    // vertex coordinates
+    this.x = x;
+    this.y = y;
+
+    // previous and next vertice nodes in a polygon ring
+    this.prev = null;
+    this.next = null;
+
+    // z-order curve value
+    this.z = null;
+
+    // previous and next nodes in z-order
+    this.prevZ = null;
+    this.nextZ = null;
+
+    // indicates whether this is a steiner point
+    this.steiner = false;
+}
+
+// return a percentage difference between the polygon area and its triangulation area;
+// used to verify correctness of triangulation
+earcut.deviation = function (data, holeIndices, dim, triangles) {
+    var hasHoles = holeIndices && holeIndices.length;
+    var outerLen = hasHoles ? holeIndices[0] * dim : data.length;
+
+    var polygonArea = Math.abs(signedArea(data, 0, outerLen, dim));
+    if (hasHoles) {
+        for (var i = 0, len = holeIndices.length; i < len; i++) {
+            var start = holeIndices[i] * dim;
+            var end = i < len - 1 ? holeIndices[i + 1] * dim : data.length;
+            polygonArea -= Math.abs(signedArea(data, start, end, dim));
+        }
+    }
+
+    var trianglesArea = 0;
+    for (i = 0; i < triangles.length; i += 3) {
+        var a = triangles[i] * dim;
+        var b = triangles[i + 1] * dim;
+        var c = triangles[i + 2] * dim;
+        trianglesArea += Math.abs(
+            (data[a] - data[c]) * (data[b + 1] - data[a + 1]) -
+            (data[a] - data[b]) * (data[c + 1] - data[a + 1]));
+    }
+
+    return polygonArea === 0 && trianglesArea === 0 ? 0 :
+        Math.abs((trianglesArea - polygonArea) / polygonArea);
+};
+
+function signedArea(data, start, end, dim) {
+    var sum = 0;
+    for (var i = start, j = end - dim; i < end; i += dim) {
+        sum += (data[j] - data[i]) * (data[i + 1] + data[j + 1]);
+        j = i;
+    }
+    return sum;
+}
+
+// turn a polygon in a multi-dimensional array form (e.g. as in GeoJSON) into a form Earcut accepts
+earcut.flatten = function (data) {
+    var dim = data[0][0].length,
+        result = {vertices: [], holes: [], dimensions: dim},
+        holeIndex = 0;
+
+    for (var i = 0; i < data.length; i++) {
+        for (var j = 0; j < data[i].length; j++) {
+            for (var d = 0; d < dim; d++) result.vertices.push(data[i][j][d]);
+        }
+        if (i > 0) {
+            holeIndex += data[i - 1].length;
+            result.holes.push(holeIndex);
+        }
+    }
+    return result;
+};
+
 
 /***/ }),
 /* 95 */
@@ -23134,24 +22625,15 @@ var Application = function () {
         /**
          * Destroy and don't use after this.
          * @param {Boolean} [removeView=false] Automatically remove canvas from DOM.
-         * @param {object|boolean} [stageOptions] - Options parameter. A boolean will act as if all options
-         *  have been set to that value
-         * @param {boolean} [stageOptions.children=false] - if set to true, all the children will have their destroy
-         *  method called as well. 'stageOptions' will be passed on to those calls.
-         * @param {boolean} [stageOptions.texture=false] - Only used for child Sprites if stageOptions.children is set
-         *  to true. Should it destroy the texture of the child sprite
-         * @param {boolean} [stageOptions.baseTexture=false] - Only used for child Sprites if stageOptions.children is set
-         *  to true. Should it destroy the base texture of the child sprite
          */
-        value: function destroy(removeView, stageOptions) {
-            if (this._ticker) {
-                var oldTicker = this._ticker;
+        value: function destroy(removeView) {
+            var oldTicker = this._ticker;
 
-                this.ticker = null;
-                oldTicker.destroy();
-            }
+            this.ticker = null;
 
-            this.stage.destroy(stageOptions);
+            oldTicker.destroy();
+
+            this.stage.destroy();
             this.stage = null;
 
             this.renderer.destroy(removeView);
@@ -23350,7 +22832,7 @@ Object.defineProperty(exports, "__esModule", {
 });
 exports.BitmapText = exports.TilingSpriteRenderer = exports.TilingSprite = exports.AnimatedSprite = undefined;
 
-var _AnimatedSprite = __webpack_require__(211);
+var _AnimatedSprite = __webpack_require__(209);
 
 Object.defineProperty(exports, 'AnimatedSprite', {
   enumerable: true,
@@ -23359,7 +22841,7 @@ Object.defineProperty(exports, 'AnimatedSprite', {
   }
 });
 
-var _TilingSprite = __webpack_require__(212);
+var _TilingSprite = __webpack_require__(210);
 
 Object.defineProperty(exports, 'TilingSprite', {
   enumerable: true,
@@ -23368,7 +22850,7 @@ Object.defineProperty(exports, 'TilingSprite', {
   }
 });
 
-var _TilingSpriteRenderer = __webpack_require__(213);
+var _TilingSpriteRenderer = __webpack_require__(211);
 
 Object.defineProperty(exports, 'TilingSpriteRenderer', {
   enumerable: true,
@@ -23377,7 +22859,7 @@ Object.defineProperty(exports, 'TilingSpriteRenderer', {
   }
 });
 
-var _BitmapText = __webpack_require__(214);
+var _BitmapText = __webpack_require__(212);
 
 Object.defineProperty(exports, 'BitmapText', {
   enumerable: true,
@@ -23386,11 +22868,11 @@ Object.defineProperty(exports, 'BitmapText', {
   }
 });
 
+__webpack_require__(213);
+
+__webpack_require__(214);
+
 __webpack_require__(215);
-
-__webpack_require__(216);
-
-__webpack_require__(217);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
@@ -24051,11 +23533,12 @@ var InteractionData = function () {
      * Copies properties from normalized event data.
      *
      * @param {Touch|MouseEvent|PointerEvent} event The normalized event data
+     * @private
      */
 
   }, {
-    key: 'copyEvent',
-    value: function copyEvent(event) {
+    key: '_copyEvent',
+    value: function _copyEvent(event) {
       // isPrimary should only change on touchstart/pointerdown, so we don't want to overwrite
       // it with "false" on later events when our shim for it on touch events might not be
       // accurate
@@ -24063,9 +23546,7 @@ var InteractionData = function () {
         this.isPrimary = true;
       }
       this.button = event.button;
-      // event.buttons is not available in all browsers (ie. Safari), but it does have a non-standard
-      // event.which property instead, which conveys the same information.
-      this.buttons = Number.isInteger(event.buttons) ? event.buttons : event.which;
+      this.buttons = event.buttons;
       this.width = event.width;
       this.height = event.height;
       this.tiltX = event.tiltX;
@@ -24079,11 +23560,13 @@ var InteractionData = function () {
 
     /**
      * Resets the data for pooling.
+     *
+     * @private
      */
 
   }, {
-    key: 'reset',
-    value: function reset() {
+    key: '_reset',
+    value: function _reset() {
       // isPrimary is the only property that we really need to reset - everything else is
       // guaranteed to be overwritten
       this.isPrimary = false;
@@ -24179,11 +23662,13 @@ var InteractionEvent = function () {
 
     /**
      * Resets the event.
+     *
+     * @private
      */
 
   }, {
-    key: "reset",
-    value: function reset() {
+    key: "_reset",
+    value: function _reset() {
       this.stopped = false;
       this.currentTarget = null;
       this.target = null;
@@ -24552,56 +24037,34 @@ exports.default = function () {
             xmlUrl += '/';
         }
 
-        var pages = resource.data.getElementsByTagName('page');
-        var textures = {};
+        var textureUrl = xmlUrl + resource.data.getElementsByTagName('page')[0].getAttribute('file');
 
-        // Handle completed, when the number of textures
-        // load is the same number as references in the fnt file
-        var completed = function completed(page) {
-            textures[page.metadata.pageFile] = page.texture;
+        if (_core.utils.TextureCache[textureUrl]) {
+            // reuse existing texture
+            parse(resource, _core.utils.TextureCache[textureUrl]);
+            next();
+        } else {
+            var loadOptions = {
+                crossOrigin: resource.crossOrigin,
+                loadType: _resourceLoader.Resource.LOAD_TYPE.IMAGE,
+                metadata: resource.metadata.imageMetadata,
+                parentResource: resource
+            };
 
-            if (Object.keys(textures).length === pages.length) {
-                parse(resource, textures);
+            // load the texture for the font
+            this.add(resource.name + '_image', textureUrl, loadOptions, function (res) {
+                parse(resource, res.texture);
                 next();
-            }
-        };
-
-        for (var i = 0; i < pages.length; ++i) {
-            var pageFile = pages[i].getAttribute('file');
-            var url = xmlUrl + pageFile;
-            var exists = false;
-
-            // incase the image is loaded outside
-            // using the same loader, resource will be available
-            for (var name in this.resources) {
-                if (this.resources[name].url === url) {
-                    this.resources[name].metadata.pageFile = pageFile;
-                    completed(this.resources[name]);
-                    exists = true;
-                    break;
-                }
-            }
-
-            // texture is not loaded, we'll attempt to add
-            // it to the load and add the texture to the list
-            if (!exists) {
-                // Standard loading options for images
-                var options = {
-                    crossOrigin: resource.crossOrigin,
-                    loadType: _resourceLoader.Resource.LOAD_TYPE.IMAGE,
-                    metadata: Object.assign({ pageFile: pageFile }, resource.metadata.imageMetadata),
-                    parentResource: resource
-                };
-
-                this.add(url, options, completed);
-            }
+            });
         }
     };
 };
 
-var _path = __webpack_require__(7);
+var _path = __webpack_require__(6);
 
 var path = _interopRequireWildcard(_path);
+
+var _core = __webpack_require__(0);
 
 var _resourceLoader = __webpack_require__(20);
 
@@ -24615,10 +24078,10 @@ function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj;
  * @function parseBitmapFontData
  * @memberof PIXI.loaders
  * @param {PIXI.loaders.Resource} resource - Loader resource.
- * @param {PIXI.Texture|PIXI.Texture[]} textures - List of textures for each page.
+ * @param {PIXI.Texture} texture - Reference to texture.
  */
-function parse(resource, textures) {
-    resource.bitmapFont = _extras.BitmapText.registerFont(resource.data, textures);
+function parse(resource, texture) {
+    resource.bitmapFont = _extras.BitmapText.registerFont(resource.data, texture);
 }
 
 /***/ }),
@@ -25149,12 +24612,6 @@ exports.default = function () {
 
         // load the image for this sheet
         this.add(imageResourceName, resourcePath, loadOptions, function onImageLoad(res) {
-            if (res.error) {
-                next(res.error);
-
-                return;
-            }
-
             var spritesheet = new _core.Spritesheet(res.texture.baseTexture, resource.data, resource.url);
 
             spritesheet.parse(function () {
@@ -25170,7 +24627,7 @@ exports.getResourcePath = getResourcePath;
 
 var _resourceLoader = __webpack_require__(20);
 
-var _url = __webpack_require__(81);
+var _url = __webpack_require__(80);
 
 var _url2 = _interopRequireDefault(_url);
 
@@ -25210,7 +24667,7 @@ exports.default = function () {
 
 var _resourceLoader = __webpack_require__(20);
 
-var _Texture = __webpack_require__(6);
+var _Texture = __webpack_require__(7);
 
 var _Texture2 = _interopRequireDefault(_Texture);
 
@@ -25412,627 +24869,13 @@ Object.defineProperty(exports, "__esModule", {
 
 var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
-var _Texture = __webpack_require__(6);
-
-var _Texture2 = _interopRequireDefault(_Texture);
-
-function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
-
-function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
-
-/**
- * example:
- *
- * ```
- * // create an Animation , and bind with a sprite.
- * var anim = new PIXI.Animation(frames);
- * anim.bind(sprite);
- * ```
- *
- * in game tick:
- * ```
- * anim.update(deltaTime);
- * ```
- */
-
-/**
- * @typedef FrameObject
- * @type {object}
- * @property {PIXI.Texture} texture - The texture object of the frame
- * @property {number} [duration] - the duration of the frame in ms
- * @property {array} [pivot] - the pivot(ratio) of the frame. Index 0 is x; Index 1 is y.
- *
- * If no `frame.duration`, frame.duration will equal `animation.duration / frames.length`
- * If no `frame.pivot`, frame.pivot will be null, then Animation use default or original or previous pivot.
- * Some private fileds will be generated dynamically:
- *     {number} _startTime:
- *     {number} _endTime:
- */
-
-/**
- * An Animation is a simple way to display an animation depicted by a list of frames
- *
- * @class
- * @memberof PIXI.extensions
- */
-var Animation = function () {
-    /**
-     * @param {PIXI.Texture[]|FrameObject[]} frames - an array of {@link PIXI.Texture} or frame
-     *  objects that make up the animation
-     * @param {number} [duration=0] - The total duration of animation in ms
-     *     If no `duration`, the duration will equal the sum of all `frame.duration`
-     */
-    function Animation(frames, duration) {
-        _classCallCheck(this, Animation);
-
-        this._target = null;
-        this._bindName = null;
-        this._frames = null;
-
-        this.firstTexture = null;
-
-        this.initAnimation(frames, duration);
-    }
-
-    /**
-     * @param {PIXI.Texture[]|FrameObject[]} frames - an array of {@link PIXI.Texture} or frame
-     *  objects that make up the animation
-     * @param {number} [duration=0] - The total duration of animation in ms
-     *     If no `duration`, the duration will equal the sum of all `frame.duration`
-     */
-
-
-    _createClass(Animation, [{
-        key: 'initAnimation',
-        value: function initAnimation(frames, duration) {
-            /**
-             * Scale the time step when update animation. Higher is faster, lower is slower
-             *
-             * @member {number}
-             * @default 1
-             */
-            this.timeScale = 1;
-
-            /**
-             * Whether or not the animate sprite repeats after playing
-             *
-             * @member {boolean}
-             * @default true
-             */
-            this.loop = true;
-
-            /**
-             * Function to call when a Animation completes playing
-             *
-             * @method
-             * @memberof PIXI.extensions.Animation#
-             */
-            this.onComplete = null;
-
-            /**
-             * The index of the frame displayed when animation finished.
-             *
-             * @member {number}
-             * @default 0
-             */
-            this.completeIndex = 0;
-
-            /**
-             * Function to call when a Animation frame changes
-             *
-             * @method
-             * @memberof PIXI.extensions.Animation#
-             */
-            this.onFrameChange = null;
-
-            /**
-            * Function to call when 'loop' is true, and an Animation Object is played and loops around to start again
-            *
-            * @member {Function}
-            */
-            this.onLoop = null;
-
-            /**
-             * Elapsed time since animation has been started, used internally to display current texture
-             *
-             * @member {number}
-             */
-            this.currentTime = 0;
-
-            /**
-             * Indicates if the Animation is currently playing
-             *
-             * @member {boolean}
-             * @readonly
-             */
-            this.playing = false;
-
-            /**
-             * Whether allow to skip frames if timeStep too large.
-             *
-             * @member {boolean}
-             * @default false
-             */
-            this.skipFrame = false;
-
-            /**
-            * The animation current frame index
-            *
-            * @member {number}
-            * @readonly
-            */
-            this.currentIndex = -1;
-
-            /**
-            * The animation current frame object
-            *
-            * @member {FrameObject}
-            * @memberof PIXI.extensions.Animation#
-            * @readonly
-            */
-            this.currentFrame = null;
-
-            /**
-            * The animation current frame object
-            *
-            * @member {PIXI.Texture}
-            * @readonly
-            */
-            this.currentTexture = null;
-
-            /**
-             * `frameCount` is the total number of frames in the Animation
-             *
-             * @member {number}
-             * @default 0
-             */
-            this.frameCount = 0;
-
-            /**
-             * @private
-             */
-            this._minIndex = -1;
-            this._maxIndex = -1;
-
-            this.duration = duration || 0;
-
-            /**
-             * @private
-             */
-            this._frames = [];
-
-            this.setFrames(frames);
-        }
-
-        /**
-         * Play the Animation
-         *
-         */
-
-    }, {
-        key: 'play',
-        value: function play() {
-            this.playing = true;
-        }
-
-        /**
-         * Pause the Animation
-         *
-         */
-
-    }, {
-        key: 'pause',
-        value: function pause() {
-            this.playing = false;
-        }
-
-        /**
-         * Resume playing. In current case , `resume` equals `play`
-         *
-         */
-
-    }, {
-        key: 'resume',
-        value: function resume() {
-            this.playing = true;
-        }
-
-        /**
-         * Stop the Animation
-         *
-         */
-
-    }, {
-        key: 'stop',
-        value: function stop() {
-            this.gotoAndStop(0);
-        }
-
-        /**
-         * Go to a specific frame and begins playing the Animation
-         *
-         * @param {number} frameIndex - frame index to start at
-         */
-
-    }, {
-        key: 'gotoAndPlay',
-        value: function gotoAndPlay(frameIndex) {
-            if (frameIndex !== this.currentIndex) {
-                this.changeFrame(frameIndex, this.currentIndex);
-            }
-            this.currentTime = this.currentFrame._startTime;
-            this.play();
-        }
-
-        /**
-         * Stop the Animation and goes to a specific frame
-         *
-         * @param {number} frameIndex - frame index to stop at
-         */
-
-    }, {
-        key: 'gotoAndStop',
-        value: function gotoAndStop(frameIndex) {
-            this.pause();
-
-            if (frameIndex !== this.currentIndex) {
-                this.changeFrame(frameIndex, this.currentIndex);
-            }
-            this.currentTime = this.currentFrame._startTime;
-        }
-
-        /**
-         * Update the animation by time-step(delta-time)
-         *
-         * @param {number} timeStep - Time since last tick
-         */
-
-    }, {
-        key: 'update',
-        value: function update(timeStep) {
-            if (!this.playing) {
-                return;
-            }
-            var elapsed = this.timeScale * timeStep;
-            // const sign = elapsed < 0 ? -1 : 1;
-
-            this.currentTime += elapsed;
-
-            this.updateByTime(this.currentTime, this.skipFrame);
-        }
-
-        /**
-         * Update the animation by played-time(total-time)
-         *
-         * @param {number} time - Time since animation has been started
-         * @param {boolean} [skipFrame=false] - Whether allow to skip frames if timeStep too large.
-         */
-
-    }, {
-        key: 'updateByTime',
-        value: function updateByTime(time, skipFrame) {
-            var duration = this.duration;
-            var frames = this._frames;
-
-            var frame = void 0;
-            var index = this.currentIndex;
-            var prevIndex = index;
-
-            var completed = false;
-
-            do {
-                frame = frames[index];
-                if (time < frame._startTime) {
-                    // Play backward
-                    if (index === this._minIndex) {
-                        if (this.loop === true || --this.loop > 0) {
-                            time += duration;
-                            index = this._maxIndex;
-                            if (this.onLoop) {
-                                this.onLoop();
-                            }
-                            continue;
-                        }
-                        completed = true;
-                        break;
-                    }
-                    index--;
-                    continue;
-                }
-
-                if (time < frame._endTime) {
-                    // No frame changed
-                    break;
-                }
-
-                if (index === this._maxIndex) {
-                    // Play forward
-                    if (this.loop === true || --this.loop > 0) {
-                        time -= duration;
-                        index = this._minIndex;
-                        if (this.onLoop) {
-                            this.onLoop();
-                        }
-                        continue;
-                    }
-                    completed = true;
-                    break;
-                }
-                index++;
-            } while (skipFrame); // eslint-disable-line no-unmodified-loop-condition
-
-            this.currentTime = time;
-
-            if (completed) {
-                this.playing = false;
-
-                if (prevIndex !== this.completeIndex) {
-                    this.changeFrame(this.completeIndex, prevIndex);
-                    this.currentTime = this.currentFrame._startTime;
-                }
-                if (this.onComplete) {
-                    this.onComplete();
-                }
-
-                return;
-            }
-
-            if (prevIndex !== index) {
-                this.changeFrame(index, prevIndex);
-
-                // TODO: Whether snap currentTime to frame ?
-                // if (!skipFrame)
-                // {
-                // Play forward:
-                // this.currentTime = this.currentFrame._startTime;
-
-                // Play backward:
-                // this.currentTime = this.currentFrame._endTime;
-                // }
-            }
-        }
-
-        /**
-         * Function to call when a Animation changes which texture is being rendered
-         *
-         * @param {number} frameIndex - new frame index
-         * @param {number} prevIndex - previous frame index
-         * @private
-         */
-
-    }, {
-        key: 'changeFrame',
-        value: function changeFrame(frameIndex, prevIndex) {
-            this.currentIndex = frameIndex;
-
-            var frame = this.getNextFrame(frameIndex, prevIndex);
-
-            this.currentFrame = frame;
-            this.currentTexture = frame.texture;
-
-            this.updateTarget();
-
-            if (this.onFrameChange) {
-                this.onFrameChange(frameIndex, frame);
-            }
-        }
-
-        /**
-         * Get next frame.
-         * User could OVERRIDE this method to implement custom animation order.
-         *
-         * @param {number} frameIndex - new frame index
-         * @param {number} prevIndex - previous frame index
-         * @return {FrameObject} The next frame object in animation
-         * @private
-         */
-
-    }, {
-        key: 'getNextFrame',
-        value: function getNextFrame(frameIndex, prevIndex) // eslint-disable-line no-unused-vars
-        {
-            return this._frames[frameIndex];
-        }
-
-        /**
-         * Updates the displayed texture to match the current frame index
-         *
-         * @private
-         */
-
-    }, {
-        key: 'updateTarget',
-        value: function updateTarget() {
-            this._target._texture = this.currentTexture;
-            this._target._textureID = -1;
-            this._target.cachedTint = 0xFFFFFF;
-
-            // TODO: Shall we need `pivot` ?
-            var pivot = this.currentFrame.pivot;
-
-            if (pivot) {
-                this._target.transform.pivot.set(pivot[0], pivot[1]);
-            }
-
-            // // TODO: `refresh` is hard code , not good enough.
-            // if (this._target.refresh)
-            // {
-            //     this._target.refresh();
-            // }
-
-            this._target._onTextureUpdate();
-        }
-
-        /**
-         * Get the array of frame objects used for this Animation
-         *
-         * @return {FrameObject[]} The array of frame objects in animation
-         * @memberof PIXI.extensions.Animation#
-         */
-
-    }, {
-        key: 'getFrames',
-        value: function getFrames() {
-            return this._frames;
-        }
-
-        /**
-         * Set the frames.
-         *
-         * @param {PIXI.Texture[]|FrameObject[]} frames - The frames to set
-         */
-
-    }, {
-        key: 'setFrames',
-        value: function setFrames(frames) {
-            this.playing = false;
-            this._frames.length = 0;
-
-            this.currentTime = 0;
-            this.currentIndex = -1;
-            this.currentFrame = null;
-            this.currentTexture = null;
-
-            if (!frames) {
-                this.frameCount = 0;
-                this.completeIndex = 0;
-                this._minIndex = -1;
-                this._maxIndex = -1;
-                this.firstTexture = null;
-
-                return;
-            }
-
-            var len = this.frameCount = frames.length;
-
-            this._minIndex = 0;
-            this._maxIndex = len - 1;
-            this.completeIndex = this._maxIndex;
-
-            var preDuration = this.duration / len;
-            var useTexture = frames[0] instanceof _Texture2.default;
-
-            var startTime = 0;
-            var endTime = 0;
-            var frame = void 0;
-
-            for (var i = 0; i < len; i++) {
-                if (useTexture) {
-                    frame = {
-                        texture: frames[i]
-                    };
-                } else {
-                    frame = frames[i];
-                }
-                this._frames.push(frame);
-
-                frame.duration = frame.duration || preDuration;
-
-                // TODO:
-                frame.pivot = frame.pivot || null;
-
-                // TODO:
-                frame.offset = frame.offset || null;
-
-                frame._startTime = startTime;
-                frame._endTime = endTime += frame.duration;
-
-                startTime = endTime;
-            }
-
-            if (!this.duration || this.duration < endTime) {
-                this.duration = endTime;
-            }
-
-            // TODO: Shall we need `firstTexture` ?
-            this.firstTexture = this._frames[0].texture;
-        }
-
-        /**
-         * Get the target of Animation
-         *
-         * @return {PIXI.DisplayObject} The target of Animation
-         */
-
-    }, {
-        key: 'getTarget',
-        value: function getTarget() {
-            return this._target;
-        }
-
-        /**
-         * Bind the target of Animation.
-         *
-         * @param {PIXI.DisplayObject} target - A display object with Texture.
-         * @param {string} [bindName] - The property name of target for binding
-         */
-
-    }, {
-        key: 'bind',
-        value: function bind(target, bindName) {
-            this.unbind();
-            this._target = target;
-            if (bindName) {
-                this._bindName = bindName;
-                this._target[this._bindName] = this;
-            }
-            this.changeFrame(this._minIndex, null);
-        }
-
-        /**
-         * Unbind the target of Animation.
-         */
-
-    }, {
-        key: 'unbind',
-        value: function unbind() {
-            if (this._target) {
-                if (this._bindName) {
-                    delete this._target[this._bindName];
-                }
-                this._target = null;
-            }
-        }
-
-        /**
-         * Destroy the Animation
-         *
-         */
-
-    }, {
-        key: 'destroy',
-        value: function destroy() {
-            this.unbind();
-            this.setFrames(null);
-            this._frames = null;
-        }
-    }]);
-
-    return Animation;
-}();
-
-exports.default = Animation;
-
-/***/ }),
-/* 118 */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
-
-Object.defineProperty(exports, "__esModule", {
-    value: true
-});
-
-var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
-
 var _get = function get(object, property, receiver) { if (object === null) object = Function.prototype; var desc = Object.getOwnPropertyDescriptor(object, property); if (desc === undefined) { var parent = Object.getPrototypeOf(object); if (parent === null) { return undefined; } else { return get(parent, property, receiver); } } else if ("value" in desc) { return desc.value; } else { var getter = desc.get; if (getter === undefined) { return undefined; } return getter.call(receiver); } };
 
 var _core = __webpack_require__(0);
 
 var core = _interopRequireWildcard(_core);
 
-var _BatchBuffer = __webpack_require__(91);
+var _BatchBuffer = __webpack_require__(90);
 
 var _BatchBuffer2 = _interopRequireDefault(_BatchBuffer);
 
@@ -26359,7 +25202,7 @@ exports.default = PointRenderer;
 WebGLRenderer.registerPlugin('point', PointRenderer);
 
 /***/ }),
-/* 119 */
+/* 118 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -26377,7 +25220,7 @@ var _core = __webpack_require__(0);
 
 var core = _interopRequireWildcard(_core);
 
-var _LightQuad = __webpack_require__(286);
+var _LightQuad = __webpack_require__(284);
 
 var _LightQuad2 = _interopRequireDefault(_LightQuad);
 
@@ -26532,7 +25375,7 @@ LightSpriteRenderer.pluginName = 'lightSprite';
 WebGLRenderer.registerPlugin(LightSpriteRenderer.pluginName, LightSpriteRenderer);
 
 /***/ }),
-/* 120 */
+/* 119 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -26807,7 +25650,7 @@ var ShaderParticleProcessor = function () {
 exports.default = ShaderParticleProcessor;
 
 /***/ }),
-/* 121 */
+/* 120 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -26817,7 +25660,7 @@ var _window2 = __webpack_require__(58);
 
 var _window = _interopRequireWildcard(_window2);
 
-var _document = __webpack_require__(140);
+var _document = __webpack_require__(139);
 
 var _document2 = _interopRequireDefault(_document);
 
@@ -26852,7 +25695,7 @@ inject();
 /* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(8)))
 
 /***/ }),
-/* 122 */
+/* 121 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -26900,7 +25743,7 @@ if (tbplay.onNetworkStatusChange) {
 exports.default = navigator;
 
 /***/ }),
-/* 123 */
+/* 122 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -26912,7 +25755,7 @@ Object.defineProperty(exports, "__esModule", {
 
 var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
-var _EventTarget2 = __webpack_require__(59);
+var _EventTarget2 = __webpack_require__(31);
 
 var _EventTarget3 = _interopRequireDefault(_EventTarget2);
 
@@ -26969,7 +25812,9 @@ var XMLHttpRequest = function (_EventTarget) {
 
         _this.onabort = null;
         _this.onerror = null;
-        _this.onload = null;
+        _this.onload = function (e) {
+            console.log("XMLHttpRequest onload callback");
+        };
         _this.onloadstart = null;
         _this.onprogress = null;
         _this.ontimeout = null;
@@ -27066,6 +25911,10 @@ var XMLHttpRequest = function (_EventTarget) {
                         }
                     }
 
+                    console.log("XMLHttpRequest onSuccess(), code:" + statusCode);
+
+                    console.log("XMLHttpRequest , _triggerEvent:" + _triggerEvent);
+
                     _this2.status = statusCode;
                     if (header) {
                         _responseHeader.set(_this2, header);
@@ -27125,6 +25974,8 @@ var XMLHttpRequest = function (_EventTarget) {
                     return;
                 }
 
+                console.log("XMLHttpRequest send()");
+
                 tbplay.request({
                     data: data,
                     url: url,
@@ -27183,7 +26034,7 @@ XMLHttpRequest.LOADING = 3;
 XMLHttpRequest.DONE = 4;
 
 /***/ }),
-/* 124 */
+/* 123 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -27300,7 +26151,7 @@ WebSocket.CLOSING = 2; // The connection is in the process of closing.
 WebSocket.CLOSED = 3; // The connection is closed or couldn't be opened.
 
 /***/ }),
-/* 125 */
+/* 124 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -27371,7 +26222,7 @@ Worker.previousWorker = null;
 // }
 
 /***/ }),
-/* 126 */
+/* 125 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -27404,7 +26255,7 @@ if (tbplay.getPerformanceNow) {
 exports.default = performance;
 
 /***/ }),
-/* 127 */
+/* 126 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -27416,7 +26267,7 @@ Object.defineProperty(exports, "__esModule", {
 
 var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
-var _Node2 = __webpack_require__(128);
+var _Node2 = __webpack_require__(127);
 
 var _Node3 = _interopRequireDefault(_Node2);
 
@@ -27469,7 +26320,7 @@ var Element = function (_Node) {
 exports.default = Element;
 
 /***/ }),
-/* 128 */
+/* 127 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -27481,7 +26332,7 @@ Object.defineProperty(exports, "__esModule", {
 
 var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
-var _EventTarget2 = __webpack_require__(59);
+var _EventTarget2 = __webpack_require__(31);
 
 var _EventTarget3 = _interopRequireDefault(_EventTarget2);
 
@@ -27543,7 +26394,7 @@ var Node = function (_EventTarget) {
 exports.default = Node;
 
 /***/ }),
-/* 129 */
+/* 128 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -27564,7 +26415,7 @@ var ImageBitmap = function ImageBitmap() {
 exports.default = ImageBitmap;
 
 /***/ }),
-/* 130 */
+/* 129 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -27597,7 +26448,7 @@ var FileReader = function () {
 exports.default = FileReader;
 
 /***/ }),
-/* 131 */
+/* 130 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -27607,7 +26458,7 @@ Object.defineProperty(exports, "__esModule", {
   value: true
 });
 
-var _Canvas = __webpack_require__(33);
+var _Canvas = __webpack_require__(34);
 
 var _Canvas2 = _interopRequireDefault(_Canvas);
 
@@ -27637,7 +26488,7 @@ exports.default = canvasConstructor;
 /* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(8)))
 
 /***/ }),
-/* 132 */
+/* 131 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -27658,7 +26509,7 @@ var WebGLRenderingContext = function WebGLRenderingContext() {
 exports.default = WebGLRenderingContext;
 
 /***/ }),
-/* 133 */
+/* 132 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -27724,7 +26575,7 @@ tbplay.onTouchEnd(eventHandlerFactory('touchend'));
 tbplay.onTouchCancel(eventHandlerFactory('touchcancel'));
 
 /***/ }),
-/* 134 */
+/* 133 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -27887,7 +26738,7 @@ tbplay.onTouchEnd(eventHandlerFactory('pointerup'));
 tbplay.onTouchCancel(eventHandlerFactory('pointercancel'));
 
 /***/ }),
-/* 135 */
+/* 134 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -27924,7 +26775,7 @@ var MouseEvent = function (_Event) {
 exports.default = MouseEvent;
 
 /***/ }),
-/* 136 */
+/* 135 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -27965,7 +26816,7 @@ var localStorage = {
 exports.default = localStorage;
 
 /***/ }),
-/* 137 */
+/* 136 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -27986,7 +26837,7 @@ var location = {
 exports.default = location;
 
 /***/ }),
-/* 138 */
+/* 137 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -27996,7 +26847,7 @@ Object.defineProperty(exports, "__esModule", {
     value: true
 });
 
-var _CommonComputedStyle = __webpack_require__(34);
+var _CommonComputedStyle = __webpack_require__(35);
 
 var _CommonComputedStyle2 = _interopRequireDefault(_CommonComputedStyle);
 
@@ -28022,7 +26873,7 @@ function getImageComputedStyle(image) {
 exports.default = getImageComputedStyle;
 
 /***/ }),
-/* 139 */
+/* 138 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -28032,7 +26883,7 @@ Object.defineProperty(exports, "__esModule", {
     value: true
 });
 
-var _CommonComputedStyle = __webpack_require__(34);
+var _CommonComputedStyle = __webpack_require__(35);
 
 var _CommonComputedStyle2 = _interopRequireDefault(_CommonComputedStyle);
 
@@ -28057,7 +26908,7 @@ function getCanvasComputedStyle(canvas) {
 exports.default = getCanvasComputedStyle;
 
 /***/ }),
-/* 140 */
+/* 139 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -28079,31 +26930,31 @@ var _HTMLElement = __webpack_require__(9);
 
 var _HTMLElement2 = _interopRequireDefault(_HTMLElement);
 
-var _HTMLVideoElement = __webpack_require__(65);
+var _HTMLVideoElement = __webpack_require__(64);
 
 var _HTMLVideoElement2 = _interopRequireDefault(_HTMLVideoElement);
 
-var _Image = __webpack_require__(60);
+var _Image = __webpack_require__(59);
 
 var _Image2 = _interopRequireDefault(_Image);
 
-var _Audio = __webpack_require__(63);
+var _Audio = __webpack_require__(62);
 
 var _Audio2 = _interopRequireDefault(_Audio);
 
-var _Canvas = __webpack_require__(33);
+var _Canvas = __webpack_require__(34);
 
 var _Canvas2 = _interopRequireDefault(_Canvas);
 
-var _DocumentElement = __webpack_require__(141);
+var _DocumentElement = __webpack_require__(140);
 
 var _DocumentElement2 = _interopRequireDefault(_DocumentElement);
 
-var _Body = __webpack_require__(142);
+var _Body = __webpack_require__(141);
 
 var _Body2 = _interopRequireDefault(_Body);
 
-__webpack_require__(66);
+__webpack_require__(65);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
@@ -28268,7 +27119,7 @@ tbplay.onShow(onVisibilityChange(true));
 exports.default = document;
 
 /***/ }),
-/* 141 */
+/* 140 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -28305,7 +27156,7 @@ var DocumentElement = function (_HTMLElement) {
 exports.default = DocumentElement;
 
 /***/ }),
-/* 142 */
+/* 141 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -28344,7 +27195,7 @@ var Body = function (_HTMLElement) {
 exports.default = Body;
 
 /***/ }),
-/* 143 */
+/* 142 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -28355,7 +27206,7 @@ Object.defineProperty(exports, "__esModule", {
 });
 exports.ShaderParticleRenderer = exports.ShaderParticleStatus = exports.ShaderParticleDisplay = exports.ShaderParticle = exports.PerspectiveRenderer = exports.PointGroupRenderer = exports.DisplayPointGroup = exports.DisplayPoint = exports.LightSpriteRenderer = exports.lights = exports.RenderContext = exports.SpriteTrail = exports.Animation = exports.LeafSprite = exports.SimpleParticleContainer = exports.SimpleContainer = exports.Matrix3 = exports.extensions = exports.loader = exports.prepare = exports.particles = exports.mesh = exports.loaders = exports.interaction = exports.filters = exports.extras = exports.extract = exports.accessibility = undefined;
 
-var _polyfill = __webpack_require__(144);
+var _polyfill = __webpack_require__(143);
 
 Object.keys(_polyfill).forEach(function (key) {
     if (key === "default" || key === "__esModule") return;
@@ -28379,15 +27230,15 @@ Object.keys(_core).forEach(function (key) {
     });
 });
 
-var _deprecation = __webpack_require__(205);
+var _deprecation = __webpack_require__(203);
 
 var _deprecation2 = _interopRequireDefault(_deprecation);
 
-var _accessibility = __webpack_require__(206);
+var _accessibility = __webpack_require__(204);
 
 var accessibility = _interopRequireWildcard(_accessibility);
 
-var _extract = __webpack_require__(208);
+var _extract = __webpack_require__(206);
 
 var extract = _interopRequireWildcard(_extract);
 
@@ -28395,15 +27246,15 @@ var _extras = __webpack_require__(98);
 
 var extras = _interopRequireWildcard(_extras);
 
-var _filters = __webpack_require__(218);
+var _filters = __webpack_require__(216);
 
 var filters = _interopRequireWildcard(_filters);
 
-var _interaction = __webpack_require__(225);
+var _interaction = __webpack_require__(223);
 
 var interaction = _interopRequireWildcard(_interaction);
 
-var _loaders = __webpack_require__(227);
+var _loaders = __webpack_require__(225);
 
 var loaders = _interopRequireWildcard(_loaders);
 
@@ -28415,19 +27266,19 @@ var _particles = __webpack_require__(49);
 
 var particles = _interopRequireWildcard(_particles);
 
-var _prepare = __webpack_require__(239);
+var _prepare = __webpack_require__(237);
 
 var prepare = _interopRequireWildcard(_prepare);
 
-var _extensions = __webpack_require__(243);
+var _extensions = __webpack_require__(241);
 
 var extensions = _interopRequireWildcard(_extensions);
 
-var _extFilters = __webpack_require__(261);
+var _extFilters = __webpack_require__(259);
 
 var extFilters = _interopRequireWildcard(_extFilters);
 
-var _extPlugins = __webpack_require__(268);
+var _extPlugins = __webpack_require__(266);
 
 var extPlugins = _interopRequireWildcard(_extPlugins);
 
@@ -28526,19 +27377,17 @@ global.PIXI = exports; // eslint-disable-line
 /* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(8)))
 
 /***/ }),
-/* 144 */
+/* 143 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
 
-__webpack_require__(145);
+__webpack_require__(144);
+
+__webpack_require__(146);
 
 __webpack_require__(147);
-
-__webpack_require__(148);
-
-__webpack_require__(149);
 
 if (!window.ArrayBuffer) {
     window.ArrayBuffer = Array;
@@ -28557,13 +27406,13 @@ if (!window.Uint16Array) {
 }
 
 /***/ }),
-/* 145 */
+/* 144 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
 
-var _objectAssign = __webpack_require__(146);
+var _objectAssign = __webpack_require__(145);
 
 var _objectAssign2 = _interopRequireDefault(_objectAssign);
 
@@ -28576,7 +27425,7 @@ if (!Object.assign) {
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign
 
 /***/ }),
-/* 146 */
+/* 145 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -28673,7 +27522,7 @@ module.exports = shouldUseNative() ? Object.assign : function (target, source) {
 
 
 /***/ }),
-/* 147 */
+/* 146 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -28753,7 +27602,7 @@ if (!global.cancelAnimationFrame) {
 /* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(8)))
 
 /***/ }),
-/* 148 */
+/* 147 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -28775,23 +27624,7 @@ if (!Math.sign) {
 }
 
 /***/ }),
-/* 149 */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
-
-// References:
-// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/isInteger
-
-if (!Number.isInteger) {
-    Number.isInteger = function numberIsInteger(value) {
-        return typeof value === 'number' && isFinite(value) && Math.floor(value) === value;
-    };
-}
-
-/***/ }),
-/* 150 */
+/* 148 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -28803,7 +27636,7 @@ Object.defineProperty(exports, "__esModule", {
 
 var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
-var _Rectangle = __webpack_require__(36);
+var _Rectangle = __webpack_require__(37);
 
 var _Rectangle2 = _interopRequireDefault(_Rectangle);
 
@@ -28918,7 +27751,7 @@ var Circle = function () {
 exports.default = Circle;
 
 /***/ }),
-/* 151 */
+/* 149 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -28930,7 +27763,7 @@ Object.defineProperty(exports, "__esModule", {
 
 var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
-var _Rectangle = __webpack_require__(36);
+var _Rectangle = __webpack_require__(37);
 
 var _Rectangle2 = _interopRequireDefault(_Rectangle);
 
@@ -29053,7 +27886,7 @@ var Ellipse = function () {
 exports.default = Ellipse;
 
 /***/ }),
-/* 152 */
+/* 150 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -29197,7 +28030,7 @@ var Polygon = function () {
 exports.default = Polygon;
 
 /***/ }),
-/* 153 */
+/* 151 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -29342,7 +28175,7 @@ var RoundedRectangle = function () {
 exports.default = RoundedRectangle;
 
 /***/ }),
-/* 154 */
+/* 152 */
 /***/ (function(module, exports) {
 
 
@@ -29374,7 +28207,7 @@ module.exports = createContext;
 
 
 /***/ }),
-/* 155 */
+/* 153 */
 /***/ (function(module, exports) {
 
 var EMPTY_ARRAY_BUFFER = new ArrayBuffer(0);
@@ -29499,11 +28332,11 @@ module.exports = Buffer;
 
 
 /***/ }),
-/* 156 */
+/* 154 */
 /***/ (function(module, exports, __webpack_require__) {
 
 
-var Texture = __webpack_require__(70);
+var Texture = __webpack_require__(69);
 
 /**
  * Helper class to create a webGL Framebuffer
@@ -29770,15 +28603,15 @@ module.exports = Framebuffer;
 
 
 /***/ }),
-/* 157 */
+/* 155 */
 /***/ (function(module, exports, __webpack_require__) {
 
 
-var compileProgram = __webpack_require__(71),
-	extractAttributes = __webpack_require__(72),
-	extractUniforms = __webpack_require__(74),
-	setPrecision = __webpack_require__(76),
-	generateUniformAccessObject = __webpack_require__(77);
+var compileProgram = __webpack_require__(70),
+	extractAttributes = __webpack_require__(71),
+	extractUniforms = __webpack_require__(73),
+	setPrecision = __webpack_require__(75),
+	generateUniformAccessObject = __webpack_require__(76);
 
 /**
  * Helper class to create a webGL Shader
@@ -29870,12 +28703,12 @@ module.exports = Shader;
 
 
 /***/ }),
-/* 158 */
+/* 156 */
 /***/ (function(module, exports, __webpack_require__) {
 
 
 // state object//
-var setVertexAttribArrays = __webpack_require__( 69 );
+var setVertexAttribArrays = __webpack_require__( 68 );
 
 /**
  * Helper class to work with WebGL VertexArrayObjects (vaos)
@@ -30142,22 +28975,22 @@ VertexArrayObject.prototype.getSize = function()
 
 
 /***/ }),
-/* 159 */
+/* 157 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = {
-    compileProgram: __webpack_require__(71),
-    defaultValue: __webpack_require__(75),
-    extractAttributes: __webpack_require__(72),
-    extractUniforms: __webpack_require__(74),
-    generateUniformAccessObject: __webpack_require__(77),
-    setPrecision: __webpack_require__(76),
-    mapSize: __webpack_require__(73),
-    mapType: __webpack_require__(37)
+    compileProgram: __webpack_require__(70),
+    defaultValue: __webpack_require__(74),
+    extractAttributes: __webpack_require__(71),
+    extractUniforms: __webpack_require__(73),
+    generateUniformAccessObject: __webpack_require__(76),
+    setPrecision: __webpack_require__(75),
+    mapSize: __webpack_require__(72),
+    mapType: __webpack_require__(38)
 };
 
 /***/ }),
-/* 160 */
+/* 158 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -30168,7 +29001,7 @@ Object.defineProperty(exports, "__esModule", {
 });
 exports.default = maxRecommendedTextures;
 
-var _ismobilejs = __webpack_require__(39);
+var _ismobilejs = __webpack_require__(40);
 
 var _ismobilejs2 = _interopRequireDefault(_ismobilejs);
 
@@ -30185,7 +29018,7 @@ function maxRecommendedTextures(max) {
 }
 
 /***/ }),
-/* 161 */
+/* 159 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -30205,7 +29038,7 @@ function canUploadSameBuffer() {
 }
 
 /***/ }),
-/* 162 */
+/* 160 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -30277,7 +29110,7 @@ exports.default = {
 };
 
 /***/ }),
-/* 163 */
+/* 161 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -30345,7 +29178,7 @@ function performMixins() {
 }
 
 /***/ }),
-/* 164 */
+/* 162 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -30380,7 +29213,7 @@ module.exports = function removeItems(arr, startIdx, removeCount)
 
 
 /***/ }),
-/* 165 */
+/* 163 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -30429,7 +29262,7 @@ function mapPremultipliedBlendModes() {
 }
 
 /***/ }),
-/* 166 */
+/* 164 */
 /***/ (function(module, exports, __webpack_require__) {
 
 /* WEBPACK VAR INJECTION */(function(module, global) {var __WEBPACK_AMD_DEFINE_RESULT__;/*! https://mths.be/punycode v1.4.1 by @mathias */
@@ -30965,10 +29798,10 @@ function mapPremultipliedBlendModes() {
 
 }(this));
 
-/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(167)(module), __webpack_require__(8)))
+/* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(165)(module), __webpack_require__(8)))
 
 /***/ }),
-/* 167 */
+/* 165 */
 /***/ (function(module, exports) {
 
 module.exports = function(module) {
@@ -30996,7 +29829,7 @@ module.exports = function(module) {
 
 
 /***/ }),
-/* 168 */
+/* 166 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -31019,18 +29852,18 @@ module.exports = {
 
 
 /***/ }),
-/* 169 */
+/* 167 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
 
-exports.decode = exports.parse = __webpack_require__(170);
-exports.encode = exports.stringify = __webpack_require__(171);
+exports.decode = exports.parse = __webpack_require__(168);
+exports.encode = exports.stringify = __webpack_require__(169);
 
 
 /***/ }),
-/* 170 */
+/* 168 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -31121,7 +29954,7 @@ var isArray = Array.isArray || function (xs) {
 
 
 /***/ }),
-/* 171 */
+/* 169 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -31213,7 +30046,7 @@ var objectKeys = Object.keys || function (obj) {
 
 
 /***/ }),
-/* 172 */
+/* 170 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -31231,7 +30064,7 @@ var _settings2 = _interopRequireDefault(_settings);
 
 var _const = __webpack_require__(1);
 
-var _TickerListener = __webpack_require__(173);
+var _TickerListener = __webpack_require__(171);
 
 var _TickerListener2 = _interopRequireDefault(_TickerListener);
 
@@ -31703,7 +30536,7 @@ var Ticker = function () {
 exports.default = Ticker;
 
 /***/ }),
-/* 173 */
+/* 171 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -31875,7 +30708,7 @@ var TickerListener = function () {
             }
 
             // Redirect to the next item
-            var redirect = this.next;
+            var redirect = this.previous;
 
             // Remove references
             this.next = hard ? null : redirect;
@@ -31891,7 +30724,7 @@ var TickerListener = function () {
 exports.default = TickerListener;
 
 /***/ }),
-/* 174 */
+/* 172 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -31961,7 +30794,6 @@ var CanvasSpriteRenderer = function () {
     _createClass(CanvasSpriteRenderer, [{
         key: 'render',
         value: function render(sprite) {
-            // console.log("CanvasSpriteRenderer----1");
             var texture = sprite._texture;
 
             var renderer = this.renderer;
@@ -32032,9 +30864,6 @@ var CanvasSpriteRenderer = function () {
 
                     renderer.context.drawImage(sprite.tintedTexture, 0, 0, width * resolution, height * resolution, dx * renderer.resolution, dy * renderer.resolution, width * renderer.resolution, height * renderer.resolution);
                 } else {
-                    console.log("drawImage, source:" + texture.baseTexture.source + ",x:" + texture._frame.x + ",y:" + texture._frame.y + ",r:" + resolution);
-                    console.log("drawImage, width:" + width + ",height:" + height);
-
                     renderer.context.drawImage(texture.baseTexture.source, texture._frame.x * resolution, texture._frame.y * resolution, width * resolution, height * resolution, dx * renderer.resolution, dy * renderer.resolution, width * renderer.resolution, height * renderer.resolution);
                 }
             }
@@ -32061,7 +30890,7 @@ exports.default = CanvasSpriteRenderer;
 _CanvasRenderer2.default.registerPlugin('sprite', CanvasSpriteRenderer);
 
 /***/ }),
-/* 175 */
+/* 173 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -32244,7 +31073,7 @@ var CanvasMaskManager = function () {
 exports.default = CanvasMaskManager;
 
 /***/ }),
-/* 176 */
+/* 174 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -32257,7 +31086,7 @@ exports.default = mapCanvasBlendModesToPixi;
 
 var _const = __webpack_require__(1);
 
-var _canUseNewCanvasBlendModes = __webpack_require__(86);
+var _canUseNewCanvasBlendModes = __webpack_require__(85);
 
 var _canUseNewCanvasBlendModes2 = _interopRequireDefault(_canUseNewCanvasBlendModes);
 
@@ -32322,7 +31151,7 @@ function mapCanvasBlendModesToPixi() {
 }
 
 /***/ }),
-/* 177 */
+/* 175 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -32348,15 +31177,15 @@ var _createIndicesForQuads = __webpack_require__(25);
 
 var _createIndicesForQuads2 = _interopRequireDefault(_createIndicesForQuads);
 
-var _generateMultiTextureShader = __webpack_require__(190);
+var _generateMultiTextureShader = __webpack_require__(188);
 
 var _generateMultiTextureShader2 = _interopRequireDefault(_generateMultiTextureShader);
 
-var _checkMaxIfStatmentsInShader = __webpack_require__(191);
+var _checkMaxIfStatmentsInShader = __webpack_require__(189);
 
 var _checkMaxIfStatmentsInShader2 = _interopRequireDefault(_checkMaxIfStatmentsInShader);
 
-var _BatchBuffer = __webpack_require__(91);
+var _BatchBuffer = __webpack_require__(90);
 
 var _BatchBuffer2 = _interopRequireDefault(_BatchBuffer);
 
@@ -32629,8 +31458,6 @@ var SpriteRenderer = function (_ObjectRenderer) {
                 // they have all ready been calculated so we just need to push them into the buffer.
                 var sprite = sprites[i];
 
-                sprites[i] = null;
-
                 nextTexture = sprite._texture.baseTexture;
 
                 var spriteBlendMode = _utils.premultiplyBlendMode[Number(nextTexture.premultipliedAlpha)][sprite.blendMode];
@@ -32897,7 +31724,7 @@ exports.default = SpriteRenderer;
 _WebGLRenderer2.default.registerPlugin('sprite', SpriteRenderer);
 
 /***/ }),
-/* 178 */
+/* 176 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -32913,7 +31740,7 @@ var _WebGLManager2 = __webpack_require__(18);
 
 var _WebGLManager3 = _interopRequireDefault(_WebGLManager2);
 
-var _SpriteMaskFilter = __webpack_require__(87);
+var _SpriteMaskFilter = __webpack_require__(86);
 
 var _SpriteMaskFilter2 = _interopRequireDefault(_SpriteMaskFilter);
 
@@ -33125,7 +31952,7 @@ var MaskManager = function (_WebGLManager) {
 exports.default = MaskManager;
 
 /***/ }),
-/* 179 */
+/* 177 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -33193,7 +32020,7 @@ function extractUniformsFromString(string) {
 }
 
 /***/ }),
-/* 180 */
+/* 178 */
 /***/ (function(module, exports) {
 
 // shim for using process in browser
@@ -33383,7 +32210,7 @@ process.umask = function() { return 0; };
 
 
 /***/ }),
-/* 181 */
+/* 179 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -33552,7 +32379,7 @@ var StencilManager = function (_WebGLManager) {
 exports.default = StencilManager;
 
 /***/ }),
-/* 182 */
+/* 180 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -33572,7 +32399,7 @@ var _RenderTarget = __webpack_require__(19);
 
 var _RenderTarget2 = _interopRequireDefault(_RenderTarget);
 
-var _Quad = __webpack_require__(90);
+var _Quad = __webpack_require__(89);
 
 var _Quad2 = _interopRequireDefault(_Quad);
 
@@ -33582,7 +32409,7 @@ var _Shader = __webpack_require__(11);
 
 var _Shader2 = _interopRequireDefault(_Shader);
 
-var _filterTransforms = __webpack_require__(183);
+var _filterTransforms = __webpack_require__(181);
 
 var filterTransforms = _interopRequireWildcard(_filterTransforms);
 
@@ -33604,48 +32431,27 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
  * @ignore
  * @class
  */
-var FilterState = function () {
-    /**
-     *
-     */
-    function FilterState() {
-        _classCallCheck(this, FilterState);
+var FilterState =
+/**
+ *
+ */
+function FilterState() {
+    _classCallCheck(this, FilterState);
 
-        this.renderTarget = null;
-        this.target = null;
-        this.resolution = 1;
-
-        // those three objects are used only for root
-        // re-assigned for everything else
-        this.sourceFrame = new _math.Rectangle();
-        this.destinationFrame = new _math.Rectangle();
-        this.filters = [];
-    }
-
-    /**
-     * clears the state
-     */
-
-
-    _createClass(FilterState, [{
-        key: 'clear',
-        value: function clear() {
-            this.filters = null;
-            this.target = null;
-            this.renderTarget = null;
-        }
-    }]);
-
-    return FilterState;
-}();
-
-var screenKey = 'screen';
+    this.renderTarget = null;
+    this.sourceFrame = new _math.Rectangle();
+    this.destinationFrame = new _math.Rectangle();
+    this.filters = [];
+    this.target = null;
+    this.resolution = 1;
+};
 
 /**
  * @class
  * @memberof PIXI
  * @extends PIXI.WebGLManager
  */
+
 
 var FilterManager = function (_WebGLManager) {
     _inherits(FilterManager, _WebGLManager);
@@ -33669,11 +32475,6 @@ var FilterManager = function (_WebGLManager) {
         _this.filterData = null;
 
         _this.managedFilters = [];
-
-        _this.renderer.on('prerender', _this.onPrerender, _this);
-
-        _this._screenWidth = renderer.view.width;
-        _this._screenHeight = renderer.view.height;
         return _this;
     }
 
@@ -33711,18 +32512,15 @@ var FilterManager = function (_WebGLManager) {
 
             // get the current filter state..
             var currentState = filterData.stack[++filterData.index];
-            var renderTargetFrame = filterData.stack[0].destinationFrame;
 
             if (!currentState) {
                 currentState = filterData.stack[filterData.index] = new FilterState();
             }
 
-            var fullScreen = target.filterArea && target.filterArea.x === 0 && target.filterArea.y === 0 && target.filterArea.width === renderer.screen.width && target.filterArea.height === renderer.screen.height;
-
             // for now we go off the filter of the first resolution..
             var resolution = filters[0].resolution;
             var padding = filters[0].padding | 0;
-            var targetBounds = fullScreen ? renderer.screen : target.filterArea || target.getBounds(true);
+            var targetBounds = target.filterArea || target.getBounds(true);
             var sourceFrame = currentState.sourceFrame;
             var destinationFrame = currentState.destinationFrame;
 
@@ -33731,18 +32529,16 @@ var FilterManager = function (_WebGLManager) {
             sourceFrame.width = (targetBounds.width * resolution | 0) / resolution;
             sourceFrame.height = (targetBounds.height * resolution | 0) / resolution;
 
-            if (!fullScreen) {
-                if (filterData.stack[0].renderTarget.transform) {//
+            if (filterData.stack[0].renderTarget.transform) {//
 
-                    // TODO we should fit the rect around the transform..
-                } else if (filters[0].autoFit) {
-                    sourceFrame.fit(renderTargetFrame);
-                }
-
-                // lets apply the padding After we fit the element to the screen.
-                // this should stop the strange side effects that can occur when cropping to the edges
-                sourceFrame.pad(padding);
+                // TODO we should fit the rect around the transform..
+            } else if (filters[0].autoFit) {
+                sourceFrame.fit(filterData.stack[0].destinationFrame);
             }
+
+            // lets apply the padding After we fit the element to the screen.
+            // this should stop the strange side effects that can occur when cropping to the edges
+            sourceFrame.pad(padding);
 
             destinationFrame.width = sourceFrame.width;
             destinationFrame.height = sourceFrame.height;
@@ -33812,7 +32608,6 @@ var FilterManager = function (_WebGLManager) {
                 this.freePotRenderTarget(flop);
             }
 
-            currentState.clear();
             filterData.index--;
 
             if (filterData.index === 0) {
@@ -34090,8 +32885,6 @@ var FilterManager = function (_WebGLManager) {
             var renderer = this.renderer;
             var filters = this.managedFilters;
 
-            renderer.off('prerender', this.onPrerender, this);
-
             for (var i = 0; i < filters.length; i++) {
                 if (!contextLost) {
                     filters[i].glShaders[renderer.CONTEXT_UID].destroy();
@@ -34124,17 +32917,11 @@ var FilterManager = function (_WebGLManager) {
     }, {
         key: 'getPotRenderTarget',
         value: function getPotRenderTarget(gl, minWidth, minHeight, resolution) {
-            var key = screenKey;
+            // TODO you could return a bigger texture if there is not one in the pool?
+            minWidth = _bitTwiddle2.default.nextPow2(minWidth * resolution);
+            minHeight = _bitTwiddle2.default.nextPow2(minHeight * resolution);
 
-            minWidth *= resolution;
-            minHeight *= resolution;
-
-            if (minWidth !== this._screenWidth || minHeight !== this._screenHeight) {
-                // TODO you could return a bigger texture if there is not one in the pool?
-                minWidth = _bitTwiddle2.default.nextPow2(minWidth);
-                minHeight = _bitTwiddle2.default.nextPow2(minHeight);
-                key = (minWidth & 0xFFFF) << 16 | minHeight & 0xFFFF;
-            }
+            var key = (minWidth & 0xFFFF) << 16 | minHeight & 0xFFFF;
 
             if (!this.pool[key]) {
                 this.pool[key] = [];
@@ -34161,7 +32948,6 @@ var FilterManager = function (_WebGLManager) {
             renderTarget.resolution = resolution;
             renderTarget.defaultFrame.width = renderTarget.size.width = minWidth / resolution;
             renderTarget.defaultFrame.height = renderTarget.size.height = minHeight / resolution;
-            renderTarget.filterPoolKey = key;
 
             return renderTarget;
         }
@@ -34196,30 +32982,11 @@ var FilterManager = function (_WebGLManager) {
     }, {
         key: 'freePotRenderTarget',
         value: function freePotRenderTarget(renderTarget) {
-            this.pool[renderTarget.filterPoolKey].push(renderTarget);
-        }
+            var minWidth = renderTarget.size.width * renderTarget.resolution;
+            var minHeight = renderTarget.size.height * renderTarget.resolution;
+            var key = (minWidth & 0xFFFF) << 16 | minHeight & 0xFFFF;
 
-        /**
-         * Called before the renderer starts rendering.
-         *
-         */
-
-    }, {
-        key: 'onPrerender',
-        value: function onPrerender() {
-            if (this._screenWidth !== this.renderer.view.width || this._screenHeight !== this.renderer.view.height) {
-                this._screenWidth = this.renderer.view.width;
-                this._screenHeight = this.renderer.view.height;
-
-                var textures = this.pool[screenKey];
-
-                if (textures) {
-                    for (var j = 0; j < textures.length; j++) {
-                        textures[j].destroy(true);
-                    }
-                }
-                this.pool[screenKey] = [];
-            }
+            this.pool[key].push(renderTarget);
         }
     }]);
 
@@ -34229,7 +32996,7 @@ var FilterManager = function (_WebGLManager) {
 exports.default = FilterManager;
 
 /***/ }),
-/* 183 */
+/* 181 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -34295,7 +33062,7 @@ function calculateSpriteMatrix(outputMatrix, filterArea, textureSize, sprite) {
 }
 
 /***/ }),
-/* 184 */
+/* 182 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -34567,7 +33334,7 @@ var TextureManager = function () {
 exports.default = TextureManager;
 
 /***/ }),
-/* 185 */
+/* 183 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -34700,7 +33467,7 @@ var TextureGarbageCollector = function () {
 exports.default = TextureGarbageCollector;
 
 /***/ }),
-/* 186 */
+/* 184 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -34712,7 +33479,7 @@ Object.defineProperty(exports, "__esModule", {
 
 var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
-var _mapWebGLBlendModesToPixi = __webpack_require__(187);
+var _mapWebGLBlendModesToPixi = __webpack_require__(185);
 
 var _mapWebGLBlendModesToPixi2 = _interopRequireDefault(_mapWebGLBlendModesToPixi);
 
@@ -35000,7 +33767,7 @@ var WebGLState = function () {
 exports.default = WebGLState;
 
 /***/ }),
-/* 187 */
+/* 185 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -35055,7 +33822,7 @@ function mapWebGLBlendModesToPixi(gl) {
 }
 
 /***/ }),
-/* 188 */
+/* 186 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -35093,7 +33860,7 @@ function mapWebGLDrawModesToPixi(gl) {
 }
 
 /***/ }),
-/* 189 */
+/* 187 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -35115,7 +33882,7 @@ function validateContext(gl) {
 }
 
 /***/ }),
-/* 190 */
+/* 188 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -35130,7 +33897,7 @@ var _Shader = __webpack_require__(11);
 
 var _Shader2 = _interopRequireDefault(_Shader);
 
-var _path = __webpack_require__(7);
+var _path = __webpack_require__(6);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
@@ -35184,7 +33951,7 @@ function generateSampleSrc(maxTextures) {
 }
 
 /***/ }),
-/* 191 */
+/* 189 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -35265,7 +34032,7 @@ function generateIfTestSrc(maxIfs) {
 }
 
 /***/ }),
-/* 192 */
+/* 190 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -35283,7 +34050,7 @@ var _Sprite2 = __webpack_require__(42);
 
 var _Sprite3 = _interopRequireDefault(_Sprite2);
 
-var _Texture = __webpack_require__(6);
+var _Texture = __webpack_require__(7);
 
 var _Texture2 = _interopRequireDefault(_Texture);
 
@@ -35297,15 +34064,15 @@ var _settings = __webpack_require__(3);
 
 var _settings2 = _interopRequireDefault(_settings);
 
-var _TextStyle = __webpack_require__(92);
+var _TextStyle = __webpack_require__(91);
 
 var _TextStyle2 = _interopRequireDefault(_TextStyle);
 
-var _TextMetrics = __webpack_require__(93);
+var _TextMetrics = __webpack_require__(92);
 
 var _TextMetrics2 = _interopRequireDefault(_TextMetrics);
 
-var _trimCanvas = __webpack_require__(193);
+var _trimCanvas = __webpack_require__(191);
 
 var _trimCanvas2 = _interopRequireDefault(_trimCanvas);
 
@@ -35328,8 +34095,7 @@ var defaultDestroyOptions = {
  * A Text Object will create a line or multiple lines of text. To split a line you can use '\n' in your text string,
  * or add a wordWrap property set to true and and wordWrapWidth property with a value in the style object.
  *
- * A Text can be created directly from a string and a style object,
- * which can be generated [here](https://pixijs.io/pixi-text-style).
+ * A Text can be created directly from a string and a style object
  *
  * ```js
  * let text = new PIXI.Text('This is a PixiJS text',{fontFamily : 'Arial', fontSize: 24, fill : 0xff1010, align : 'center'});
@@ -35350,6 +34116,8 @@ var Text = function (_Sprite) {
      */
     function Text(text, style, canvas) {
         _classCallCheck(this, Text);
+
+        console.log("--------------Text------------1------------:" + text);
 
         canvas = canvas || document.createElement('canvas');
 
@@ -35435,6 +34203,7 @@ var Text = function (_Sprite) {
     _createClass(Text, [{
         key: 'updateText',
         value: function updateText(respectDirty) {
+            console.log("--------------Text------------2");
             var style = this._style;
 
             // check if style has changed..
@@ -35459,15 +34228,15 @@ var Text = function (_Sprite) {
             var maxLineWidth = measured.maxLineWidth;
             var fontProperties = measured.fontProperties;
 
-            var prevCanvasWidth = this.canvasWidth;
-            var prevCanvasHeight = this.canvasHeight;
+            var prevTextWidth = this.textWidth;
+            var prevTextHeight = this.textHeight;
 
-            this.canvasWidth = Math.ceil(Math.max(1, width) + style.padding * 2);
-            this.canvasHeight = Math.ceil(Math.max(1, height) + style.padding * 2);
-            this._sizeChanged = this.canvasWidth !== prevCanvasWidth || this.canvasHeight !== prevCanvasHeight;
+            this.textWidth = Math.ceil(width + style.padding * 2);
+            this.textHeight = Math.ceil(height + style.padding * 2);
+            this._sizeChanged = this.textWidth !== prevTextWidth || this.textHeight !== prevTextHeight;
 
-            this.canvas.width = this.canvasWidth * this.resolution;
-            this.canvas.height = this.canvasHeight * this.resolution;
+            this.canvas.width = this.textWidth * this.resolution;
+            this.canvas.height = this.textHeight * this.resolution;
 
             context.scale(this.resolution, this.resolution);
 
@@ -35483,6 +34252,8 @@ var Text = function (_Sprite) {
             var linePositionX = void 0;
             var linePositionY = void 0;
 
+            console.log("--------------Text------------3");
+
             if (style.dropShadow) {
                 context.fillStyle = style.dropShadowColor;
                 context.globalAlpha = style.dropShadowAlpha;
@@ -35492,8 +34263,8 @@ var Text = function (_Sprite) {
                     context.shadowColor = style.dropShadowColor;
                 }
 
-                var xShadowOffset = style._dropShadowOffsetX;
-                var yShadowOffset = style._dropShadowOffsetY;
+                var xShadowOffset = Math.cos(style.dropShadowAngle) * style.dropShadowDistance;
+                var yShadowOffset = Math.sin(style.dropShadowAngle) * style.dropShadowDistance;
 
                 for (var i = 0; i < lines.length; i++) {
                     linePositionX = style.strokeThickness / 2;
@@ -35751,8 +34522,8 @@ var Text = function (_Sprite) {
             var currentIteration = void 0;
             var stop = void 0;
 
-            var width = this.canvasWidth;
-            var height = this.canvasHeight;
+            var width = this.textWidth;
+            var height = this.textHeight;
 
             // make a copy of the style settings, so we can manipulate them later
             var fill = style.fill.slice();
@@ -35952,7 +34723,7 @@ var Text = function (_Sprite) {
 exports.default = Text;
 
 /***/ }),
-/* 193 */
+/* 191 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -36034,7 +34805,7 @@ function trimCanvas(canvas) {
 }
 
 /***/ }),
-/* 194 */
+/* 192 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -36056,11 +34827,11 @@ var _RenderTexture = __webpack_require__(44);
 
 var _RenderTexture2 = _interopRequireDefault(_RenderTexture);
 
-var _Texture = __webpack_require__(6);
+var _Texture = __webpack_require__(7);
 
 var _Texture2 = _interopRequireDefault(_Texture);
 
-var _GraphicsData = __webpack_require__(94);
+var _GraphicsData = __webpack_require__(93);
 
 var _GraphicsData2 = _interopRequireDefault(_GraphicsData);
 
@@ -36078,7 +34849,7 @@ var _Bounds = __webpack_require__(22);
 
 var _Bounds2 = _interopRequireDefault(_Bounds);
 
-var _bezierCurveTo2 = __webpack_require__(195);
+var _bezierCurveTo2 = __webpack_require__(193);
 
 var _bezierCurveTo3 = _interopRequireDefault(_bezierCurveTo2);
 
@@ -36153,14 +34924,6 @@ var Graphics = function (_Container) {
          * @default 0
          */
         _this.lineColor = 0;
-
-        /**
-         * The alignment of any lines drawn (0.5 = middle, 1 = outter, 0 = inner).
-         *
-         * @member {number}
-         * @default 0
-         */
-        _this.lineAlignment = 0.5;
 
         /**
          * Graphics data
@@ -36308,7 +35071,6 @@ var Graphics = function (_Container) {
             clone.fillAlpha = this.fillAlpha;
             clone.lineWidth = this.lineWidth;
             clone.lineColor = this.lineColor;
-            clone.lineAlignment = this.lineAlignment;
             clone.tint = this.tint;
             clone.blendMode = this.blendMode;
             clone.isMask = this.isMask;
@@ -36329,126 +35091,12 @@ var Graphics = function (_Container) {
         }
 
         /**
-         * Calculate length of quadratic curve
-         * @see {@link http://www.malczak.linuxpl.com/blog/quadratic-bezier-curve-length/}
-         * for the detailed explanation of math behind this.
-         *
-         * @private
-         * @param {number} fromX - x-coordinate of curve start point
-         * @param {number} fromY - y-coordinate of curve start point
-         * @param {number} cpX - x-coordinate of curve control point
-         * @param {number} cpY - y-coordinate of curve control point
-         * @param {number} toX - x-coordinate of curve end point
-         * @param {number} toY - y-coordinate of curve end point
-         * @return {number} Length of quadratic curve
-         */
-
-    }, {
-        key: '_quadraticCurveLength',
-        value: function _quadraticCurveLength(fromX, fromY, cpX, cpY, toX, toY) {
-            var ax = fromX - (2.0 * cpX + toX);
-            var ay = fromY - (2.0 * cpY + toY);
-            var bx = 2.0 * ((cpX - 2.0) * fromX);
-            var by = 2.0 * ((cpY - 2.0) * fromY);
-            var a = 4.0 * (ax * ax + ay * ay);
-            var b = 4.0 * (ax * bx + ay * by);
-            var c = bx * bx + by * by;
-
-            var s = 2.0 * Math.sqrt(a + b + c);
-            var a2 = Math.sqrt(a);
-            var a32 = 2.0 * a * a2;
-            var c2 = 2.0 * Math.sqrt(c);
-            var ba = b / a2;
-
-            return (a32 * s + a2 * b * (s - c2) + (4.0 * c * a - b * b) * Math.log((2.0 * a2 + ba + s) / (ba + c2))) / (4.0 * a32);
-        }
-
-        /**
-         * Calculate length of bezier curve.
-         * Analytical solution is impossible, since it involves an integral that does not integrate in general.
-         * Therefore numerical solution is used.
-         *
-         * @private
-         * @param {number} fromX - Starting point x
-         * @param {number} fromY - Starting point y
-         * @param {number} cpX - Control point x
-         * @param {number} cpY - Control point y
-         * @param {number} cpX2 - Second Control point x
-         * @param {number} cpY2 - Second Control point y
-         * @param {number} toX - Destination point x
-         * @param {number} toY - Destination point y
-         * @return {number} Length of bezier curve
-         */
-
-    }, {
-        key: '_bezierCurveLength',
-        value: function _bezierCurveLength(fromX, fromY, cpX, cpY, cpX2, cpY2, toX, toY) {
-            var n = 10;
-            var result = 0.0;
-            var t = 0.0;
-            var t2 = 0.0;
-            var t3 = 0.0;
-            var nt = 0.0;
-            var nt2 = 0.0;
-            var nt3 = 0.0;
-            var x = 0.0;
-            var y = 0.0;
-            var dx = 0.0;
-            var dy = 0.0;
-            var prevX = fromX;
-            var prevY = fromY;
-
-            for (var i = 1; i <= n; ++i) {
-                t = i / n;
-                t2 = t * t;
-                t3 = t2 * t;
-                nt = 1.0 - t;
-                nt2 = nt * nt;
-                nt3 = nt2 * nt;
-
-                x = nt3 * fromX + 3.0 * nt2 * t * cpX + 3.0 * nt * t2 * cpX2 + t3 * toX;
-                y = nt3 * fromY + 3.0 * nt2 * t * cpY + 3 * nt * t2 * cpY2 + t3 * toY;
-                dx = prevX - x;
-                dy = prevY - y;
-                prevX = x;
-                prevY = y;
-
-                result += Math.sqrt(dx * dx + dy * dy);
-            }
-
-            return result;
-        }
-
-        /**
-         * Calculate number of segments for the curve based on its length to ensure its smoothness.
-         *
-         * @private
-         * @param {number} length - length of curve
-         * @return {number} Number of segments
-         */
-
-    }, {
-        key: '_segmentsCount',
-        value: function _segmentsCount(length) {
-            var result = Math.ceil(length / Graphics.CURVES.maxLength);
-
-            if (result < Graphics.CURVES.minSegments) {
-                result = Graphics.CURVES.minSegments;
-            } else if (result > Graphics.CURVES.maxSegments) {
-                result = Graphics.CURVES.maxSegments;
-            }
-
-            return result;
-        }
-
-        /**
          * Specifies the line style used for subsequent calls to Graphics methods such as the lineTo()
          * method or the drawCircle() method.
          *
          * @param {number} [lineWidth=0] - width of the line to draw, will update the objects stored style
          * @param {number} [color=0] - color of the line to draw, will update the objects stored style
          * @param {number} [alpha=1] - alpha of the line to draw, will update the objects stored style
-         * @param {number} [alignment=1] - alignment of the line to draw, (0 = inner, 0.5 = middle, 1 = outter)
          * @return {PIXI.Graphics} This Graphics object. Good for chaining method calls
          */
 
@@ -36458,12 +35106,10 @@ var Graphics = function (_Container) {
             var lineWidth = arguments.length > 0 && arguments[0] !== undefined ? arguments[0] : 0;
             var color = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : 0;
             var alpha = arguments.length > 2 && arguments[2] !== undefined ? arguments[2] : 1;
-            var alignment = arguments.length > 3 && arguments[3] !== undefined ? arguments[3] : 0.5;
 
             this.lineWidth = lineWidth;
             this.lineColor = color;
             this.lineAlpha = alpha;
-            this.lineAlignment = alignment;
 
             if (this.currentPath) {
                 if (this.currentPath.shape.points.length) {
@@ -36478,7 +35124,6 @@ var Graphics = function (_Container) {
                     this.currentPath.lineWidth = this.lineWidth;
                     this.currentPath.lineColor = this.lineColor;
                     this.currentPath.lineAlpha = this.lineAlpha;
-                    this.currentPath.lineAlignment = this.lineAlignment;
                 }
             }
 
@@ -36544,6 +35189,7 @@ var Graphics = function (_Container) {
                 this.moveTo(0, 0);
             }
 
+            var n = 20;
             var points = this.currentPath.shape.points;
             var xa = 0;
             var ya = 0;
@@ -36554,7 +35200,6 @@ var Graphics = function (_Container) {
 
             var fromX = points[points.length - 2];
             var fromY = points[points.length - 1];
-            var n = Graphics.CURVES.adaptive ? this._segmentsCount(this._quadraticCurveLength(fromX, fromY, cpX, cpY, toX, toY)) : 20;
 
             for (var i = 1; i <= n; ++i) {
                 var j = i / n;
@@ -36600,9 +35245,7 @@ var Graphics = function (_Container) {
 
             points.length -= 2;
 
-            var n = Graphics.CURVES.adaptive ? this._segmentsCount(this._bezierCurveLength(fromX, fromY, cpX, cpY, cpX2, cpY2, toX, toY)) : 20;
-
-            (0, _bezierCurveTo3.default)(fromX, fromY, cpX, cpY, cpX2, cpY2, toX, toY, n, points);
+            (0, _bezierCurveTo3.default)(fromX, fromY, cpX, cpY, cpX2, cpY2, toX, toY, points);
 
             this.dirty++;
 
@@ -36696,13 +35339,13 @@ var Graphics = function (_Container) {
             }
 
             if (!anticlockwise && endAngle <= startAngle) {
-                endAngle += _const.PI_2;
+                endAngle += Math.PI * 2;
             } else if (anticlockwise && startAngle <= endAngle) {
-                startAngle += _const.PI_2;
+                startAngle += Math.PI * 2;
             }
 
             var sweep = endAngle - startAngle;
-            var segs = Graphics.CURVES.adaptive ? this._segmentsCount(Math.abs(sweep) * radius) : Math.ceil(Math.abs(sweep) / _const.PI_2) * 40;
+            var segs = Math.ceil(Math.abs(sweep) / (Math.PI * 2)) * 40;
 
             if (sweep === 0) {
                 return this;
@@ -36906,40 +35549,6 @@ var Graphics = function (_Container) {
         }
 
         /**
-         * Draw a star shape with an abitrary number of points.
-         *
-         * @param {number} x - Center X position of the star
-         * @param {number} y - Center Y position of the star
-         * @param {number} points - The number of points of the star, must be > 1
-         * @param {number} radius - The outer radius of the star
-         * @param {number} [innerRadius] - The inner radius between points, default half `radius`
-         * @param {number} [rotation=0] - The rotation of the star in radians, where 0 is vertical
-         * @return {PIXI.Graphics} This Graphics object. Good for chaining method calls
-         */
-
-    }, {
-        key: 'drawStar',
-        value: function drawStar(x, y, points, radius, innerRadius) {
-            var rotation = arguments.length > 5 && arguments[5] !== undefined ? arguments[5] : 0;
-
-            innerRadius = innerRadius || radius / 2;
-
-            var startAngle = -1 * Math.PI / 2 + rotation;
-            var len = points * 2;
-            var delta = _const.PI_2 / len;
-            var polygon = [];
-
-            for (var i = 0; i < len; i++) {
-                var r = i % 2 ? innerRadius : radius;
-                var angle = i * delta + startAngle;
-
-                polygon.push(x + r * Math.cos(angle), y + r * Math.sin(angle));
-            }
-
-            return this.drawPolygon(polygon);
-        }
-
-        /**
          * Clears the graphics that were drawn to this Graphics object, and resets fill and line style settings.
          *
          * @return {PIXI.Graphics} This Graphics object. Good for chaining method calls
@@ -36950,8 +35559,6 @@ var Graphics = function (_Container) {
         value: function clear() {
             if (this.lineWidth || this.filling || this.graphicsData.length > 0) {
                 this.lineWidth = 0;
-                this.lineAlignment = 0.5;
-
                 this.filling = false;
 
                 this.boundsDirty = -1;
@@ -37267,7 +35874,7 @@ var Graphics = function (_Container) {
 
             this.currentPath = null;
 
-            var data = new _GraphicsData2.default(this.lineWidth, this.lineColor, this.lineAlpha, this.fillColor, this.fillAlpha, this.filling, this.nativeLines, shape, this.lineAlignment);
+            var data = new _GraphicsData2.default(this.lineWidth, this.lineColor, this.lineAlpha, this.fillColor, this.fillAlpha, this.filling, this.nativeLines, shape);
 
             this.graphicsData.push(data);
 
@@ -37383,9 +35990,9 @@ var Graphics = function (_Container) {
             }
 
             // for each webgl data entry, destroy the WebGLGraphicsData
-            for (var id in this._webGL) {
-                for (var j = 0; j < this._webGL[id].data.length; ++j) {
-                    this._webGL[id].data[j].destroy();
+            for (var id in this._webgl) {
+                for (var j = 0; j < this._webgl[id].data.length; ++j) {
+                    this._webgl[id].data[j].destroy();
                 }
             }
 
@@ -37396,7 +36003,7 @@ var Graphics = function (_Container) {
             this.graphicsData = null;
 
             this.currentPath = null;
-            this._webGL = null;
+            this._webgl = null;
             this._localBounds = null;
         }
     }]);
@@ -37409,30 +36016,8 @@ exports.default = Graphics;
 
 Graphics._SPRITE_TEXTURE = null;
 
-/**
- * Graphics curves resolution settings. If `adaptive` flag is set to `true`,
- * the resolution is calculated based on the curve's length to ensure better visual quality.
- * Adaptive draw works with `bezierCurveTo` and `quadraticCurveTo`.
- *
- * @static
- * @constant
- * @memberof PIXI.Graphics
- * @name CURVES
- * @type {object}
- * @property {boolean} adaptive=false - flag indicating if the resolution should be adaptive
- * @property {number} maxLength=10 - maximal length of a single segment of the curve (if adaptive = false, ignored)
- * @property {number} minSegments=8 - minimal number of segments in the curve (if adaptive = false, ignored)
- * @property {number} maxSegments=2048 - maximal number of segments in the curve (if adaptive = false, ignored)
- */
-Graphics.CURVES = {
-    adaptive: false,
-    maxLength: 10,
-    minSegments: 8,
-    maxSegments: 2048
-};
-
 /***/ }),
-/* 195 */
+/* 193 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -37456,13 +36041,13 @@ exports.default = bezierCurveTo;
  * @param {number} cpY2 - Second Control point y
  * @param {number} toX - Destination point x
  * @param {number} toY - Destination point y
- * @param {number} n - Number of segments approximating the bezier curve
  * @param {number[]} [path=[]] - Path array to push points into
  * @return {number[]} Array of points of the curve
  */
-function bezierCurveTo(fromX, fromY, cpX, cpY, cpX2, cpY2, toX, toY, n) {
-    var path = arguments.length > 9 && arguments[9] !== undefined ? arguments[9] : [];
+function bezierCurveTo(fromX, fromY, cpX, cpY, cpX2, cpY2, toX, toY) {
+    var path = arguments.length > 8 && arguments[8] !== undefined ? arguments[8] : [];
 
+    var n = 20;
     var dt = 0;
     var dt2 = 0;
     var dt3 = 0;
@@ -37488,7 +36073,7 @@ function bezierCurveTo(fromX, fromY, cpX, cpY, cpX2, cpY2, toX, toY, n) {
 }
 
 /***/ }),
-/* 196 */
+/* 194 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -37512,27 +36097,27 @@ var _WebGLRenderer = __webpack_require__(24);
 
 var _WebGLRenderer2 = _interopRequireDefault(_WebGLRenderer);
 
-var _WebGLGraphicsData = __webpack_require__(197);
+var _WebGLGraphicsData = __webpack_require__(195);
 
 var _WebGLGraphicsData2 = _interopRequireDefault(_WebGLGraphicsData);
 
-var _PrimitiveShader = __webpack_require__(198);
+var _PrimitiveShader = __webpack_require__(196);
 
 var _PrimitiveShader2 = _interopRequireDefault(_PrimitiveShader);
 
-var _buildPoly = __webpack_require__(199);
+var _buildPoly = __webpack_require__(197);
 
 var _buildPoly2 = _interopRequireDefault(_buildPoly);
 
-var _buildRectangle = __webpack_require__(200);
+var _buildRectangle = __webpack_require__(198);
 
 var _buildRectangle2 = _interopRequireDefault(_buildRectangle);
 
-var _buildRoundedRectangle = __webpack_require__(201);
+var _buildRoundedRectangle = __webpack_require__(199);
 
 var _buildRoundedRectangle2 = _interopRequireDefault(_buildRoundedRectangle);
 
-var _buildCircle = __webpack_require__(202);
+var _buildCircle = __webpack_require__(200);
 
 var _buildCircle2 = _interopRequireDefault(_buildCircle);
 
@@ -37768,7 +36353,7 @@ exports.default = GraphicsRenderer;
 _WebGLRenderer2.default.registerPlugin('graphics', GraphicsRenderer);
 
 /***/ }),
-/* 197 */
+/* 195 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -37924,7 +36509,7 @@ var WebGLGraphicsData = function () {
 exports.default = WebGLGraphicsData;
 
 /***/ }),
-/* 198 */
+/* 196 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -37975,7 +36560,7 @@ var PrimitiveShader = function (_Shader) {
 exports.default = PrimitiveShader;
 
 /***/ }),
-/* 199 */
+/* 197 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -37992,7 +36577,7 @@ var _buildLine2 = _interopRequireDefault(_buildLine);
 
 var _utils = __webpack_require__(2);
 
-var _earcut = __webpack_require__(41);
+var _earcut = __webpack_require__(94);
 
 var _earcut2 = _interopRequireDefault(_earcut);
 
@@ -38067,7 +36652,7 @@ function buildPoly(graphicsData, webGLData, webGLDataNativeLines) {
 }
 
 /***/ }),
-/* 200 */
+/* 198 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -38149,7 +36734,7 @@ function buildRectangle(graphicsData, webGLData, webGLDataNativeLines) {
 }
 
 /***/ }),
-/* 201 */
+/* 199 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -38160,7 +36745,7 @@ Object.defineProperty(exports, "__esModule", {
 });
 exports.default = buildRoundedRectangle;
 
-var _earcut = __webpack_require__(41);
+var _earcut = __webpack_require__(94);
 
 var _earcut2 = _interopRequireDefault(_earcut);
 
@@ -38311,7 +36896,7 @@ function quadraticBezierCurve(fromX, fromY, cpX, cpY, toX, toY) {
 }
 
 /***/ }),
-/* 202 */
+/* 200 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -38400,7 +36985,7 @@ function buildCircle(graphicsData, webGLData, webGLDataNativeLines) {
         graphicsData.points = [];
 
         for (var _i = 0; _i < totalSegs + 1; _i++) {
-            graphicsData.points.push(x + Math.sin(seg * -_i) * width, y + Math.cos(seg * -_i) * height);
+            graphicsData.points.push(x + Math.sin(seg * _i) * width, y + Math.cos(seg * _i) * height);
         }
 
         (0, _buildLine2.default)(graphicsData, webGLData, webGLDataNativeLines);
@@ -38410,7 +36995,7 @@ function buildCircle(graphicsData, webGLData, webGLDataNativeLines) {
 }
 
 /***/ }),
-/* 203 */
+/* 201 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -38643,7 +37228,7 @@ var CanvasGraphicsRenderer = function () {
                 var fillColor = data.fillColor | 0;
                 var lineColor = data.lineColor | 0;
 
-                // super inline, cos optimization :)
+                // super inline cos im an optimization NAZI :)
                 data._fillTint = ((fillColor >> 16 & 0xFF) / 255 * tintR * 255 << 16) + ((fillColor >> 8 & 0xFF) / 255 * tintG * 255 << 8) + (fillColor & 0xFF) / 255 * tintB * 255;
 
                 data._lineTint = ((lineColor >> 16 & 0xFF) / 255 * tintR * 255 << 16) + ((lineColor >> 8 & 0xFF) / 255 * tintG * 255 << 8) + (lineColor & 0xFF) / 255 * tintB * 255;
@@ -38693,7 +37278,7 @@ exports.default = CanvasGraphicsRenderer;
 _CanvasRenderer2.default.registerPlugin('graphics', CanvasGraphicsRenderer);
 
 /***/ }),
-/* 204 */
+/* 202 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -38872,28 +37457,25 @@ var Spritesheet = function () {
 
             while (frameIndex - initialFrameIndex < maxFrames && frameIndex < this._frameKeys.length) {
                 var i = this._frameKeys[frameIndex];
-                var data = this._frames[i];
-                var rect = data.frame;
+                var rect = this._frames[i].frame;
 
                 if (rect) {
                     var frame = null;
                     var trim = null;
-                    var sourceSize = data.trimmed !== false && data.sourceSize ? data.sourceSize : data.frame;
+                    var orig = new _.Rectangle(0, 0, Math.floor(this._frames[i].sourceSize.w * sourceScale) / this.resolution, Math.floor(this._frames[i].sourceSize.h * sourceScale) / this.resolution);
 
-                    var orig = new _.Rectangle(0, 0, Math.floor(sourceSize.w * sourceScale) / this.resolution, Math.floor(sourceSize.h * sourceScale) / this.resolution);
-
-                    if (data.rotated) {
+                    if (this._frames[i].rotated) {
                         frame = new _.Rectangle(Math.floor(rect.x * sourceScale) / this.resolution, Math.floor(rect.y * sourceScale) / this.resolution, Math.floor(rect.h * sourceScale) / this.resolution, Math.floor(rect.w * sourceScale) / this.resolution);
                     } else {
                         frame = new _.Rectangle(Math.floor(rect.x * sourceScale) / this.resolution, Math.floor(rect.y * sourceScale) / this.resolution, Math.floor(rect.w * sourceScale) / this.resolution, Math.floor(rect.h * sourceScale) / this.resolution);
                     }
 
                     //  Check to see if the sprite is trimmed
-                    if (data.trimmed !== false && data.spriteSourceSize) {
-                        trim = new _.Rectangle(Math.floor(data.spriteSourceSize.x * sourceScale) / this.resolution, Math.floor(data.spriteSourceSize.y * sourceScale) / this.resolution, Math.floor(rect.w * sourceScale) / this.resolution, Math.floor(rect.h * sourceScale) / this.resolution);
+                    if (this._frames[i].trimmed) {
+                        trim = new _.Rectangle(Math.floor(this._frames[i].spriteSourceSize.x * sourceScale) / this.resolution, Math.floor(this._frames[i].spriteSourceSize.y * sourceScale) / this.resolution, Math.floor(rect.w * sourceScale) / this.resolution, Math.floor(rect.h * sourceScale) / this.resolution);
                     }
 
-                    this.textures[i] = new _.Texture(this.baseTexture, frame, orig, trim, data.rotated ? 2 : 0);
+                    this.textures[i] = new _.Texture(this.baseTexture, frame, orig, trim, this._frames[i].rotated ? 2 : 0);
 
                     // lets also add the frame to pixi's global cache for fromFrame and fromImage functions
                     _.Texture.addToCache(this.textures[i], i);
@@ -38972,7 +37554,7 @@ var Spritesheet = function () {
 exports.default = Spritesheet;
 
 /***/ }),
-/* 205 */
+/* 203 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -38985,19 +37567,8 @@ exports.default = deprecation;
 // provide method to give a stack track for warnings
 // useful for tracking-down where deprecated methods/properties/classes
 // are being used within the code
-
-// A map of warning messages already fired
-var warnings = {};
-
-// provide method to give a stack track for warnings
-// useful for tracking-down where deprecated methods/properties/classes
-// are being used within the code
 function warn(msg) {
-    // Ignore duplicat
-    if (warnings[msg]) {
-        return;
-    }
-
+    // @if DEBUG
     /* eslint-disable no-console */
     var stack = new Error().stack;
 
@@ -39018,8 +37589,7 @@ function warn(msg) {
         }
     }
     /* eslint-enable no-console */
-
-    warnings[msg] = true;
+    // @endif
 }
 
 function deprecation(core) {
@@ -40134,7 +38704,7 @@ function deprecation(core) {
 }
 
 /***/ }),
-/* 206 */
+/* 204 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -40153,7 +38723,7 @@ Object.defineProperty(exports, 'accessibleTarget', {
   }
 });
 
-var _AccessibilityManager = __webpack_require__(207);
+var _AccessibilityManager = __webpack_require__(205);
 
 Object.defineProperty(exports, 'AccessibilityManager', {
   enumerable: true,
@@ -40165,7 +38735,7 @@ Object.defineProperty(exports, 'AccessibilityManager', {
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 /***/ }),
-/* 207 */
+/* 205 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -40181,7 +38751,7 @@ var _core = __webpack_require__(0);
 
 var core = _interopRequireWildcard(_core);
 
-var _ismobilejs = __webpack_require__(39);
+var _ismobilejs = __webpack_require__(40);
 
 var _ismobilejs2 = _interopRequireDefault(_ismobilejs);
 
@@ -40419,7 +38989,7 @@ var AccessibilityManager = function () {
 
             var children = displayObject.children;
 
-            for (var i = 0; i < children.length; i++) {
+            for (var i = children.length - 1; i >= 0; i--) {
                 this.updateAccessibleObjects(children[i]);
             }
         }
@@ -40489,14 +39059,6 @@ var AccessibilityManager = function () {
 
                         div.style.width = hitArea.width * sx + 'px';
                         div.style.height = hitArea.height * sy + 'px';
-
-                        // update button titles and hints if they exist and they've changed
-                        if (div.title !== child.accessibleTitle && child.accessibleTitle !== null) {
-                            div.title = child.accessibleTitle;
-                        }
-                        if (div.getAttribute('aria-label') !== child.accessibleHint && child.accessibleHint !== null) {
-                            div.setAttribute('aria-label', child.accessibleHint);
-                        }
                     }
                 }
             }
@@ -40557,34 +39119,18 @@ var AccessibilityManager = function () {
                 div.style.zIndex = DIV_TOUCH_ZINDEX;
                 div.style.borderStyle = 'none';
 
-                // ARIA attributes ensure that button title and hint updates are announced properly
-                if (navigator.userAgent.toLowerCase().indexOf('chrome') > -1) {
-                    // Chrome doesn't need aria-live to work as intended; in fact it just gets more confused.
-                    div.setAttribute('aria-live', 'off');
-                } else {
-                    div.setAttribute('aria-live', 'polite');
-                }
-
-                if (navigator.userAgent.match(/rv:.*Gecko\//)) {
-                    // FireFox needs this to announce only the new button name
-                    div.setAttribute('aria-relevant', 'additions');
-                } else {
-                    // required by IE, other browsers don't much care
-                    div.setAttribute('aria-relevant', 'text');
-                }
-
                 div.addEventListener('click', this._onClick.bind(this));
                 div.addEventListener('focus', this._onFocus.bind(this));
                 div.addEventListener('focusout', this._onFocusOut.bind(this));
             }
 
-            if (displayObject.accessibleTitle && displayObject.accessibleTitle !== null) {
+            if (displayObject.accessibleTitle) {
                 div.title = displayObject.accessibleTitle;
-            } else if (!displayObject.accessibleHint || displayObject.accessibleHint === null) {
-                div.title = 'displayObject ' + displayObject.tabIndex;
+            } else if (!displayObject.accessibleTitle && !displayObject.accessibleHint) {
+                div.title = 'displayObject ' + this.tabIndex;
             }
 
-            if (displayObject.accessibleHint && displayObject.accessibleHint !== null) {
+            if (displayObject.accessibleHint) {
                 div.setAttribute('aria-label', displayObject.accessibleHint);
             }
 
@@ -40624,9 +39170,6 @@ var AccessibilityManager = function () {
     }, {
         key: '_onFocus',
         value: function _onFocus(e) {
-            if (!e.target.getAttribute('aria-live', 'off')) {
-                e.target.setAttribute('aria-live', 'assertive');
-            }
             var interactionManager = this.renderer.plugins.interaction;
 
             interactionManager.dispatchEvent(e.target.displayObject, 'mouseover', interactionManager.eventData);
@@ -40642,9 +39185,6 @@ var AccessibilityManager = function () {
     }, {
         key: '_onFocusOut',
         value: function _onFocusOut(e) {
-            if (!e.target.getAttribute('aria-live', 'off')) {
-                e.target.setAttribute('aria-live', 'polite');
-            }
             var interactionManager = this.renderer.plugins.interaction;
 
             interactionManager.dispatchEvent(e.target.displayObject, 'mouseout', interactionManager.eventData);
@@ -40671,16 +39211,11 @@ var AccessibilityManager = function () {
          * Is called when the mouse moves across the renderer element
          *
          * @private
-         * @param {MouseEvent} e - The mouse event.
          */
 
     }, {
         key: '_onMouseMove',
-        value: function _onMouseMove(e) {
-            if (e.movementX === 0 && e.movementY === 0) {
-                return;
-            }
-
+        value: function _onMouseMove() {
             this.deactivate();
         }
 
@@ -40717,7 +39252,7 @@ core.WebGLRenderer.registerPlugin('accessibility', AccessibilityManager);
 core.CanvasRenderer.registerPlugin('accessibility', AccessibilityManager);
 
 /***/ }),
-/* 208 */
+/* 206 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -40727,7 +39262,7 @@ Object.defineProperty(exports, "__esModule", {
   value: true
 });
 
-var _WebGLExtract = __webpack_require__(209);
+var _WebGLExtract = __webpack_require__(207);
 
 Object.defineProperty(exports, 'webgl', {
   enumerable: true,
@@ -40736,7 +39271,7 @@ Object.defineProperty(exports, 'webgl', {
   }
 });
 
-var _CanvasExtract = __webpack_require__(210);
+var _CanvasExtract = __webpack_require__(208);
 
 Object.defineProperty(exports, 'canvas', {
   enumerable: true,
@@ -40748,7 +39283,7 @@ Object.defineProperty(exports, 'canvas', {
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 /***/ }),
-/* 209 */
+/* 207 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -40849,14 +39384,12 @@ var WebGLExtract = function () {
             var frame = void 0;
             var flipY = false;
             var renderTexture = void 0;
-            var generated = false;
 
             if (target) {
                 if (target instanceof core.RenderTexture) {
                     renderTexture = target;
                 } else {
                     renderTexture = this.renderer.generateTexture(target);
-                    generated = true;
                 }
             }
 
@@ -40906,11 +39439,7 @@ var WebGLExtract = function () {
                 }
             }
 
-            if (generated) {
-                renderTexture.destroy(true);
-            }
             // send the canvas back..
-
             return canvasBuffer.canvas;
         }
 
@@ -40931,14 +39460,12 @@ var WebGLExtract = function () {
             var resolution = void 0;
             var frame = void 0;
             var renderTexture = void 0;
-            var generated = false;
 
             if (target) {
                 if (target instanceof core.RenderTexture) {
                     renderTexture = target;
                 } else {
                     renderTexture = this.renderer.generateTexture(target);
-                    generated = true;
                 }
             }
 
@@ -40969,10 +39496,6 @@ var WebGLExtract = function () {
                 gl.readPixels(frame.x * resolution, frame.y * resolution, width, height, gl.RGBA, gl.UNSIGNED_BYTE, webglPixels);
             }
 
-            if (generated) {
-                renderTexture.destroy(true);
-            }
-
             return webglPixels;
         }
 
@@ -40998,7 +39521,7 @@ exports.default = WebGLExtract;
 core.WebGLRenderer.registerPlugin('extract', WebGLExtract);
 
 /***/ }),
-/* 210 */
+/* 208 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -41193,7 +39716,7 @@ exports.default = CanvasExtract;
 core.CanvasRenderer.registerPlugin('extract', CanvasExtract);
 
 /***/ }),
-/* 211 */
+/* 209 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -41619,7 +40142,7 @@ var AnimatedSprite = function (_core$Sprite) {
 exports.default = AnimatedSprite;
 
 /***/ }),
-/* 212 */
+/* 210 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -41881,7 +40404,7 @@ var TilingSprite = function (_core$Sprite) {
                 this._bounds.minX = this._width * -this._anchor._x;
                 this._bounds.minY = this._height * -this._anchor._y;
                 this._bounds.maxX = this._width * (1 - this._anchor._x);
-                this._bounds.maxY = this._height * (1 - this._anchor._y);
+                this._bounds.maxY = this._height * (1 - this._anchor._x);
 
                 if (!rect) {
                     if (!this._localBoundsRect) {
@@ -42085,7 +40608,7 @@ var TilingSprite = function (_core$Sprite) {
 exports.default = TilingSprite;
 
 /***/ }),
-/* 213 */
+/* 211 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -42103,7 +40626,7 @@ var core = _interopRequireWildcard(_core);
 
 var _const = __webpack_require__(1);
 
-var _path = __webpack_require__(7);
+var _path = __webpack_require__(6);
 
 function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj; } else { var newObj = {}; if (obj != null) { for (var key in obj) { if (Object.prototype.hasOwnProperty.call(obj, key)) newObj[key] = obj[key]; } } newObj.default = obj; return newObj; } }
 
@@ -42259,7 +40782,7 @@ exports.default = TilingSpriteRenderer;
 core.WebGLRenderer.registerPlugin('tilingSprite', TilingSpriteRenderer);
 
 /***/ }),
-/* 214 */
+/* 212 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -42277,7 +40800,7 @@ var _core = __webpack_require__(0);
 
 var core = _interopRequireWildcard(_core);
 
-var _ObservablePoint = __webpack_require__(67);
+var _ObservablePoint = __webpack_require__(66);
 
 var _ObservablePoint2 = _interopRequireDefault(_ObservablePoint);
 
@@ -42409,13 +40932,6 @@ var BitmapText = function (_core$Container) {
         _this._maxLineHeight = 0;
 
         /**
-         * Letter spacing. This is useful for setting the space between characters.
-         * @member {number}
-         * @private
-         */
-        _this._letterSpacing = 0;
-
-        /**
          * Text anchor. read-only
          *
          * @member {PIXI.ObservablePoint}
@@ -42451,33 +40967,44 @@ var BitmapText = function (_core$Container) {
             var pos = new core.Point();
             var chars = [];
             var lineWidths = [];
-            var text = this.text.replace(/(?:\r\n|\r)/g, '\n');
-            var textLength = text.length;
-            var maxWidth = this._maxWidth * data.size / this._font.size;
 
             var prevCharCode = null;
             var lastLineWidth = 0;
             var maxLineWidth = 0;
             var line = 0;
-            var lastBreakPos = -1;
-            var lastBreakWidth = 0;
+            var lastSpace = -1;
+            var lastSpaceWidth = 0;
             var spacesRemoved = 0;
             var maxLineHeight = 0;
 
-            for (var i = 0; i < textLength; i++) {
-                var charCode = text.charCodeAt(i);
-                var char = text.charAt(i);
+            for (var i = 0; i < this.text.length; i++) {
+                var charCode = this.text.charCodeAt(i);
 
-                if (/(?:\s)/.test(char)) {
-                    lastBreakPos = i;
-                    lastBreakWidth = lastLineWidth;
+                if (/(\s)/.test(this.text.charAt(i))) {
+                    lastSpace = i;
+                    lastSpaceWidth = lastLineWidth;
                 }
 
-                if (char === '\r' || char === '\n') {
+                if (/(?:\r\n|\r|\n)/.test(this.text.charAt(i))) {
                     lineWidths.push(lastLineWidth);
                     maxLineWidth = Math.max(maxLineWidth, lastLineWidth);
-                    ++line;
+                    line++;
+
+                    pos.x = 0;
+                    pos.y += data.lineHeight;
+                    prevCharCode = null;
+                    continue;
+                }
+
+                if (lastSpace !== -1 && this._maxWidth > 0 && pos.x * scale > this._maxWidth) {
+                    core.utils.removeItems(chars, lastSpace - spacesRemoved, i - lastSpace);
+                    i = lastSpace;
+                    lastSpace = -1;
                     ++spacesRemoved;
+
+                    lineWidths.push(lastSpaceWidth);
+                    maxLineWidth = Math.max(maxLineWidth, lastSpaceWidth);
+                    line++;
 
                     pos.x = 0;
                     pos.y += data.lineHeight;
@@ -42499,39 +41026,16 @@ var BitmapText = function (_core$Container) {
                     texture: charData.texture,
                     line: line,
                     charCode: charCode,
-                    position: new core.Point(pos.x + charData.xOffset + this._letterSpacing / 2, pos.y + charData.yOffset)
+                    position: new core.Point(pos.x + charData.xOffset, pos.y + charData.yOffset)
                 });
-                pos.x += charData.xAdvance + this._letterSpacing;
-                lastLineWidth = pos.x;
+                lastLineWidth = pos.x + (charData.texture.width + charData.xOffset);
+                pos.x += charData.xAdvance;
                 maxLineHeight = Math.max(maxLineHeight, charData.yOffset + charData.texture.height);
                 prevCharCode = charCode;
-
-                if (lastBreakPos !== -1 && maxWidth > 0 && pos.x > maxWidth) {
-                    ++spacesRemoved;
-                    core.utils.removeItems(chars, 1 + lastBreakPos - spacesRemoved, 1 + i - lastBreakPos);
-                    i = lastBreakPos;
-                    lastBreakPos = -1;
-
-                    lineWidths.push(lastBreakWidth);
-                    maxLineWidth = Math.max(maxLineWidth, lastBreakWidth);
-                    line++;
-
-                    pos.x = 0;
-                    pos.y += data.lineHeight;
-                    prevCharCode = null;
-                }
             }
 
-            var lastChar = text.charAt(text.length - 1);
-
-            if (lastChar !== '\r' && lastChar !== '\n') {
-                if (/(?:\s)/.test(lastChar)) {
-                    lastLineWidth = lastBreakWidth;
-                }
-
-                lineWidths.push(lastLineWidth);
-                maxLineWidth = Math.max(maxLineWidth, lastLineWidth);
-            }
+            lineWidths.push(lastLineWidth);
+            maxLineWidth = Math.max(maxLineWidth, lastLineWidth);
 
             var lineAlignOffsets = [];
 
@@ -42796,25 +41300,6 @@ var BitmapText = function (_core$Container) {
         }
 
         /**
-         * Additional space between characters.
-         *
-         * @member {number}
-         */
-
-    }, {
-        key: 'letterSpacing',
-        get: function get() {
-            return this._letterSpacing;
-        },
-        set: function set(value) // eslint-disable-line require-jsdoc
-        {
-            if (this._letterSpacing !== value) {
-                this._letterSpacing = value;
-                this.dirty = true;
-            }
-        }
-
-        /**
          * The height of the overall text, different from fontSize,
          * which is defined in the style object
          *
@@ -42835,64 +41320,48 @@ var BitmapText = function (_core$Container) {
          *
          * @static
          * @param {XMLDocument} xml - The XML document data.
-         * @param {Object.<string, PIXI.Texture>|PIXI.Texture|PIXI.Texture[]} textures - List of textures for each page.
-         *  If providing an object, the key is the `<page>` element's `file` attribute in the FNT file.
+         * @param {PIXI.Texture} texture - Texture with all symbols.
          * @return {Object} Result font object with font, size, lineHeight and char fields.
          */
 
     }], [{
         key: 'registerFont',
-        value: function registerFont(xml, textures) {
+        value: function registerFont(xml, texture) {
             var data = {};
             var info = xml.getElementsByTagName('info')[0];
             var common = xml.getElementsByTagName('common')[0];
-            var pages = xml.getElementsByTagName('page');
-            var res = (0, _utils.getResolutionOfUrl)(pages[0].getAttribute('file'), _settings2.default.RESOLUTION);
-            var pagesTextures = {};
+            var fileName = xml.getElementsByTagName('page')[0].getAttribute('file');
+            var res = (0, _utils.getResolutionOfUrl)(fileName, _settings2.default.RESOLUTION);
 
             data.font = info.getAttribute('face');
             data.size = parseInt(info.getAttribute('size'), 10);
             data.lineHeight = parseInt(common.getAttribute('lineHeight'), 10) / res;
             data.chars = {};
 
-            // Single texture, convert to list
-            if (textures instanceof core.Texture) {
-                textures = [textures];
-            }
-
-            // Convert the input Texture, Textures or object
-            // into a page Texture lookup by "id"
-            for (var i = 0; i < pages.length; i++) {
-                var id = pages[i].getAttribute('id');
-                var file = pages[i].getAttribute('file');
-
-                pagesTextures[id] = textures instanceof Array ? textures[i] : textures[file];
-            }
-
             // parse letters
             var letters = xml.getElementsByTagName('char');
 
-            for (var _i5 = 0; _i5 < letters.length; _i5++) {
-                var letter = letters[_i5];
+            for (var i = 0; i < letters.length; i++) {
+                var letter = letters[i];
                 var charCode = parseInt(letter.getAttribute('id'), 10);
-                var page = letter.getAttribute('page') || 0;
-                var textureRect = new core.Rectangle(parseInt(letter.getAttribute('x'), 10) / res + pagesTextures[page].frame.x / res, parseInt(letter.getAttribute('y'), 10) / res + pagesTextures[page].frame.y / res, parseInt(letter.getAttribute('width'), 10) / res, parseInt(letter.getAttribute('height'), 10) / res);
+
+                var textureRect = new core.Rectangle(parseInt(letter.getAttribute('x'), 10) / res + texture.frame.x / res, parseInt(letter.getAttribute('y'), 10) / res + texture.frame.y / res, parseInt(letter.getAttribute('width'), 10) / res, parseInt(letter.getAttribute('height'), 10) / res);
 
                 data.chars[charCode] = {
                     xOffset: parseInt(letter.getAttribute('xoffset'), 10) / res,
                     yOffset: parseInt(letter.getAttribute('yoffset'), 10) / res,
                     xAdvance: parseInt(letter.getAttribute('xadvance'), 10) / res,
                     kerning: {},
-                    texture: new core.Texture(pagesTextures[page].baseTexture, textureRect),
-                    page: page
+                    texture: new core.Texture(texture.baseTexture, textureRect)
+
                 };
             }
 
             // parse kernings
             var kernings = xml.getElementsByTagName('kerning');
 
-            for (var _i6 = 0; _i6 < kernings.length; _i6++) {
-                var kerning = kernings[_i6];
+            for (var _i5 = 0; _i5 < kernings.length; _i5++) {
+                var kerning = kernings[_i5];
                 var first = parseInt(kerning.getAttribute('first'), 10) / res;
                 var second = parseInt(kerning.getAttribute('second'), 10) / res;
                 var amount = parseInt(kerning.getAttribute('amount'), 10) / res;
@@ -42919,7 +41388,7 @@ exports.default = BitmapText;
 BitmapText.fonts = {};
 
 /***/ }),
-/* 215 */
+/* 213 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -42929,7 +41398,7 @@ var _core = __webpack_require__(0);
 
 var core = _interopRequireWildcard(_core);
 
-var _Texture = __webpack_require__(6);
+var _Texture = __webpack_require__(7);
 
 var _Texture2 = _interopRequireDefault(_Texture);
 
@@ -43103,8 +41572,8 @@ DisplayObject.prototype._initCachedDisplayObject = function _initCachedDisplayOb
     var bounds = this.getLocalBounds().clone();
 
     // add some padding!
-    if (this.filters) {
-        var padding = this.filters[0].padding;
+    if (this._filters) {
+        var padding = this._filters[0].padding;
 
         bounds.pad(padding);
     }
@@ -43327,7 +41796,7 @@ DisplayObject.prototype._cacheAsBitmapDestroy = function _cacheAsBitmapDestroy(o
 };
 
 /***/ }),
-/* 216 */
+/* 214 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -43343,14 +41812,13 @@ function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj;
  * The instance name of the object.
  *
  * @memberof PIXI.DisplayObject#
- * @member {string} name
+ * @member {string}
  */
 core.DisplayObject.prototype.name = null;
 
 /**
  * Returns the display object in the container
  *
- * @method getChildByName
  * @memberof PIXI.Container#
  * @param {string} name - instance name
  * @return {PIXI.DisplayObject} The child with the specified name.
@@ -43366,7 +41834,7 @@ core.Container.prototype.getChildByName = function getChildByName(name) {
 };
 
 /***/ }),
-/* 217 */
+/* 215 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -43381,7 +41849,6 @@ function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj;
 /**
  * Returns the global position of the displayObject. Does not depend on object scale, rotation and pivot.
  *
- * @method getGlobalPosition
  * @memberof PIXI.DisplayObject#
  * @param {Point} point - the point to write the global value to. If null a new point will be returned
  * @param {boolean} skipUpdate - setting to true will stop the transforms of the scene graph from
@@ -43404,7 +41871,7 @@ core.DisplayObject.prototype.getGlobalPosition = function getGlobalPosition() {
 };
 
 /***/ }),
-/* 218 */
+/* 216 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -43414,7 +41881,7 @@ Object.defineProperty(exports, "__esModule", {
   value: true
 });
 
-var _FXAAFilter = __webpack_require__(219);
+var _FXAAFilter = __webpack_require__(217);
 
 Object.defineProperty(exports, 'FXAAFilter', {
   enumerable: true,
@@ -43423,7 +41890,7 @@ Object.defineProperty(exports, 'FXAAFilter', {
   }
 });
 
-var _NoiseFilter = __webpack_require__(220);
+var _NoiseFilter = __webpack_require__(218);
 
 Object.defineProperty(exports, 'NoiseFilter', {
   enumerable: true,
@@ -43432,7 +41899,7 @@ Object.defineProperty(exports, 'NoiseFilter', {
   }
 });
 
-var _DisplacementFilter = __webpack_require__(221);
+var _DisplacementFilter = __webpack_require__(219);
 
 Object.defineProperty(exports, 'DisplacementFilter', {
   enumerable: true,
@@ -43441,7 +41908,7 @@ Object.defineProperty(exports, 'DisplacementFilter', {
   }
 });
 
-var _BlurFilter = __webpack_require__(222);
+var _BlurFilter = __webpack_require__(220);
 
 Object.defineProperty(exports, 'BlurFilter', {
   enumerable: true,
@@ -43468,7 +41935,7 @@ Object.defineProperty(exports, 'BlurYFilter', {
   }
 });
 
-var _ColorMatrixFilter = __webpack_require__(223);
+var _ColorMatrixFilter = __webpack_require__(221);
 
 Object.defineProperty(exports, 'ColorMatrixFilter', {
   enumerable: true,
@@ -43477,7 +41944,7 @@ Object.defineProperty(exports, 'ColorMatrixFilter', {
   }
 });
 
-var _AlphaFilter = __webpack_require__(224);
+var _AlphaFilter = __webpack_require__(222);
 
 Object.defineProperty(exports, 'AlphaFilter', {
   enumerable: true,
@@ -43489,7 +41956,7 @@ Object.defineProperty(exports, 'AlphaFilter', {
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 /***/ }),
-/* 219 */
+/* 217 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -43503,7 +41970,7 @@ var _core = __webpack_require__(0);
 
 var core = _interopRequireWildcard(_core);
 
-var _path = __webpack_require__(7);
+var _path = __webpack_require__(6);
 
 function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj; } else { var newObj = {}; if (obj != null) { for (var key in obj) { if (Object.prototype.hasOwnProperty.call(obj, key)) newObj[key] = obj[key]; } } newObj.default = obj; return newObj; } }
 
@@ -43549,7 +42016,7 @@ var FXAAFilter = function (_core$Filter) {
 exports.default = FXAAFilter;
 
 /***/ }),
-/* 220 */
+/* 218 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -43565,7 +42032,7 @@ var _core = __webpack_require__(0);
 
 var core = _interopRequireWildcard(_core);
 
-var _path = __webpack_require__(7);
+var _path = __webpack_require__(6);
 
 function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj; } else { var newObj = {}; if (obj != null) { for (var key in obj) { if (Object.prototype.hasOwnProperty.call(obj, key)) newObj[key] = obj[key]; } } newObj.default = obj; return newObj; } }
 
@@ -43652,7 +42119,7 @@ var NoiseFilter = function (_core$Filter) {
 exports.default = NoiseFilter;
 
 /***/ }),
-/* 221 */
+/* 219 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -43668,7 +42135,7 @@ var _core = __webpack_require__(0);
 
 var core = _interopRequireWildcard(_core);
 
-var _path = __webpack_require__(7);
+var _path = __webpack_require__(6);
 
 function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj; } else { var newObj = {}; if (obj != null) { for (var key in obj) { if (Object.prototype.hasOwnProperty.call(obj, key)) newObj[key] = obj[key]; } } newObj.default = obj; return newObj; } }
 
@@ -43767,7 +42234,7 @@ var DisplacementFilter = function (_core$Filter) {
 exports.default = DisplacementFilter;
 
 /***/ }),
-/* 222 */
+/* 220 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -43948,7 +42415,7 @@ var BlurFilter = function (_core$Filter) {
 exports.default = BlurFilter;
 
 /***/ }),
-/* 223 */
+/* 221 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -43964,7 +42431,7 @@ var _core = __webpack_require__(0);
 
 var core = _interopRequireWildcard(_core);
 
-var _path = __webpack_require__(7);
+var _path = __webpack_require__(6);
 
 function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj; } else { var newObj = {}; if (obj != null) { for (var key in obj) { if (Object.prototype.hasOwnProperty.call(obj, key)) newObj[key] = obj[key]; } } newObj.default = obj; return newObj; } }
 
@@ -44264,7 +42731,7 @@ var ColorMatrixFilter = function (_core$Filter) {
     }, {
         key: 'negative',
         value: function negative(multiply) {
-            var matrix = [-1, 0, 0, 1, 0, 0, -1, 0, 1, 0, 0, 0, -1, 1, 0, 0, 0, 0, 1, 0];
+            var matrix = [0, 1, 1, 0, 0, 1, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 0];
 
             this._loadMatrix(matrix, multiply);
         }
@@ -44528,7 +42995,7 @@ exports.default = ColorMatrixFilter;
 ColorMatrixFilter.prototype.grayscale = ColorMatrixFilter.prototype.greyscale;
 
 /***/ }),
-/* 224 */
+/* 222 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -44544,7 +43011,7 @@ var _core = __webpack_require__(0);
 
 var core = _interopRequireWildcard(_core);
 
-var _path = __webpack_require__(7);
+var _path = __webpack_require__(6);
 
 function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj; } else { var newObj = {}; if (obj != null) { for (var key in obj) { if (Object.prototype.hasOwnProperty.call(obj, key)) newObj[key] = obj[key]; } } newObj.default = obj; return newObj; } }
 
@@ -44618,7 +43085,7 @@ var AlphaFilter = function (_core$Filter) {
 exports.default = AlphaFilter;
 
 /***/ }),
-/* 225 */
+/* 223 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -44637,7 +43104,7 @@ Object.defineProperty(exports, 'InteractionData', {
   }
 });
 
-var _InteractionManager = __webpack_require__(226);
+var _InteractionManager = __webpack_require__(224);
 
 Object.defineProperty(exports, 'InteractionManager', {
   enumerable: true,
@@ -44676,7 +43143,7 @@ Object.defineProperty(exports, 'InteractionEvent', {
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 /***/ }),
-/* 226 */
+/* 224 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -44727,7 +43194,7 @@ function _inherits(subClass, superClass) { if (typeof superClass !== "function" 
 // Mix interactiveTarget into core.DisplayObject.prototype, after deprecation has been handled
 core.utils.mixins.delayMixin(core.DisplayObject.prototype, _interactiveTarget2.default);
 
-var MOUSE_POINTER_ID = 1;
+var MOUSE_POINTER_ID = 'MOUSE';
 
 // helpers for hitTest() - only used inside hitTest()
 var hitTestEvent = {
@@ -44872,6 +43339,8 @@ var InteractionManager = function (_EventEmitter) {
          * @member {boolean}
          */
         _this.supportsTouchEvents = 'ontouchstart' in window;
+
+        console.log("this.supportsTouchEvents = 'ontouchstart' in window, " + _this.supportsTouchEvents);
 
         /**
          * Does the device support pointer events
@@ -45712,37 +44181,21 @@ var InteractionManager = function (_EventEmitter) {
             var hit = false;
             var interactiveParent = interactive;
 
-            // Flag here can set to false if the event is outside the parents hitArea or mask
-            var hitTestChildren = true;
-
-            // If there is a hitArea, no need to test against anything else if the pointer is not within the hitArea
-            // There is also no longer a need to hitTest children.
+            // if the displayobject has a hitArea, then it does not need to hitTest children.
             if (displayObject.hitArea) {
-                if (hitTest) {
-                    displayObject.worldTransform.applyInverse(point, this._tempPoint);
-                    if (!displayObject.hitArea.contains(this._tempPoint.x, this._tempPoint.y)) {
-                        hitTest = false;
-                        hitTestChildren = false;
-                    } else {
-                        hit = true;
-                    }
-                }
                 interactiveParent = false;
             }
-            // If there is a mask, no need to test against anything else if the pointer is not within the mask
-            else if (displayObject._mask) {
-                    if (hitTest) {
-                        if (!displayObject._mask.containsPoint(point)) {
-                            hitTest = false;
-                            hitTestChildren = false;
-                        }
+            // it has a mask! Then lets hit test that before continuing
+            else if (hitTest && displayObject._mask) {
+                    if (!displayObject._mask.containsPoint(point)) {
+                        hitTest = false;
                     }
                 }
 
             // ** FREE TIP **! If an object is not interactive or has no buttons in it
             // (such as a game scene!) set interactiveChildren to false for that displayObject.
             // This will allow PixiJS to completely ignore and bypass checking the displayObjects children.
-            if (hitTestChildren && displayObject.interactiveChildren && displayObject.children) {
+            if (displayObject.interactiveChildren && displayObject.children) {
                 var children = displayObject.children;
 
                 for (var i = children.length - 1; i >= 0; i--) {
@@ -45784,8 +44237,12 @@ var InteractionManager = function (_EventEmitter) {
                 // has already been hit - but only if it was interactive, otherwise we need to keep
                 // looking for an interactive child, just in case we hit one
                 if (hitTest && !interactionEvent.target) {
-                    // already tested against hitArea if it is defined
-                    if (!displayObject.hitArea && displayObject.containsPoint) {
+                    if (displayObject.hitArea) {
+                        displayObject.worldTransform.applyInverse(point, this._tempPoint);
+                        if (displayObject.hitArea.contains(this._tempPoint.x, this._tempPoint.y)) {
+                            hit = true;
+                        }
+                    } else if (displayObject.containsPoint) {
                         if (displayObject.containsPoint(point)) {
                             hit = true;
                         }
@@ -45816,6 +44273,7 @@ var InteractionManager = function (_EventEmitter) {
     }, {
         key: 'onPointerDown',
         value: function onPointerDown(originalEvent) {
+            console.log("--------onPointerDown-------1, this.supportsTouchEvents=" + this.supportsTouchEvents);
             // if we support touch events, then only use those for touch events, not pointer events
             if (this.supportsTouchEvents && originalEvent.pointerType === 'touch') return;
 
@@ -46019,9 +44477,6 @@ var InteractionManager = function (_EventEmitter) {
             var isTouch = data.pointerType === 'touch';
 
             var isMouse = data.pointerType === 'mouse' || data.pointerType === 'pen';
-            // need to track mouse down status in the mouse block so that we can emit
-            // event in a later block
-            var isMouseTap = false;
 
             // Mouse only
             if (isMouse) {
@@ -46038,8 +44493,6 @@ var InteractionManager = function (_EventEmitter) {
 
                     if (isDown) {
                         this.dispatchEvent(displayObject, isRightButton ? 'rightclick' : 'click', interactionEvent);
-                        // because we can confirm that the mousedown happened on this object, flag for later emit of pointertap
-                        isMouseTap = true;
                     }
                 } else if (isDown) {
                     this.dispatchEvent(displayObject, isRightButton ? 'rightupoutside' : 'mouseupoutside', interactionEvent);
@@ -46060,10 +44513,7 @@ var InteractionManager = function (_EventEmitter) {
                 if (isTouch) this.dispatchEvent(displayObject, 'touchend', interactionEvent);
 
                 if (trackingData) {
-                    // emit pointertap if not a mouse, or if the mouse block decided it was a tap
-                    if (!isMouse || isMouseTap) {
-                        this.dispatchEvent(displayObject, 'pointertap', interactionEvent);
-                    }
+                    this.dispatchEvent(displayObject, 'pointertap', interactionEvent);
                     if (isTouch) {
                         this.dispatchEvent(displayObject, 'tap', interactionEvent);
                         // touches are no longer over (if they ever were) when we get the touchend
@@ -46096,7 +44546,7 @@ var InteractionManager = function (_EventEmitter) {
 
             var events = this.normalizeToPointerData(originalEvent);
 
-            if (events[0].pointerType === 'mouse' || events[0].pointerType === 'pen') {
+            if (events[0].pointerType === 'mouse') {
                 this.didMove = true;
 
                 this.cursor = null;
@@ -46309,7 +44759,7 @@ var InteractionManager = function (_EventEmitter) {
             }
             // copy properties from the event, so that we can make sure that touch/pointer specific
             // data is available
-            interactionData.copyEvent(event);
+            interactionData._copyEvent(event);
 
             return interactionData;
         }
@@ -46328,7 +44778,7 @@ var InteractionManager = function (_EventEmitter) {
 
             if (interactionData) {
                 delete this.activeInteractionData[pointerId];
-                interactionData.reset();
+                interactionData._reset();
                 this.interactionDataPool.push(interactionData);
             }
         }
@@ -46366,7 +44816,7 @@ var InteractionManager = function (_EventEmitter) {
             }
 
             interactionData.originalEvent = pointerEvent;
-            interactionEvent.reset();
+            interactionEvent._reset();
 
             return interactionEvent;
         }
@@ -46384,6 +44834,8 @@ var InteractionManager = function (_EventEmitter) {
         key: 'normalizeToPointerData',
         value: function normalizeToPointerData(event) {
             var normalizedEvents = [];
+
+            console.log("--------normalizeToPointerData------2, this.supportsTouchEvents=" + this.supportsTouchEvents);
 
             if (this.supportsTouchEvents && event instanceof TouchEvent) {
                 for (var i = 0, li = event.changedTouches.length; i < li; i++) {
@@ -46491,7 +44943,7 @@ core.WebGLRenderer.registerPlugin('interaction', InteractionManager);
 core.CanvasRenderer.registerPlugin('interaction', InteractionManager);
 
 /***/ }),
-/* 227 */
+/* 225 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -46554,7 +45006,7 @@ var _Application = __webpack_require__(95);
 
 var _Application2 = _interopRequireDefault(_Application);
 
-var _loader = __webpack_require__(229);
+var _loader = __webpack_require__(227);
 
 var _loader2 = _interopRequireDefault(_loader);
 
@@ -46616,16 +45068,16 @@ Object.defineProperty(AppPrototype, 'loader', {
 // Override the destroy function
 // making sure to destroy the current Loader
 AppPrototype._parentDestroy = AppPrototype.destroy;
-AppPrototype.destroy = function destroy(removeView, stageOptions) {
+AppPrototype.destroy = function destroy(removeView) {
     if (this._loader) {
         this._loader.destroy();
         this._loader = null;
     }
-    this._parentDestroy(removeView, stageOptions);
+    this._parentDestroy(removeView);
 };
 
 /***/ }),
-/* 228 */
+/* 226 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -47283,7 +45735,7 @@ exports.default = Loader;
 //# sourceMappingURL=Loader.js.map
 
 /***/ }),
-/* 229 */
+/* 227 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -47299,7 +45751,7 @@ var _resourceLoader = __webpack_require__(20);
 
 var _resourceLoader2 = _interopRequireDefault(_resourceLoader);
 
-var _blob = __webpack_require__(230);
+var _blob = __webpack_require__(228);
 
 var _eventemitter = __webpack_require__(10);
 
@@ -47466,7 +45918,7 @@ var Resource = _resourceLoader2.default.Resource;
 Resource.setExtensionXhrType('fnt', Resource.XHR_RESPONSE_TYPE.DOCUMENT);
 
 /***/ }),
-/* 230 */
+/* 228 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -47559,7 +46011,7 @@ function blobMiddlewareFactory() {
 //# sourceMappingURL=blob.js.map
 
 /***/ }),
-/* 231 */
+/* 229 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -47583,7 +46035,7 @@ var _Mesh = __webpack_require__(28);
 
 var _Mesh2 = _interopRequireDefault(_Mesh);
 
-var _path = __webpack_require__(7);
+var _path = __webpack_require__(6);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
@@ -47669,8 +46121,7 @@ var MeshRenderer = function (_core$ObjectRenderer) {
                     // build the vao object that will render..
                     vao: null,
                     dirty: mesh.dirty,
-                    indexDirty: mesh.indexDirty,
-                    vertexDirty: mesh.vertexDirty
+                    indexDirty: mesh.indexDirty
                 };
 
                 // build the vao object that will render..
@@ -47691,10 +46142,7 @@ var MeshRenderer = function (_core$ObjectRenderer) {
                 glData.indexBuffer.upload(mesh.indices);
             }
 
-            if (mesh.vertexDirty !== glData.vertexDirty) {
-                glData.vertexDirty = mesh.vertexDirty;
-                glData.vertexBuffer.upload(mesh.vertices);
-            }
+            glData.vertexBuffer.upload(mesh.vertices);
 
             renderer.bindShader(shader);
 
@@ -47732,7 +46180,7 @@ exports.default = MeshRenderer;
 core.WebGLRenderer.registerPlugin('mesh', MeshRenderer);
 
 /***/ }),
-/* 232 */
+/* 230 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -47911,11 +46359,9 @@ var MeshSpriteRenderer = function () {
             var y1 = vertices[index1 + 1];
             var y2 = vertices[index2 + 1];
 
-            var canvasPadding = mesh.canvasPadding / this.renderer.resolution;
-
-            if (canvasPadding > 0) {
-                var paddingX = canvasPadding / Math.abs(mesh.worldTransform.a);
-                var paddingY = canvasPadding / Math.abs(mesh.worldTransform.d);
+            if (mesh.canvasPadding > 0) {
+                var paddingX = mesh.canvasPadding / mesh.worldTransform.a;
+                var paddingY = mesh.canvasPadding / mesh.worldTransform.d;
                 var centerX = (x0 + x1 + x2) / 3;
                 var centerY = (y0 + y1 + y2) / 3;
 
@@ -48034,7 +46480,7 @@ exports.default = MeshSpriteRenderer;
 core.CanvasRenderer.registerPlugin('mesh', MeshSpriteRenderer);
 
 /***/ }),
-/* 233 */
+/* 231 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -48150,22 +46596,79 @@ var NineSlicePlane = function (_Plane) {
     }
 
     /**
-     * Updates the horizontal vertices.
+     * The width of the left column
      *
+     * @member {number}
      */
 
 
     _createClass(NineSlicePlane, [{
+        key: '_refreshVertices',
+
+
+        /**
+         * refreshes both vertices and uvs
+         *
+         * @private
+         */
+        value: function _refreshVertices() {
+            this.updateHorizontalVertices();
+            this.updateVerticalVertices();
+
+            var vertices = this.vertices;
+            var offsetX = this._anchor._x * this.width;
+            var offsetY = this._anchor._y * this.height;
+
+            for (var i = 0; i < 32; i += 2) {
+                vertices[i] += offsetX;
+                vertices[i + 1] += offsetY;
+            }
+            this.dirty++;
+        }
+
+        /**
+         * does nothing
+         *
+         * @private
+         */
+
+    }, {
+        key: '_refreshUvs',
+        value: function _refreshUvs() {
+            this._uvsID = this._lastUvsID;
+
+            var uvs = this.uvs;
+            var texture = this._texture;
+            var width = texture.orig.width;
+            var height = texture.orig.height;
+
+            uvs[0] = uvs[8] = uvs[16] = uvs[24] = 0;
+            uvs[2] = uvs[10] = uvs[18] = uvs[26] = this._leftWidth / width;
+            uvs[4] = uvs[12] = uvs[20] = uvs[28] = 1 - this._rightWidth / width;
+            uvs[6] = uvs[14] = uvs[22] = uvs[30] = 1;
+
+            uvs[1] = uvs[3] = uvs[5] = uvs[7] = 0;
+            uvs[9] = uvs[11] = uvs[13] = uvs[15] = this._topHeight / height;
+            uvs[17] = uvs[19] = uvs[21] = uvs[23] = 1 - this._bottomHeight / height;
+            uvs[25] = uvs[27] = uvs[29] = uvs[31] = 1;
+
+            this.dirty++;
+
+            this.multiplyUvs();
+        }
+
+        /**
+         * Updates the horizontal vertices.
+         */
+
+    }, {
         key: 'updateHorizontalVertices',
         value: function updateHorizontalVertices() {
             var vertices = this.vertices;
 
-            var h = this._topHeight + this._bottomHeight;
-            var scale = this._height > h ? 1.0 : this._height / h;
-
             vertices[1] = vertices[3] = vertices[5] = vertices[7] = 0;
-            vertices[9] = vertices[11] = vertices[13] = vertices[15] = this._topHeight * scale;
-            vertices[17] = vertices[19] = vertices[21] = vertices[23] = this._height - this._bottomHeight * scale;
+            vertices[9] = vertices[11] = vertices[13] = vertices[15] = this._topHeight;
+            vertices[17] = vertices[19] = vertices[21] = vertices[23] = this._height - this._bottomHeight;
             vertices[25] = vertices[27] = vertices[29] = vertices[31] = this._height;
         }
 
@@ -48179,12 +46682,9 @@ var NineSlicePlane = function (_Plane) {
         value: function updateVerticalVertices() {
             var vertices = this.vertices;
 
-            var w = this._leftWidth + this._rightWidth;
-            var scale = this._width > w ? 1.0 : this._width / w;
-
             vertices[0] = vertices[8] = vertices[16] = vertices[24] = 0;
-            vertices[2] = vertices[10] = vertices[18] = vertices[26] = this._leftWidth * scale;
-            vertices[4] = vertices[12] = vertices[20] = vertices[28] = this._width - this._rightWidth * scale;
+            vertices[2] = vertices[10] = vertices[18] = vertices[26] = this._leftWidth;
+            vertices[4] = vertices[12] = vertices[20] = vertices[28] = this._width - this._rightWidth;
             vertices[6] = vertices[14] = vertices[22] = vertices[30] = this._width;
         }
 
@@ -48213,7 +46713,6 @@ var NineSlicePlane = function (_Plane) {
             var context = renderer.context;
 
             context.globalAlpha = this.worldAlpha;
-            renderer.setBlendMode(this.blendMode);
 
             var transform = this.worldTransform;
             var res = renderer.resolution;
@@ -48288,66 +46787,6 @@ var NineSlicePlane = function (_Plane) {
             }
 
             context.drawImage(textureSource, uvs[x1] * w, uvs[y1] * h, sw, sh, vertices[x1], vertices[y1], dw, dh);
-        }
-        /**
-         * The width of the left column
-         *
-         * @member {number}
-         */
-
-    }, {
-        key: '_refreshVertices',
-
-
-        /**
-         * refreshes both vertices and uvs
-         *
-         * @private
-         */
-        value: function _refreshVertices() {
-            this.updateHorizontalVertices();
-            this.updateVerticalVertices();
-
-            var vertices = this.vertices;
-            var offsetX = this._anchor._x * this.width;
-            var offsetY = this._anchor._y * this.height;
-
-            for (var i = 0; i < 32; i += 2) {
-                vertices[i] += offsetX;
-                vertices[i + 1] += offsetY;
-            }
-            this.dirty++;
-        }
-
-        /**
-         * does nothing
-         *
-         * @private
-         */
-
-    }, {
-        key: '_refreshUvs',
-        value: function _refreshUvs() {
-            this._uvsID = this._lastUvsID;
-
-            var uvs = this.uvs;
-            var texture = this._texture;
-            var width = texture.orig.width;
-            var height = texture.orig.height;
-
-            uvs[0] = uvs[8] = uvs[16] = uvs[24] = 0;
-            uvs[2] = uvs[10] = uvs[18] = uvs[26] = this._leftWidth / width;
-            uvs[4] = uvs[12] = uvs[20] = uvs[28] = 1 - this._rightWidth / width;
-            uvs[6] = uvs[14] = uvs[22] = uvs[30] = 1;
-
-            uvs[1] = uvs[3] = uvs[5] = uvs[7] = 0;
-            uvs[9] = uvs[11] = uvs[13] = uvs[15] = this._topHeight / height;
-            uvs[17] = uvs[19] = uvs[21] = uvs[23] = 1 - this._bottomHeight / height;
-            uvs[25] = uvs[27] = uvs[29] = uvs[31] = 1;
-
-            this.dirty++;
-
-            this.multiplyUvs();
         }
     }, {
         key: 'leftWidth',
@@ -48430,7 +46869,7 @@ var NineSlicePlane = function (_Plane) {
 exports.default = NineSlicePlane;
 
 /***/ }),
-/* 234 */
+/* 232 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -48761,7 +47200,7 @@ var Rope = function (_Plane) {
 exports.default = Rope;
 
 /***/ }),
-/* 235 */
+/* 233 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -48882,18 +47321,10 @@ var ParticleContainer = function (_core$Container) {
         _this._glBuffers = {};
 
         /**
-         * for every batch stores _updateID corresponding to the last change in that batch
-         * @member {number[]}
+         * @member {number}
          * @private
          */
-        _this._bufferUpdateIDs = [];
-
-        /**
-         * when child inserted, removed or changes position this number goes up
-         * @member {number[]}
-         * @private
-         */
-        _this._updateID = 0;
+        _this._bufferToUpdate = 0;
 
         /**
          * @member {boolean}
@@ -49043,10 +47474,9 @@ var ParticleContainer = function (_core$Container) {
         value: function onChildrenChange(smallestChildIndex) {
             var bufferIndex = Math.floor(smallestChildIndex / this._batchSize);
 
-            while (this._bufferUpdateIDs.length < bufferIndex) {
-                this._bufferUpdateIDs.push(0);
+            if (bufferIndex < this._bufferToUpdate) {
+                this._bufferToUpdate = bufferIndex;
             }
-            this._bufferUpdateIDs[bufferIndex] = ++this._updateID;
         }
 
         /**
@@ -49157,7 +47587,6 @@ var ParticleContainer = function (_core$Container) {
 
             this._properties = null;
             this._buffers = null;
-            this._bufferUpdateIDs = null;
         }
     }, {
         key: 'tint',
@@ -49177,7 +47606,7 @@ var ParticleContainer = function (_core$Container) {
 exports.default = ParticleContainer;
 
 /***/ }),
-/* 236 */
+/* 234 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -49195,11 +47624,11 @@ var _core = __webpack_require__(0);
 
 var core = _interopRequireWildcard(_core);
 
-var _ParticleShader = __webpack_require__(237);
+var _ParticleShader = __webpack_require__(235);
 
 var _ParticleShader2 = _interopRequireDefault(_ParticleShader);
 
-var _ParticleBuffer = __webpack_require__(238);
+var _ParticleBuffer = __webpack_require__(236);
 
 var _ParticleBuffer2 = _interopRequireDefault(_ParticleBuffer);
 
@@ -49386,8 +47815,6 @@ var ParticleRenderer = function (_core$ObjectRenderer) {
             // make sure the texture is bound..
             this.shader.uniforms.uSampler = renderer.bindTexture(baseTexture);
 
-            var updateStatic = false;
-
             // now lets upload and render the buffers..
             for (var i = 0, j = 0; i < totalChildren; i += batchSize, j += 1) {
                 var amount = totalChildren - i;
@@ -49408,13 +47835,10 @@ var ParticleRenderer = function (_core$ObjectRenderer) {
                 // we always upload the dynamic
                 buffer.uploadDynamic(children, i, amount);
 
-                var bid = container._bufferUpdateIDs[j] || 0;
-
-                updateStatic = updateStatic || buffer._updateID < bid;
                 // we only upload the static content when we have to!
-                if (updateStatic) {
-                    buffer._updateID = container._updateID;
+                if (container._bufferToUpdate === j) {
                     buffer.uploadStatic(children, i, amount);
+                    container._bufferToUpdate = j + 1;
                 }
 
                 // bind the buffer
@@ -49713,7 +48137,7 @@ exports.default = ParticleRenderer;
 core.WebGLRenderer.registerPlugin('particle', ParticleRenderer);
 
 /***/ }),
-/* 237 */
+/* 235 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -49762,7 +48186,7 @@ var ParticleShader = function (_Shader) {
 exports.default = ParticleShader;
 
 /***/ }),
-/* 238 */
+/* 236 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -49872,8 +48296,6 @@ var ParticleBuffer = function () {
         this.dynamicBuffer = null;
         this.dynamicData = null;
         this.dynamicDataUint32 = null;
-
-        this._updateID = 0;
 
         this.initBuffers();
     }
@@ -50025,7 +48447,7 @@ var ParticleBuffer = function () {
 exports.default = ParticleBuffer;
 
 /***/ }),
-/* 239 */
+/* 237 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -50035,7 +48457,7 @@ Object.defineProperty(exports, "__esModule", {
   value: true
 });
 
-var _WebGLPrepare = __webpack_require__(240);
+var _WebGLPrepare = __webpack_require__(238);
 
 Object.defineProperty(exports, 'webgl', {
   enumerable: true,
@@ -50044,7 +48466,7 @@ Object.defineProperty(exports, 'webgl', {
   }
 });
 
-var _CanvasPrepare = __webpack_require__(241);
+var _CanvasPrepare = __webpack_require__(239);
 
 Object.defineProperty(exports, 'canvas', {
   enumerable: true,
@@ -50071,7 +48493,7 @@ Object.defineProperty(exports, 'CountLimiter', {
   }
 });
 
-var _TimeLimiter = __webpack_require__(242);
+var _TimeLimiter = __webpack_require__(240);
 
 Object.defineProperty(exports, 'TimeLimiter', {
   enumerable: true,
@@ -50083,7 +48505,7 @@ Object.defineProperty(exports, 'TimeLimiter', {
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 /***/ }),
-/* 240 */
+/* 238 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -50211,7 +48633,7 @@ function findGraphics(item, queue) {
 core.WebGLRenderer.registerPlugin('prepare', WebGLPrepare);
 
 /***/ }),
-/* 241 */
+/* 239 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -50344,7 +48766,7 @@ function uploadBaseTextures(prepare, item) {
 core.CanvasRenderer.registerPlugin('prepare', CanvasPrepare);
 
 /***/ }),
-/* 242 */
+/* 240 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -50414,7 +48836,7 @@ var TimeLimiter = function () {
 exports.default = TimeLimiter;
 
 /***/ }),
-/* 243 */
+/* 241 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -50434,7 +48856,7 @@ Object.defineProperty(exports, 'Matrix3', {
   }
 });
 
-var _LeafSprite = __webpack_require__(244);
+var _LeafSprite = __webpack_require__(242);
 
 Object.defineProperty(exports, 'LeafSprite', {
   enumerable: true,
@@ -50443,7 +48865,7 @@ Object.defineProperty(exports, 'LeafSprite', {
   }
 });
 
-var _SimpleContainer = __webpack_require__(245);
+var _SimpleContainer = __webpack_require__(243);
 
 Object.defineProperty(exports, 'SimpleContainer', {
   enumerable: true,
@@ -50452,7 +48874,7 @@ Object.defineProperty(exports, 'SimpleContainer', {
   }
 });
 
-var _SimpleParticleContainer = __webpack_require__(246);
+var _SimpleParticleContainer = __webpack_require__(244);
 
 Object.defineProperty(exports, 'SimpleParticleContainer', {
   enumerable: true,
@@ -50461,7 +48883,7 @@ Object.defineProperty(exports, 'SimpleParticleContainer', {
   }
 });
 
-var _RenderContext = __webpack_require__(247);
+var _RenderContext = __webpack_require__(245);
 
 Object.defineProperty(exports, 'RenderContext', {
   enumerable: true,
@@ -50470,7 +48892,7 @@ Object.defineProperty(exports, 'RenderContext', {
   }
 });
 
-var _Animation = __webpack_require__(117);
+var _Animation = __webpack_require__(246);
 
 Object.defineProperty(exports, 'Animation', {
   enumerable: true,
@@ -50479,7 +48901,7 @@ Object.defineProperty(exports, 'Animation', {
   }
 });
 
-var _SpriteTrail = __webpack_require__(248);
+var _SpriteTrail = __webpack_require__(247);
 
 Object.defineProperty(exports, 'SpriteTrail', {
   enumerable: true,
@@ -50488,16 +48910,14 @@ Object.defineProperty(exports, 'SpriteTrail', {
   }
 });
 
-__webpack_require__(249);
+__webpack_require__(248);
 
-__webpack_require__(259);
-
-__webpack_require__(260);
+__webpack_require__(258);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 /***/ }),
-/* 244 */
+/* 242 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -50553,7 +48973,7 @@ var LeafSprite = function (_core$Sprite) {
             }
 
             // do a quick check to see if this element has a mask or a filter.
-            if (this._mask || this.filters) {
+            if (this._mask || this._filters) {
                 this.renderAdvancedWebGL(renderer);
             } else {
                 this._renderWebGL(renderer);
@@ -50564,7 +48984,7 @@ var LeafSprite = function (_core$Sprite) {
         value: function renderAdvancedWebGL(renderer) {
             renderer.flush();
 
-            var filters = this.filters;
+            var filters = this._filters;
             var mask = this._mask;
 
             // push filter first as we need to ensure the stencil buffer is correct for any masking
@@ -50692,7 +49112,7 @@ var LeafSprite = function (_core$Sprite) {
 exports.default = LeafSprite;
 
 /***/ }),
-/* 245 */
+/* 243 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -50850,7 +49270,7 @@ var SimpleContainer = function (_core$Container) {
 exports.default = SimpleContainer;
 
 /***/ }),
-/* 246 */
+/* 244 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -51020,7 +49440,7 @@ var ParticleContainer = function (_particles$ParticleCo) {
 exports.default = ParticleContainer;
 
 /***/ }),
-/* 247 */
+/* 245 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -51470,7 +49890,6 @@ var RenderContext = function () {
             this.linkDisplayObject(this.textSprite);
 
             this.transformStack = [];
-            this.maskStack = [];
             this.globalTransform = {};
             for (var p in this.defaultTransform) {
                 this.globalTransform[p] = this.defaultTransform[p];
@@ -51682,46 +50101,29 @@ var RenderContext = function () {
     }, {
         key: 'updateClipRect',
         value: function updateClipRect(x, y, width, height) {
-            this.maskContainer.updateTransform();
-            this.maskShape.clear();
-            this.maskShape.updateTransform();
-            this.maskShape.beginFill(0x000000);
-            this.maskShape.drawRect(x, y, width, height);
-            this.maskShape.endFill();
-        }
-    }, {
-        key: 'clipRect',
-        value: function clipRect(x, y, width, height) {
             this.updateGlobalContainer();
 
             var t = this.globalTransform;
             var dx = x - t.originX;
             var dy = y - t.originY;
 
-            this.maskStack.push({
-                x: dx,
-                y: dy,
-                width: width,
-                height: height
-            });
-
-            this.updateClipRect(dx, dy, width, height);
-
+            this.maskContainer.updateTransform();
+            this.maskShape.clear();
+            this.maskShape.updateTransform();
+            this.maskShape.beginFill(0x000000);
+            this.maskShape.drawRect(dx, dy, width, height);
+            this.maskShape.endFill();
+        }
+    }, {
+        key: 'clipRect',
+        value: function clipRect(x, y, width, height) {
+            this.updateClipRect(x, y, width, height);
             this.mask = this.maskShape;
         }
     }, {
         key: 'unclipRect',
         value: function unclipRect() {
-            this.maskStack.pop();
-
-            var m = this.maskStack[this.maskStack.length - 1];
-
-            if (m) {
-                this.updateClipRect(m.x, m.y, m.width, m.height);
-                this.mask = this.maskShape;
-            } else {
-                this.mask = null;
-            }
+            this.mask = null;
         }
 
         /**
@@ -52063,7 +50465,7 @@ var RenderContext = function () {
     }, {
         key: 'createSpriteByTexture',
         value: function createSpriteByTexture(texture, container) {
-            var sprite = new Sprite(texture);
+            var sprite = Sprite.from(texture);
 
             if (container !== false) {
                 if (!container || container === true) {
@@ -52150,7 +50552,7 @@ var RenderContext = function () {
             texture.orig = new Rectangle();
             texture.trim = new Rectangle();
 
-            var sprite = new Sprite(texture);
+            var sprite = Sprite.from(texture);
 
             sprite.resolution = this.renderer.resolution;
             sprite.context = context;
@@ -52207,8 +50609,6 @@ var RenderContext = function () {
             this.texturePool = null;
             this.renderer = null;
             this.canvas = null;
-            this.transformStack = null;
-            this.maskStack = null;
             this.root.destroy(true);
         }
     }, {
@@ -52284,7 +50684,706 @@ var RenderContext = function () {
 exports.default = RenderContext;
 
 /***/ }),
-/* 248 */
+/* 246 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+
+Object.defineProperty(exports, "__esModule", {
+    value: true
+});
+
+var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
+
+var _get = function get(object, property, receiver) { if (object === null) object = Function.prototype; var desc = Object.getOwnPropertyDescriptor(object, property); if (desc === undefined) { var parent = Object.getPrototypeOf(object); if (parent === null) { return undefined; } else { return get(parent, property, receiver); } } else if ("value" in desc) { return desc.value; } else { var getter = desc.get; if (getter === undefined) { return undefined; } return getter.call(receiver); } };
+
+var _core = __webpack_require__(0);
+
+var core = _interopRequireWildcard(_core);
+
+var _mesh = __webpack_require__(27);
+
+var mesh = _interopRequireWildcard(_mesh);
+
+function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj; } else { var newObj = {}; if (obj != null) { for (var key in obj) { if (Object.prototype.hasOwnProperty.call(obj, key)) newObj[key] = obj[key]; } } newObj.default = obj; return newObj; } }
+
+function _classCallCheck(instance, Constructor) { if (!(instance instanceof Constructor)) { throw new TypeError("Cannot call a class as a function"); } }
+
+var Texture = core.Texture;
+
+var Sprite = core.Sprite;
+var Rope = mesh.Rope;
+var Plane = mesh.Plane;
+
+/**
+ * @typedef FrameObject
+ * @type {object}
+ * @property {PIXI.Texture} texture - The texture object of the frame
+ * @property {number} [duration] - the duration of the frame in ms
+ * @property {array} [pivot] - the pivot(ratio) of the frame. Index 0 is x; Index 1 is y.
+ *
+ * If no `frame.duration`, frame.duration will equal `animation.duration / frames.length`
+ * If no `frame.pivot`, frame.pivot will be null, then Animation use default or original or previous pivot.
+ * Some private fileds will be generated dynamically:
+ *     {number} _startTime:
+ *     {number} _endTime:
+ */
+
+/**
+ * An Animation is a simple way to display an animation depicted by a list of frames
+ *
+ * @class
+ * @extends PIXI.Sprite
+ * @memberof PIXI.extensions
+ */
+
+var Animation = function () {
+    /**
+     * @param {PIXI.Texture[]|FrameObject[]} frames - an array of {@link PIXI.Texture} or frame
+     *  objects that make up the animation
+     * @param {number} [duration=0] - The total duration of animation in ms
+     *     If no `duration`, the duration will equal the sum of all `frame.duration`
+     */
+    function Animation(frames, duration) {
+        _classCallCheck(this, Animation);
+
+        this.initAnimation(frames, duration);
+    }
+
+    /**
+     * @param {PIXI.Texture[]|FrameObject[]} frames - an array of {@link PIXI.Texture} or frame
+     *  objects that make up the animation
+     * @param {number} [duration=0] - The total duration of animation in ms
+     *     If no `duration`, the duration will equal the sum of all `frame.duration`
+     */
+
+
+    _createClass(Animation, [{
+        key: 'initAnimation',
+        value: function initAnimation(frames, duration) {
+            /**
+             * Scale the time step when update animation. Higher is faster, lower is slower
+             *
+             * @member {number}
+             * @default 1
+             */
+            this.timeScale = 1;
+
+            /**
+             * Whether or not the animate sprite repeats after playing
+             *
+             * @member {boolean}
+             * @default true
+             */
+            this.loop = true;
+
+            /**
+             * Function to call when a Animation completes playing
+             *
+             * @method
+             * @memberof PIXI.extensions.Animation#
+             */
+            this.onComplete = null;
+
+            /**
+             * The index of the frame displayed when animation finished.
+             *
+             * @member {number}
+             * @default 0
+             */
+            this.completeIndex = 0;
+
+            /**
+             * Function to call when a Animation frame changes
+             *
+             * @method
+             * @memberof PIXI.extensions.Animation#
+             */
+            this.onFrameChange = null;
+
+            /**
+            * Function to call when 'loop' is true, and an AnimatedSprite is played and loops around to start again
+            *
+            * @member {Function}
+            */
+            this.onLoop = null;
+
+            /**
+             * Elapsed time since animation has been started, used internally to display current texture
+             *
+             * @member {number}
+             */
+            this.currentTime = 0;
+
+            /**
+             * Indicates if the Animation is currently playing
+             *
+             * @member {boolean}
+             * @readonly
+             */
+            this.playing = false;
+
+            /**
+             * Whether allow to skip frames if timeStep too large.
+             *
+             * @member {boolean}
+             * @default false
+             */
+            this.skipFrame = false;
+
+            /**
+            * The animation current frame index
+            *
+            * @member {number}
+            * @readonly
+            */
+            this.currentIndex = -1;
+
+            /**
+            * The animation current frame object
+            *
+            * @member {FrameObject}
+            * @memberof PIXI.extensions.Animation#
+            * @readonly
+            */
+            this.currentFrame = null;
+
+            /**
+            * The animation current frame object
+            *
+            * @member {PIXI.Texture}
+            * @readonly
+            */
+            this.currentTexture = null;
+
+            /**
+             * `frameCount` is the total number of frames in the Animation
+             *
+             * @member {number}
+             * @default 0
+             */
+            this.frameCount = 0;
+
+            /**
+             * @private
+             */
+            this._minIndex = -1;
+            this._maxIndex = -1;
+
+            this.duration = duration || 0;
+
+            /**
+             * @private
+             */
+            this._frames = [];
+
+            this.setFrames(frames);
+        }
+
+        /**
+         * Play the Animation
+         *
+         */
+
+    }, {
+        key: 'play',
+        value: function play() {
+            this.playing = true;
+        }
+
+        /**
+         * Pause the Animation
+         *
+         */
+
+    }, {
+        key: 'pause',
+        value: function pause() {
+            this.playing = false;
+        }
+
+        /**
+         * Resume playing. In current case , `resume` equals `play`
+         *
+         */
+
+    }, {
+        key: 'resume',
+        value: function resume() {
+            this.playing = true;
+        }
+
+        /**
+         * Stop the Animation
+         *
+         */
+
+    }, {
+        key: 'stop',
+        value: function stop() {
+            this.gotoAndStop(0);
+        }
+
+        /**
+         * Go to a specific frame and begins playing the Animation
+         *
+         * @param {number} frameIndex - frame index to start at
+         */
+
+    }, {
+        key: 'gotoAndPlay',
+        value: function gotoAndPlay(frameIndex) {
+            if (frameIndex !== this.currentIndex) {
+                this.changeFrame(frameIndex, this.currentIndex);
+            }
+            this.currentTime = this.currentFrame._startTime;
+            this.play();
+        }
+
+        /**
+         * Stop the Animation and goes to a specific frame
+         *
+         * @param {number} frameIndex - frame index to stop at
+         */
+
+    }, {
+        key: 'gotoAndStop',
+        value: function gotoAndStop(frameIndex) {
+            this.pause();
+
+            if (frameIndex !== this.currentIndex) {
+                this.changeFrame(frameIndex, this.currentIndex);
+            }
+            this.currentTime = this.currentFrame._startTime;
+        }
+
+        /**
+         * Update the animation by time-step(delta-time)
+         *
+         * @param {number} timeStep - Time since last tick
+         */
+
+    }, {
+        key: 'update',
+        value: function update(timeStep) {
+            if (!this.playing) {
+                return;
+            }
+            var elapsed = this.timeScale * timeStep;
+            // const sign = elapsed < 0 ? -1 : 1;
+
+            this.currentTime += elapsed;
+
+            this.updateByTime(this.currentTime, this.skipFrame);
+        }
+
+        /**
+         * Update the animation by played-time(total-time)
+         *
+         * @param {number} time - Time since animation has been started
+         * @param {boolean} [skipFrame=false] - Whether allow to skip frames if timeStep too large.
+         */
+
+    }, {
+        key: 'updateByTime',
+        value: function updateByTime(time, skipFrame) {
+            var duration = this.duration;
+            var frames = this._frames;
+
+            var frame = void 0;
+            var index = this.currentIndex;
+            var prevIndex = index;
+
+            var completed = false;
+
+            do {
+                frame = frames[index];
+                if (time < frame._startTime) {
+                    // Play backward
+                    if (index === this._minIndex) {
+                        if (this.loop === true || --this.loop > 0) {
+                            time += duration;
+                            index = this._maxIndex;
+                            if (this.onLoop) {
+                                this.onLoop();
+                            }
+                            continue;
+                        }
+                        completed = true;
+                        break;
+                    }
+                    index--;
+                    continue;
+                }
+
+                if (time < frame._endTime) {
+                    // No frame changed
+                    break;
+                }
+
+                if (index === this._maxIndex) {
+                    // Play forward
+                    if (this.loop === true || --this.loop > 0) {
+                        time -= duration;
+                        index = this._minIndex;
+                        if (this.onLoop) {
+                            this.onLoop();
+                        }
+                        continue;
+                    }
+                    completed = true;
+                    break;
+                }
+                index++;
+            } while (skipFrame); // eslint-disable-line no-unmodified-loop-condition
+
+            this.currentTime = time;
+
+            if (completed) {
+                this.playing = false;
+
+                if (prevIndex !== this.completeIndex) {
+                    this.changeFrame(this.completeIndex, prevIndex);
+                    this.currentTime = this.currentFrame._startTime;
+                }
+                if (this.onComplete) {
+                    this.onComplete();
+                }
+
+                return;
+            }
+
+            if (prevIndex !== index) {
+                this.changeFrame(index, prevIndex);
+
+                // TODO: Whether snap currentTime to frame ?
+                // if (!skipFrame)
+                // {
+                // Play forward:
+                // this.currentTime = this.currentFrame._startTime;
+
+                // Play backward:
+                // this.currentTime = this.currentFrame._endTime;
+                // }
+            }
+        }
+
+        /**
+         * Function to call when a Animation changes which texture is being rendered
+         *
+         * @param {number} frameIndex - new frame index
+         * @param {number} prevIndex - previous frame index
+         * @private
+         */
+
+    }, {
+        key: 'changeFrame',
+        value: function changeFrame(frameIndex, prevIndex) {
+            this.currentIndex = frameIndex;
+
+            var frame = this.getNextFrame(frameIndex, prevIndex);
+
+            this.currentFrame = frame;
+            this.currentTexture = frame.texture;
+
+            // TODO
+            if (frame.pivot) {
+                var pivot = frame.pivot;
+
+                this._target.transform.pivot.set(pivot[0], pivot[1]);
+            }
+
+            if (this.onFrameChange) {
+                this.onFrameChange(frameIndex, frame);
+            }
+
+            this.updateTarget();
+        }
+
+        /**
+         * Get next frame.
+         * User could OVERRIDE this method to implement custom animation order.
+         *
+         * @param {number} frameIndex - new frame index
+         * @param {number} prevIndex - previous frame index
+         * @return {FrameObject} The next frame object in animation
+         * @private
+         */
+
+    }, {
+        key: 'getNextFrame',
+        value: function getNextFrame(frameIndex, prevIndex) // eslint-disable-line no-unused-vars
+        {
+            return this._frames[frameIndex];
+        }
+
+        /**
+         * Updates the displayed texture to match the current frame index
+         *
+         * @private
+         */
+
+    }, {
+        key: 'updateTarget',
+        value: function updateTarget() {
+            this._target._texture = this.currentTexture;
+            this._target._textureID = -1;
+            this._target.cachedTint = 0xFFFFFF;
+
+            // // TODO: `refresh` is hard code , not good enough.
+            // if (this._target.refresh)
+            // {
+            //     this._target.refresh();
+            // }
+
+            this._target._onTextureUpdate();
+        }
+
+        /**
+         * Get the array of frame objects used for this Animation
+         *
+         * @return {FrameObject[]} The array of frame objects in animation
+         * @memberof PIXI.extensions.Animation#
+         */
+
+    }, {
+        key: 'getFrames',
+        value: function getFrames() {
+            return this._frames;
+        }
+
+        /**
+         * Set the frames.
+         *
+         * @param {PIXI.Texture[]|FrameObject[]} frames - The frames to set
+         */
+
+    }, {
+        key: 'setFrames',
+        value: function setFrames(frames) {
+            this.playing = false;
+            this._frames.length = 0;
+
+            this.currentTime = 0;
+            this.currentIndex = -1;
+            this.currentFrame = null;
+            this.currentTexture = null;
+
+            if (!frames) {
+                this.frameCount = 0;
+                this.completeIndex = 0;
+                this._minIndex = -1;
+                this._maxIndex = -1;
+                this.firstTexture = null;
+
+                return;
+            }
+
+            var len = this.frameCount = frames.length;
+
+            this._minIndex = 0;
+            this._maxIndex = len - 1;
+            this.completeIndex = this._maxIndex;
+
+            var preDuration = this.duration / len;
+            var useTexture = frames[0] instanceof Texture;
+
+            var startTime = 0;
+            var endTime = 0;
+            var frame = void 0;
+
+            for (var i = 0; i < len; i++) {
+                if (useTexture) {
+                    frame = {
+                        texture: frames[i]
+                    };
+                } else {
+                    frame = frames[i];
+                }
+                this._frames.push(frame);
+
+                frame.duration = frame.duration || preDuration;
+                frame.pivot = frame.pivot || null;
+
+                // TODO
+                frame.offset = frame.offset || null;
+
+                frame._startTime = startTime;
+                frame._endTime = endTime += frame.duration;
+
+                startTime = endTime;
+            }
+
+            if (!this.duration || this.duration < endTime) {
+                this.duration = endTime;
+            }
+
+            // TODO
+            this.firstTexture = this._frames[0].texture;
+        }
+
+        /**
+         * Get the target of Animation
+         *
+         * @return {PIXI.DisplayObject} The target of Animation
+         */
+
+    }, {
+        key: 'getTarget',
+        value: function getTarget() {
+            return this._target;
+        }
+
+        /**
+         * Add the animation to a display object.
+         *
+         * @param {PIXI.DisplayObject} target - The target of Animation
+         * @param {string} [bindName='anim'] - The property name of target for binding
+         */
+
+    }, {
+        key: 'bind',
+        value: function bind(target, bindName) {
+            this.unbind();
+            this._target = target;
+            this._bindName = bindName || 'anim';
+            this._target[this._bindName] = this;
+            this.changeFrame(this._minIndex, null);
+        }
+
+        /**
+         * Remove the animation from the display object binded.
+         */
+
+    }, {
+        key: 'unbind',
+        value: function unbind() {
+            if (this._target) {
+                delete this._target[this._bindName];
+                this._target = null;
+            }
+        }
+
+        /**
+         * Destroy the Animation
+         *
+         */
+
+    }, {
+        key: 'destroy',
+        value: function destroy() {
+            this.unbind();
+            this.setFrames(null);
+            this._frames = null;
+            _get(Animation.prototype.__proto__ || Object.getPrototypeOf(Animation.prototype), 'destroy', this).call(this);
+        }
+
+        /**
+         * Mixin properties of Animation to a display object , let it become a animation object
+         *
+         *@param {PIXI.Sprite|PIXI.mesh.Plane|PIXI.mesh.Rope} displayObject - the object to apply
+         */
+
+    }], [{
+        key: 'applyTo',
+        value: function applyTo(displayObject) {
+            var properties = [
+            // 'initAnimation',
+            'play', 'pause', 'resume', 'stop', 'gotoAndPlay', 'gotoAndStop', 'update', 'updateByTime', 'changeFrame', 'getNextFrame', 'updateTarget', 'getTarget', 'getFrames', 'setFrames', 'onFrameChange', 'onComplete'];
+
+            properties.forEach(function (p) {
+                displayObject[p] = Animation.prototype[p];
+            });
+            displayObject._initAnimation = Animation.prototype.initAnimation;
+            displayObject.initAnimation = function (frames, duration) {
+                this._initAnimation(frames, duration);
+                this._target = this;
+                this._bindName = '_anim';
+                this.changeFrame(this._minIndex, null);
+            };
+        }
+
+        /**
+         * Create a Sprite with animation
+         *
+         * @param {PIXI.Texture[]|FrameObject[]} frames - an array of {@link PIXI.Texture} or frame
+         *  objects that make up the animation
+         * @param {number} [duration=0] - The total duration of animation in ms
+         *     If no `duration`, the duration will equal the sum of all `frame.duration`
+         *
+         * @return {PIXI.Sprite} a sprite with animation
+         */
+
+    }, {
+        key: 'createSprite',
+        value: function createSprite(frames, duration) {
+            var sprite = new Sprite(Texture.EMPTY);
+
+            Animation.applyTo(sprite);
+            sprite.initAnimation(frames, duration);
+
+            return sprite;
+        }
+
+        /**
+         * Create a Rope Mesh with animation
+         *
+         * @param {PIXI.Texture[]|FrameObject[]} frames - an array of {@link PIXI.Texture} or frame
+         *  objects that make up the animation
+         * @param {number} [duration=0] - The total duration of animation in ms
+         *     If no `duration`, the duration will equal the sum of all `frame.duration`
+         * @param {number} [verticesX=2] - How many vertices on diameter of the rope
+         * @param {number} [verticesY=2] - How many vertices on meridian of the rope, make it 2 or 3
+         * @param {number} [direction=0] - Direction of the rope. See {@link PIXI.GroupD8} for explanation
+         *
+         * @return {PIXI.mesh.Rope} a mesh rope with animation
+         */
+
+    }, {
+        key: 'createRopeMesh',
+        value: function createRopeMesh(frames, duration, verticesX, verticesY, direction) {
+            var rope = new Rope(Texture.EMPTY, verticesX, verticesY, direction);
+
+            Animation.applyTo(rope);
+            rope.initAnimation(frames, duration);
+
+            return rope;
+        }
+
+        /**
+         * Create a Plane Mesh with animation
+         *
+         * @param {PIXI.Texture[]|FrameObject[]} frames - an array of {@link PIXI.Texture} or frame
+         *  objects that make up the animation
+         * @param {number} [duration=0] - The total duration of animation in ms
+         *     If no `duration`, the duration will equal the sum of all `frame.duration`
+         * @param {number} [verticesX=2] - The number of vertices in the x-axis
+         * @param {number} [verticesY=2] - The number of vertices in the y-axis
+         * @param {number} [direction=0] - Direction of the mesh. See {@link PIXI.GroupD8} for explanation
+         *
+         * @return {PIXI.mesh.Plane} a mesh plane with animation
+         */
+
+    }, {
+        key: 'createPlaneMesh',
+        value: function createPlaneMesh(frames, duration, verticesX, verticesY, direction) {
+            var plane = new Plane(Texture.EMPTY, verticesX, verticesY, direction);
+
+            Animation.applyTo(plane);
+            plane.initAnimation(frames, duration);
+
+            return plane;
+        }
+    }]);
+
+    return Animation;
+}();
+
+exports.default = Animation;
+
+/***/ }),
+/* 247 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -52421,11 +51520,13 @@ var SpriteTrail = function () {
 exports.default = SpriteTrail;
 
 /***/ }),
-/* 249 */
+/* 248 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
+
+__webpack_require__(249);
 
 __webpack_require__(250);
 
@@ -52443,10 +51544,8 @@ __webpack_require__(256);
 
 __webpack_require__(257);
 
-__webpack_require__(258);
-
 /***/ }),
-/* 250 */
+/* 249 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -52492,7 +51591,7 @@ TransformStatic.prototype.updateTransformAsOrphan = function () {
 };
 
 /***/ }),
-/* 251 */
+/* 250 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -52533,7 +51632,7 @@ Transform.prototype.updateTransformAsOrphan = function () {
 };
 
 /***/ }),
-/* 252 */
+/* 251 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -52598,7 +51697,7 @@ Matrix.prototype.toArray16 = function (transpose, array) {
 };
 
 /***/ }),
-/* 253 */
+/* 252 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -52639,7 +51738,7 @@ DisplayObject.prototype.remove = function () {
 };
 
 /***/ }),
-/* 254 */
+/* 253 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -52751,7 +51850,7 @@ Container.prototype.renderChildrenCanvas = function (renderer) {
 };
 
 /***/ }),
-/* 255 */
+/* 254 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -52847,7 +51946,7 @@ Sprite.prototype.perspectivePoint = function (mat, x, y, scaleX, scaleY) {
 // };
 
 /***/ }),
-/* 256 */
+/* 255 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -52871,7 +51970,7 @@ if (Mesh) {
 }
 
 /***/ }),
-/* 257 */
+/* 256 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -52890,63 +51989,34 @@ var TextMetrics = core.TextMetrics;
 /**
  * Renders simple text and updates it without some computations
  *
- * @param {boolean} refreshPosition - Whether refresh text's line position
+ * @param {boolean} recompute - Whether recompute line position
  * @private
  **/
-Text.prototype.updateTextSimple = function (refreshPosition) {
+Text.prototype.updateTextFast = function (recompute) {
     var style = this._style;
     var text = this._text;
-    var canvas = this.canvas;
-    var context = this.context;
 
-    if (!this._textInited) {
-        this._font = style.toFontString();
-        this._fontProperties = TextMetrics.measureFont(this._font);
-
-        if (!this.canvasWidth) {
-            var measured = TextMetrics.measureText(text, style, style._wordWrap, canvas);
-            var width = measured.width;
-            var height = measured.height;
-
-            this.canvasWidth = Math.ceil(width + style._padding * 2);
-            this.canvasHeight = Math.ceil(height + style._padding * 2);
-        }
-
-        canvas.width = this.canvasWidth * this.resolution;
-        canvas.height = this.canvasHeight * this.resolution;
-
-        context.scale(this.resolution, this.resolution);
-
-        context.font = this._font;
-        context.strokeStyle = style._stroke;
-        context.lineWidth = style._strokeThickness;
-        context.textBaseline = style._textBaseline;
-        context.lineJoin = style._lineJoin;
-        context.miterLimit = style._miterLimit;
-
-        this._textInited = true;
-    } else {
-        context.clearRect(0, 0, canvas.width, canvas.height);
-    }
+    this.context.clearRect(0, 0, this.canvas.width, this.canvas.height);
 
     var linePositionX = void 0;
     var linePositionY = void 0;
 
-    if (!this._linePositionX || refreshPosition) {
-        var maxLineWidth = this.canvasWidth;
-        var lineWidth = context.measureText(text).width + style._letterSpacing * (text.length - 1);
+    if (!this._linePositionX || recompute) {
+        // const xShadowOffset = Math.cos(style.dropShadowAngle) * style.dropShadowDistance;
+        var maxLineWidth = this.canvas.width;
+        var lineWidth = this.context.measureText(text).width + style.letterSpacing * (text.length - 1);
 
-        lineWidth += style._padding * 2 + style._strokeThickness;
+        lineWidth += style.padding * 2 + style.strokeThickness;
 
-        if (style._dropShadow) {
-            lineWidth += style._dropShadowDistance;
+        if (style.dropShadow) {
+            lineWidth += style.dropShadowDistance;
         }
 
-        linePositionX = style._strokeThickness / 2 + style._padding;
+        linePositionX = style.strokeThickness / 2 + style.padding;
 
-        if (style._align === 'right') {
+        if (style.align === 'right') {
             linePositionX += maxLineWidth - lineWidth;
-        } else if (style._align === 'center') {
+        } else if (style.align === 'center') {
             linePositionX += (maxLineWidth - lineWidth) / 2;
         }
         this._linePositionX = linePositionX;
@@ -52954,38 +52024,47 @@ Text.prototype.updateTextSimple = function (refreshPosition) {
         linePositionX = this._linePositionX;
     }
 
-    if (!this._linePositionY || refreshPosition) {
-        var fontProperties = this._fontProperties;
+    if (!this._linePositionY || recompute) {
+        // const yShadowOffset = Math.sin(style.dropShadowAngle) * style.dropShadowDistance;
+        var fontProperties = TextMetrics.measureFont(this._font);
 
-        linePositionY = style._strokeThickness / 2 + fontProperties.ascent + style._padding;
+        linePositionY = style.strokeThickness / 2 + fontProperties.ascent + style.padding;
         this._linePositionY = linePositionY;
     } else {
         linePositionY = this._linePositionY;
     }
 
-    if (style._dropShadow) {
-        context.shadowBlur = style._dropShadowBlur;
-        context.shadowColor = style._dropShadowColor;
-
-        context.shadowOffsetX = style._dropShadowOffsetX;
-        context.shadowOffsetY = style._dropShadowOffsetY;
-    }
-
-    if (style._stroke && style._strokeThickness) {
+    if (style.stroke && style.strokeThickness) {
         this.drawLetterSpacing(text, linePositionX, linePositionY, true);
-
-        context.shadowBlur = 0;
-        context.shadowOffsetX = 0;
-        context.shadowOffsetY = 0;
     }
 
-    if (style._fill) {
-        context.fillStyle = style._fill;
+    if (style.fill) {
+        this.context.fillStyle = style.fill;
 
         this.drawLetterSpacing(text, linePositionX, linePositionY);
     }
 
-    this.updateTexture();
+    this._onTextureUpdate();
+    this._texture.baseTexture.emit('update', this._texture.baseTexture);
+
+    this.dirtyFast = false;
+};
+
+/**
+ * Sets the text & do updateTextFast.
+ *
+ * @param {string} text - The value to set to
+ * @param {boolean} recompute - Whether recompute line position
+ */
+Text.prototype.setTextFast = function (text, recompute) {
+    text = String(text || ' ');
+
+    if (this._text === text) {
+        return;
+    }
+    this._text = text;
+    this.dirtyFast = true;
+    this.dirtyFastRecompute = recompute;
 };
 
 /**
@@ -52997,36 +52076,28 @@ Text.prototype.renderWebGL = function (renderer) {
     if (this.resolution !== renderer.resolution) {
         this.resolution = renderer.resolution;
         this.dirty = true;
+        this.dirtyFast = true;
     }
 
     if (this.localStyleID !== this._style.styleID) {
-        this.localStyleID = this._style.styleID;
         this.dirty = true;
+        this.dirtyFast = true;
+        this.localStyleID = this._style.styleID;
     }
 
-    if (this.dirty) {
-        if (this.simpleMode) {
-            this.updateTextSimple(this.refreshPosition);
-        } else {
-            this.updateText(true);
-        }
+    if (this.dirtyFast) {
+        this.updateTextFast(this.dirtyFastRecompute);
+        this.dirtyFastRecompute = false;
+    } else if (this.dirty) {
+        this.updateText(true);
     }
 
     // super.renderWebGL(renderer);
     Sprite.prototype.renderWebGL.call(this, renderer);
 };
 
-Text.prototype.refresh = function () {
-    this._textInited = false;
-    this._linePositionX = 0;
-    this._linePositionY = 0;
-};
-
-Text.prototype.simpleMode = false;
-Text.prototype.refreshPosition = false;
-
 /***/ }),
-/* 258 */
+/* 257 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -53085,7 +52156,7 @@ utils.createAnimation = function (textures, totalDuration, loop) {
 };
 
 /***/ }),
-/* 259 */
+/* 258 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -53093,120 +52164,7 @@ utils.createAnimation = function (textures, totalDuration, loop) {
 
 
 /***/ }),
-/* 260 */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
-
-var _core = __webpack_require__(0);
-
-var core = _interopRequireWildcard(_core);
-
-var _mesh = __webpack_require__(27);
-
-var mesh = _interopRequireWildcard(_mesh);
-
-var _Animation = __webpack_require__(117);
-
-var _Animation2 = _interopRequireDefault(_Animation);
-
-function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
-
-function _interopRequireWildcard(obj) { if (obj && obj.__esModule) { return obj; } else { var newObj = {}; if (obj != null) { for (var key in obj) { if (Object.prototype.hasOwnProperty.call(obj, key)) newObj[key] = obj[key]; } } newObj.default = obj; return newObj; } }
-
-var Texture = core.Texture;
-var Sprite = core.Sprite;
-var Rope = mesh.Rope;
-var Plane = mesh.Plane;
-
-/**
- * Mixin properties of Animation to a display object , let it become a animation object
- *
- *@param {PIXI.Sprite|PIXI.mesh.Plane|PIXI.mesh.Rope} displayObject - the object to apply
- */
-_Animation2.default.applyTo = function (displayObject) {
-    var properties = [
-    // 'initAnimation',
-    'play', 'pause', 'resume', 'stop', 'gotoAndPlay', 'gotoAndStop', 'update', 'updateByTime', 'changeFrame', 'getNextFrame', 'updateTarget', 'getTarget', 'getFrames', 'setFrames', 'onFrameChange', 'onComplete'];
-
-    properties.forEach(function (p) {
-        displayObject[p] = _Animation2.default.prototype[p];
-    });
-    displayObject._initAnimation = _Animation2.default.prototype.initAnimation;
-    displayObject.initAnimation = function (frames, duration) {
-        this._initAnimation(frames, duration);
-        this._target = this;
-        this._bindName = '_anim';
-        this.changeFrame(this._minIndex, null);
-    };
-};
-
-/**
- * Create a Sprite with animation
- *
- * @param {PIXI.Texture[]|FrameObject[]} frames - an array of {@link PIXI.Texture} or frame
- *  objects that make up the animation
- * @param {number} [duration=0] - The total duration of animation in ms
- *     If no `duration`, the duration will equal the sum of all `frame.duration`
- *
- * @return {PIXI.Sprite} a sprite with animation
- */
-_Animation2.default.createSprite = function (frames, duration) {
-    var sprite = new Sprite(Texture.EMPTY);
-
-    _Animation2.default.applyTo(sprite);
-    sprite.initAnimation(frames, duration);
-
-    return sprite;
-};
-
-/**
- * Create a Rope Mesh with animation
- *
- * @param {PIXI.Texture[]|FrameObject[]} frames - an array of {@link PIXI.Texture} or frame
- *  objects that make up the animation
- * @param {number} [duration=0] - The total duration of animation in ms
- *     If no `duration`, the duration will equal the sum of all `frame.duration`
- * @param {number} [verticesX=2] - How many vertices on diameter of the rope
- * @param {number} [verticesY=2] - How many vertices on meridian of the rope, make it 2 or 3
- * @param {number} [direction=0] - Direction of the rope. See {@link PIXI.GroupD8} for explanation
- *
- * @return {PIXI.mesh.Rope} a mesh rope with animation
- */
-_Animation2.default.createRopeMesh = function (frames, duration, verticesX, verticesY, direction) {
-    var rope = new Rope(Texture.EMPTY, verticesX, verticesY, direction);
-
-    _Animation2.default.applyTo(rope);
-    rope.initAnimation(frames, duration);
-
-    return rope;
-};
-
-/**
- * Create a Plane Mesh with animation
- *
- * @param {PIXI.Texture[]|FrameObject[]} frames - an array of {@link PIXI.Texture} or frame
- *  objects that make up the animation
- * @param {number} [duration=0] - The total duration of animation in ms
- *     If no `duration`, the duration will equal the sum of all `frame.duration`
- * @param {number} [verticesX=2] - The number of vertices in the x-axis
- * @param {number} [verticesY=2] - The number of vertices in the y-axis
- * @param {number} [direction=0] - Direction of the mesh. See {@link PIXI.GroupD8} for explanation
- *
- * @return {PIXI.mesh.Plane} a mesh plane with animation
- */
-_Animation2.default.createPlaneMesh = function (frames, duration, verticesX, verticesY, direction) {
-    var plane = new Plane(Texture.EMPTY, verticesX, verticesY, direction);
-
-    _Animation2.default.applyTo(plane);
-    plane.initAnimation(frames, duration);
-
-    return plane;
-};
-
-/***/ }),
-/* 261 */
+/* 259 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -53216,7 +52174,7 @@ Object.defineProperty(exports, "__esModule", {
   value: true
 });
 
-var _PerspectiveFilter = __webpack_require__(262);
+var _PerspectiveFilter = __webpack_require__(260);
 
 Object.defineProperty(exports, 'PerspectiveFilter', {
   enumerable: true,
@@ -53225,7 +52183,7 @@ Object.defineProperty(exports, 'PerspectiveFilter', {
   }
 });
 
-var _TestShaderFilter = __webpack_require__(265);
+var _TestShaderFilter = __webpack_require__(263);
 
 Object.defineProperty(exports, 'TestShaderFilter', {
   enumerable: true,
@@ -53237,7 +52195,7 @@ Object.defineProperty(exports, 'TestShaderFilter', {
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 /***/ }),
-/* 262 */
+/* 260 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -53257,11 +52215,11 @@ var _Matrix = __webpack_require__(51);
 
 var _Matrix2 = _interopRequireDefault(_Matrix);
 
-var _perspectiveVert = __webpack_require__(263);
+var _perspectiveVert = __webpack_require__(261);
 
 var _perspectiveVert2 = _interopRequireDefault(_perspectiveVert);
 
-var _perspectiveFrag = __webpack_require__(264);
+var _perspectiveFrag = __webpack_require__(262);
 
 var _perspectiveFrag2 = _interopRequireDefault(_perspectiveFrag);
 
@@ -53326,7 +52284,7 @@ var PerspectiveFilter = function (_core$Filter) {
 exports.default = PerspectiveFilter;
 
 /***/ }),
-/* 263 */
+/* 261 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -53338,7 +52296,7 @@ Object.defineProperty(exports, "__esModule", {
 exports.default = "\n\nattribute vec2 aVertexPosition;\nattribute vec2 aTextureCoord;\nuniform mat3 projectionMatrix;\nvarying vec2 vTextureCoord;\n\n// uniform mat3 quadToSquareMatrix;\n// uniform mat3 squareToQuadMatrix;\nuniform mat3 perspectiveMatrix;\n\nuniform mat3 worldMatrix;\nuniform mat3 worldMatrixT;\n\nuniform float spriteScaleX;\nuniform float spriteScaleY;\nuniform float spriteWidth;\nuniform float spriteHeight;\n\nvoid main(void) {\n    mat3 proM3 = projectionMatrix;\n    mat3 worldM3 = worldMatrix;\n    mat3 worldM3T = worldMatrixT;\n    // mat3 perM3 = quadToSquareMatrix * squareToQuadMatrix;\n    mat3 perM3 = perspectiveMatrix;\n\n    mat4 proM4;\n    proM4[0]=vec4( proM3[0][0],  proM3[0][1],  0,  proM3[0][2] );\n    proM4[1]=vec4( proM3[1][0],  proM3[1][1],  0,  proM3[1][2] );\n    proM4[2]=vec4( 0,            0,            1,  0           );\n    proM4[3]=vec4( proM3[2][0],  proM3[2][1],  0,  proM3[2][2] );\n\n    mat4 perM4;\n    perM4[0]=vec4( perM3[0][0],  perM3[0][1],  0,  perM3[0][2] );\n    perM4[1]=vec4( perM3[1][0],  perM3[1][1],  0,  perM3[1][2] );\n    perM4[2]=vec4( 0,            0,            1,  0           );\n    perM4[3]=vec4( perM3[2][0],  perM3[2][1],  0,  perM3[2][2] );\n\n    mat4 worldM4;\n    worldM4[0]=vec4( worldM3[0][0],  worldM3[0][1],  0,  worldM3[0][2] );\n    worldM4[1]=vec4( worldM3[1][0],  worldM3[1][1],  0,  worldM3[1][2] );\n    worldM4[2]=vec4( 0,              0,              1,  0             );\n    worldM4[3]=vec4( worldM3[2][0],  worldM3[2][1],  0,  worldM3[2][2] );\n\n    float w = spriteWidth / spriteScaleX;\n    float h = spriteHeight / spriteScaleY;\n    float iW = 1.0 / w;\n    float iH = 1.0 / h;\n\n    mat3 normalM3;\n    normalM3[0]=vec3(iW,  0,  0 );\n    normalM3[1]=vec3(0,   iH, 0 );\n    normalM3[2]=vec3(0,   0,  1 );\n\n    vec3 normalPos = normalM3 * worldM3T * vec3(aVertexPosition, 1.0);\n\n    mat4 restoreM4;\n    restoreM4[0]=vec4(w,  0,  0,  0 );\n    restoreM4[1]=vec4(0,  h,  0,  0 );\n    restoreM4[2]=vec4(0,  0,  1,  0 );\n    restoreM4[3]=vec4(0,  0,  0,  1 );\n\n    gl_Position = proM4 * worldM4 * restoreM4 * perM4 *  vec4(normalPos.xy, 0.0, 1.0);\n    vTextureCoord = aTextureCoord;\n}\n\n";
 
 /***/ }),
-/* 264 */
+/* 262 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -53350,7 +52308,7 @@ Object.defineProperty(exports, "__esModule", {
 exports.default = "\n\nvarying vec2 vTextureCoord;\n\nuniform sampler2D uSampler;\nuniform float uAlpha;\n\nvoid main(void)\n{\n    gl_FragColor = texture2D(uSampler, vTextureCoord) * uAlpha;\n}\n\n";
 
 /***/ }),
-/* 265 */
+/* 263 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -53366,11 +52324,11 @@ var _core = __webpack_require__(0);
 
 var core = _interopRequireWildcard(_core);
 
-var _testShaderVert = __webpack_require__(266);
+var _testShaderVert = __webpack_require__(264);
 
 var _testShaderVert2 = _interopRequireDefault(_testShaderVert);
 
-var _testShaderFrag = __webpack_require__(267);
+var _testShaderFrag = __webpack_require__(265);
 
 var _testShaderFrag2 = _interopRequireDefault(_testShaderFrag);
 
@@ -53417,7 +52375,7 @@ var TestShaderFilter = function (_core$Filter) {
 exports.default = TestShaderFilter;
 
 /***/ }),
-/* 266 */
+/* 264 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -53429,7 +52387,7 @@ Object.defineProperty(exports, "__esModule", {
 exports.default = "\n\n// test-shader.vert.js\n\nattribute vec2 aVertexPosition;\nattribute vec2 aTextureCoord;\n\nuniform mat3 projectionMatrix;\n\nvarying vec2 vTextureCoord;\n\nvoid main(void)\n{\n    gl_Position = vec4((projectionMatrix * vec3(aVertexPosition, 1.0)).xy, 0.0, 1.0);\n    vTextureCoord = aTextureCoord;\n}\n\n";
 
 /***/ }),
-/* 267 */
+/* 265 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -53441,7 +52399,7 @@ Object.defineProperty(exports, "__esModule", {
 exports.default = "\n\n// test-shader.frag.js\n\nvarying vec2 vTextureCoord;\n\nuniform sampler2D uSampler;\nuniform float uAlpha;\n\nvoid main(void)\n{\n   gl_FragColor = texture2D(uSampler, vTextureCoord) * uAlpha;\n}\n\n";
 
 /***/ }),
-/* 268 */
+/* 266 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -53451,7 +52409,7 @@ Object.defineProperty(exports, "__esModule", {
   value: true
 });
 
-var _PerspectiveRenderer = __webpack_require__(269);
+var _PerspectiveRenderer = __webpack_require__(267);
 
 Object.defineProperty(exports, 'PerspectiveRenderer', {
   enumerable: true,
@@ -53460,7 +52418,7 @@ Object.defineProperty(exports, 'PerspectiveRenderer', {
   }
 });
 
-var _DisplayPoint = __webpack_require__(273);
+var _DisplayPoint = __webpack_require__(271);
 
 Object.defineProperty(exports, 'DisplayPoint', {
   enumerable: true,
@@ -53469,7 +52427,7 @@ Object.defineProperty(exports, 'DisplayPoint', {
   }
 });
 
-var _PointRenderer = __webpack_require__(118);
+var _PointRenderer = __webpack_require__(117);
 
 Object.defineProperty(exports, 'PointRenderer', {
   enumerable: true,
@@ -53478,7 +52436,7 @@ Object.defineProperty(exports, 'PointRenderer', {
   }
 });
 
-var _DisplayPointGroup = __webpack_require__(274);
+var _DisplayPointGroup = __webpack_require__(272);
 
 Object.defineProperty(exports, 'DisplayPointGroup', {
   enumerable: true,
@@ -53487,7 +52445,7 @@ Object.defineProperty(exports, 'DisplayPointGroup', {
   }
 });
 
-var _PointGroupRenderer = __webpack_require__(275);
+var _PointGroupRenderer = __webpack_require__(273);
 
 Object.defineProperty(exports, 'PointGroupRenderer', {
   enumerable: true,
@@ -53496,7 +52454,7 @@ Object.defineProperty(exports, 'PointGroupRenderer', {
   }
 });
 
-var _lighting = __webpack_require__(276);
+var _lighting = __webpack_require__(274);
 
 Object.defineProperty(exports, 'lighting', {
   enumerable: true,
@@ -53505,7 +52463,7 @@ Object.defineProperty(exports, 'lighting', {
   }
 });
 
-var _shaderParticle = __webpack_require__(288);
+var _shaderParticle = __webpack_require__(286);
 
 Object.keys(_shaderParticle).forEach(function (key) {
   if (key === "default" || key === "__esModule") return;
@@ -53520,7 +52478,7 @@ Object.keys(_shaderParticle).forEach(function (key) {
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 /***/ }),
-/* 269 */
+/* 267 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -53536,7 +52494,7 @@ var _core = __webpack_require__(0);
 
 var core = _interopRequireWildcard(_core);
 
-var _BaseSpriteShaderRenderer = __webpack_require__(270);
+var _BaseSpriteShaderRenderer = __webpack_require__(268);
 
 var _BaseSpriteShaderRenderer2 = _interopRequireDefault(_BaseSpriteShaderRenderer);
 
@@ -53544,11 +52502,11 @@ var _Matrix = __webpack_require__(51);
 
 var _Matrix2 = _interopRequireDefault(_Matrix);
 
-var _perspectiveVert = __webpack_require__(271);
+var _perspectiveVert = __webpack_require__(269);
 
 var _perspectiveVert2 = _interopRequireDefault(_perspectiveVert);
 
-var _perspectiveFrag = __webpack_require__(272);
+var _perspectiveFrag = __webpack_require__(270);
 
 var _perspectiveFrag2 = _interopRequireDefault(_perspectiveFrag);
 
@@ -53807,7 +52765,7 @@ exports.default = PerspectiveRenderer;
 WebGLRenderer.registerPlugin('perspective', PerspectiveRenderer);
 
 /***/ }),
-/* 270 */
+/* 268 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -53960,7 +52918,7 @@ var BaseSpriteShaderRenderer = function (_core$ObjectRenderer) {
 exports.default = BaseSpriteShaderRenderer;
 
 /***/ }),
-/* 271 */
+/* 269 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -53972,7 +52930,7 @@ Object.defineProperty(exports, "__esModule", {
 exports.default = "\n\nvarying vec2 vTextureCoord;\n\nattribute vec2 aVertexPosition;\nattribute vec2 aTextureCoord;\n\nuniform mat4 projectionMatrix;\nuniform mat4 worldMatrix;\n\n// uniform mat3 quadToSquareMatrix;\n// uniform mat3 squareToQuadMatrix;\nuniform mat3 perspectiveMatrix;\n\nvoid main(void) {\n\n    mat4 perM4 = mat4(\n        perspectiveMatrix[0][0],  perspectiveMatrix[0][1],  0,  perspectiveMatrix[0][2],\n        perspectiveMatrix[1][0],  perspectiveMatrix[1][1],  0,  perspectiveMatrix[1][2],\n        0,                        0,                        1,  0,\n        perspectiveMatrix[2][0],  perspectiveMatrix[2][1],  0,  perspectiveMatrix[2][2]\n    );\n\n    gl_Position = projectionMatrix * worldMatrix * perM4 * vec4(aVertexPosition.xy, 0.0, 1.0);\n    vTextureCoord = aTextureCoord;\n}\n\n";
 
 /***/ }),
-/* 272 */
+/* 270 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -53984,7 +52942,7 @@ Object.defineProperty(exports, "__esModule", {
 exports.default = "\n\nvarying vec2 vTextureCoord;\n\nuniform sampler2D uSampler;\nuniform float uAlpha;\n\nvoid main(void)\n{\n    gl_FragColor = texture2D(uSampler, vTextureCoord) * uAlpha;\n}\n\n";
 
 /***/ }),
-/* 273 */
+/* 271 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -54078,7 +53036,7 @@ var DisplayPoint = function (_DisplayObject) {
 exports.default = DisplayPoint;
 
 /***/ }),
-/* 274 */
+/* 272 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -54200,7 +53158,7 @@ var DisplayPointGroup = function (_DisplayObject) {
 exports.default = DisplayPointGroup;
 
 /***/ }),
-/* 275 */
+/* 273 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -54228,7 +53186,7 @@ var _bitTwiddle = __webpack_require__(16);
 
 var _bitTwiddle2 = _interopRequireDefault(_bitTwiddle);
 
-var _PointRenderer2 = __webpack_require__(118);
+var _PointRenderer2 = __webpack_require__(117);
 
 var _PointRenderer3 = _interopRequireDefault(_PointRenderer2);
 
@@ -54431,7 +53389,7 @@ exports.default = PointGroupRenderer;
 WebGLRenderer.registerPlugin('pointGroup', PointGroupRenderer);
 
 /***/ }),
-/* 276 */
+/* 274 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -54449,23 +53407,23 @@ var _LightWithAmbient = __webpack_require__(52);
 
 var _LightWithAmbient2 = _interopRequireDefault(_LightWithAmbient);
 
-var _AmbientLight = __webpack_require__(277);
+var _AmbientLight = __webpack_require__(275);
 
 var _AmbientLight2 = _interopRequireDefault(_AmbientLight);
 
-var _DirectionalLight = __webpack_require__(280);
+var _DirectionalLight = __webpack_require__(278);
 
 var _DirectionalLight2 = _interopRequireDefault(_DirectionalLight);
 
-var _PointLight = __webpack_require__(283);
+var _PointLight = __webpack_require__(281);
 
 var _PointLight2 = _interopRequireDefault(_PointLight);
 
-var _LightSpriteRenderer = __webpack_require__(119);
+var _LightSpriteRenderer = __webpack_require__(118);
 
 var _LightSpriteRenderer2 = _interopRequireDefault(_LightSpriteRenderer);
 
-var _LightTarget = __webpack_require__(287);
+var _LightTarget = __webpack_require__(285);
 
 var _LightTarget2 = _interopRequireDefault(_LightTarget);
 
@@ -54482,7 +53440,7 @@ exports.default = {
 };
 
 /***/ }),
-/* 277 */
+/* 275 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -54500,11 +53458,11 @@ var _Light3 = _interopRequireDefault(_Light2);
 
 var _const = __webpack_require__(1);
 
-var _ambientVert = __webpack_require__(278);
+var _ambientVert = __webpack_require__(276);
 
 var _ambientVert2 = _interopRequireDefault(_ambientVert);
 
-var _ambientFrag = __webpack_require__(279);
+var _ambientFrag = __webpack_require__(277);
 
 var _ambientFrag2 = _interopRequireDefault(_ambientFrag);
 
@@ -54557,7 +53515,7 @@ var AmbientLight = function (_Light) {
 exports.default = AmbientLight;
 
 /***/ }),
-/* 278 */
+/* 276 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -54576,7 +53534,7 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 exports.default = '\n\n' + _commonHeadVert2.default + '\n\nvoid main(void) {\n    gl_Position = vec4((projectionMatrix * vec3(aVertexPosition, 1.0)).xy, 0.0, 1.0);\n    vTextureCoord = aTextureCoord;\n    vNormalTextureCoord = aNormalTextureCoord;\n}\n\n';
 
 /***/ }),
-/* 279 */
+/* 277 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -54607,7 +53565,7 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 exports.default = '\n\n' + _commonHeadFrag2.default + '\n\nvoid main(void)\n{\n\n' + _loadDiffuseFrag2.default + '\n' + _loadNormalFrag2.default + '\n\n    uViewSize;\n\n    // simplified lambert shading that makes assumptions for ambient color\n\n    // compute Distance\n    float D = 1.0;\n\n' + _computeNormalFrag2.default + '\n\n    vec3 L = vec3(1.0, 1.0, 1.0);\n\n    // pre-multiply light color with intensity\n    // then perform "N dot L" to determine our diffuse\n    vec3 diffuse = uLightColor * max(dot(N, L), 0.0);\n\n    vec3 finalColor = diffuseColor.rgb * diffuse;\n\n    gl_FragColor = vec4(finalColor, diffuseColor.a);\n}\n\n';
 
 /***/ }),
-/* 280 */
+/* 278 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -54625,11 +53583,11 @@ var _LightWithAmbient2 = __webpack_require__(52);
 
 var _LightWithAmbient3 = _interopRequireDefault(_LightWithAmbient2);
 
-var _directionalVert = __webpack_require__(281);
+var _directionalVert = __webpack_require__(279);
 
 var _directionalVert2 = _interopRequireDefault(_directionalVert);
 
-var _directionalFrag = __webpack_require__(282);
+var _directionalFrag = __webpack_require__(280);
 
 var _directionalFrag2 = _interopRequireDefault(_directionalFrag);
 
@@ -54704,7 +53662,7 @@ var DirectionalLight = function (_LightWithAmbient) {
 exports.default = DirectionalLight;
 
 /***/ }),
-/* 281 */
+/* 279 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -54723,7 +53681,7 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 exports.default = '\n\n' + _commonHeadVert2.default + '\n\nvoid main(void) {\n    gl_Position = vec4((projectionMatrix * vec3(aVertexPosition, 1.0)).xy, 0.0, 1.0);\n    vTextureCoord = aTextureCoord;\n    vNormalTextureCoord = aNormalTextureCoord;\n}\n\n';
 
 /***/ }),
-/* 282 */
+/* 280 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -54754,7 +53712,7 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 exports.default = '\n\n// imports the common uniforms like samplers, and ambient/light color\n' + _commonHeadFrag2.default + '\n\nuniform vec3 uAmbientColor;\nuniform vec3 uLightDirection;\n\nvoid main()\n{\n\n' + _loadDiffuseFrag2.default + '\n' + _loadNormalFrag2.default + '\n\n    // the directional vector of the light\n    vec3 lightVector = uLightDirection;\n\n    // correct for aspect ratio\n    lightVector.y *= uViewSize.y / uViewSize.x;\n\n    // compute Distance\n    // float D = length(lightVector);\n\n' + _computeNormalFrag2.default + '\n\n    vec3 L = normalize(lightVector);\n\n    // pre-multiply light color with intensity\n    // then perform "N dot L" to determine our diffuse\n    vec3 diffuse = uLightColor * max(dot(N, L), 0.0);\n\n    // calculate attenuation\n    float attenuation = 1.0;\n\n    // calculate final intesity and color, then combine\n    vec3 intensity = uAmbientColor + diffuse * attenuation;\n\n    vec3 finalColor = diffuseColor.rgb * intensity;\n\n    gl_FragColor = vec4(finalColor, diffuseColor.a);\n}\n\n';
 
 /***/ }),
-/* 283 */
+/* 281 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -54776,11 +53734,11 @@ var _LightWithAmbient2 = __webpack_require__(52);
 
 var _LightWithAmbient3 = _interopRequireDefault(_LightWithAmbient2);
 
-var _pointVert = __webpack_require__(284);
+var _pointVert = __webpack_require__(282);
 
 var _pointVert2 = _interopRequireDefault(_pointVert);
 
-var _pointFrag = __webpack_require__(285);
+var _pointFrag = __webpack_require__(283);
 
 var _pointFrag2 = _interopRequireDefault(_pointFrag);
 
@@ -54858,7 +53816,7 @@ var PointLight = function (_LightWithAmbient) {
 exports.default = PointLight;
 
 /***/ }),
-/* 284 */
+/* 282 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -54877,7 +53835,7 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 exports.default = '\n\n' + _commonHeadVert2.default + '\n\nvarying float flippedY;\n\nvoid main(void) {\n    gl_Position = vec4((projectionMatrix * vec3(aVertexPosition, 1.0)).xy, 0.0, 1.0);\n    vTextureCoord = aTextureCoord;\n    vNormalTextureCoord = aNormalTextureCoord;\n\n    flippedY = projectionMatrix[1][1] < 0.0 ? 1.0 : 0.0;\n}\n\n';
 
 /***/ }),
-/* 285 */
+/* 283 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -54908,7 +53866,7 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 exports.default = '\n\n// imports the common uniforms like samplers, and ambient color\n' + _commonHeadFrag2.default + '\n\nvarying float flippedY;\n\nuniform vec3 uAmbientColor;\nuniform vec3 uLightPosition;\nuniform float uLightRadius;\n\nvoid main()\n{\n\n' + _loadDiffuseFrag2.default + '\n' + _loadNormalFrag2.default + '\n\n    vec2 fragCoord = gl_FragCoord.xy / uViewSize.xy;\n\n    // FBOs positions are flipped.\n    fragCoord.y = flippedY > 0.0 ? 1.0 - fragCoord.y : fragCoord.y;\n\n    vec3 lightPosition = uLightPosition / vec3(uViewSize, uViewSize.x);\n    float lightRadius = uLightRadius / uViewSize.x;\n\n    // the directional vector of the light\n    vec3 lightVector = vec3(lightPosition.xy - fragCoord, lightPosition.z);\n\n    // correct for aspect ratio\n    lightVector.y *= uViewSize.y / uViewSize.x;\n\n    // compute Distance\n    float D = length(lightVector);\n\n    vec3 intensity = uAmbientColor;\n    // bail out early when pixel outside of light sphere\n    if (D <= lightRadius) {\n\n' + _computeNormalFrag2.default + '\n\n        // vec3 L = normalize(lightVector);\n        vec3 L = lightVector / D;\n\n        // pre-multiply light color with intensity\n        // then perform N dot L to determine our diffuse\n        vec3 diffuse = uLightColor * max(dot(N, L), 0.0);\n\n        // calculate attenuation\n        float attenuation = 1.0 / (uLightFalloff.x + (uLightFalloff.y * D) + (uLightFalloff.z * D * D));\n\n        // calculate final intesity and color, then combine\n        intensity += diffuse * attenuation;\n    }\n\n    // TODO : roughness\n    // TODO : finalColor = ambient + diffuse + specular\n\n    vec3 finalColor = diffuseColor.rgb * intensity;\n    gl_FragColor = vec4(finalColor, diffuseColor.a);\n}\n\n';
 
 /***/ }),
-/* 286 */
+/* 284 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -55118,7 +54076,7 @@ var LightQuad = function () {
 exports.default = LightQuad;
 
 /***/ }),
-/* 287 */
+/* 285 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -55130,7 +54088,7 @@ Object.defineProperty(exports, "__esModule", {
 
 var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
-var _LightSpriteRenderer = __webpack_require__(119);
+var _LightSpriteRenderer = __webpack_require__(118);
 
 var _LightSpriteRenderer2 = _interopRequireDefault(_LightSpriteRenderer);
 
@@ -55217,7 +54175,7 @@ var LightTarget = function () {
 exports.default = LightTarget;
 
 /***/ }),
-/* 288 */
+/* 286 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -55236,7 +54194,7 @@ Object.defineProperty(exports, 'ShaderParticle', {
   }
 });
 
-var _ShaderParticleDisplay = __webpack_require__(289);
+var _ShaderParticleDisplay = __webpack_require__(287);
 
 Object.defineProperty(exports, 'ShaderParticleDisplay', {
   enumerable: true,
@@ -55245,7 +54203,7 @@ Object.defineProperty(exports, 'ShaderParticleDisplay', {
   }
 });
 
-var _ShaderParticleStatus = __webpack_require__(292);
+var _ShaderParticleStatus = __webpack_require__(290);
 
 Object.defineProperty(exports, 'ShaderParticleStatus', {
   enumerable: true,
@@ -55254,7 +54212,7 @@ Object.defineProperty(exports, 'ShaderParticleStatus', {
   }
 });
 
-var _ShaderParticleRenderer = __webpack_require__(295);
+var _ShaderParticleRenderer = __webpack_require__(293);
 
 Object.defineProperty(exports, 'ShaderParticleRenderer', {
   enumerable: true,
@@ -55266,7 +54224,7 @@ Object.defineProperty(exports, 'ShaderParticleRenderer', {
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 /***/ }),
-/* 289 */
+/* 287 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -55292,15 +54250,15 @@ var _ShaderParticle = __webpack_require__(30);
 
 var _ShaderParticle2 = _interopRequireDefault(_ShaderParticle);
 
-var _ShaderParticleProcessor = __webpack_require__(120);
+var _ShaderParticleProcessor = __webpack_require__(119);
 
 var _ShaderParticleProcessor2 = _interopRequireDefault(_ShaderParticleProcessor);
 
-var _displayVert = __webpack_require__(290);
+var _displayVert = __webpack_require__(288);
 
 var _displayVert2 = _interopRequireDefault(_displayVert);
 
-var _displayFrag = __webpack_require__(291);
+var _displayFrag = __webpack_require__(289);
 
 var _displayFrag2 = _interopRequireDefault(_displayFrag);
 
@@ -55483,7 +54441,7 @@ var ShaderParticleDisplay = function (_ShaderParticleProces) {
 exports.default = ShaderParticleDisplay;
 
 /***/ }),
-/* 290 */
+/* 288 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -55495,7 +54453,7 @@ Object.defineProperty(exports, "__esModule", {
 exports.default = "\n\nuniform mat3 projectionMatrix;\nattribute vec2 aVertexPosition;\nattribute vec2 aTextureCoord;\nvarying vec2 vTextureCoord;\n\nuniform sampler2D uStatusOut0;\nattribute vec2 aParticleIndex;\n\nuniform vec2 uPosition;\n\n\n// attribute vec4 aParticleFrame;\n\n// uniform vec2 uParticleFrameSize;\n// attribute vec2 aParticleFrameOffset;\n\nvoid main(void){\n\n    vec4 state;\n\n    state = texture2D(uStatusOut0, aParticleIndex);\n\n    vec2 position = state.xy;\n\n    vec2 v = aVertexPosition + position + uPosition;\n\n    gl_Position = vec4((projectionMatrix * vec3(v, 1.0)).xy, 0.0, 1.0);\n\n    vTextureCoord = aTextureCoord;\n\n    // vTextureCoord = aParticleFrame.xy + aTextureCoord * aParticleFrame.zw;\n    // vTextureCoord = aParticleFrameOffset.xy + aTextureCoord * uParticleFrameSize.xy;\n}\n\n";
 
 /***/ }),
-/* 291 */
+/* 289 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -55507,7 +54465,7 @@ Object.defineProperty(exports, "__esModule", {
 exports.default = "\n\nuniform sampler2D uSampler;\nvarying vec2 vTextureCoord;\n\nuniform float uAlpha;\nuniform float uColorMultiplier;\nuniform vec3 uColorOffset;\n\nvoid main(void) {\n  vec4 color = texture2D(uSampler, vTextureCoord) * uAlpha;\n  color.rgb *= uColorMultiplier;\n  color.rgb += uColorOffset * color.a;\n\n  gl_FragColor = color;\n}\n\n";
 
 /***/ }),
-/* 292 */
+/* 290 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -55539,15 +54497,15 @@ var _ShaderParticle = __webpack_require__(30);
 
 var _ShaderParticle2 = _interopRequireDefault(_ShaderParticle);
 
-var _ShaderParticleProcessor = __webpack_require__(120);
+var _ShaderParticleProcessor = __webpack_require__(119);
 
 var _ShaderParticleProcessor2 = _interopRequireDefault(_ShaderParticleProcessor);
 
-var _statusVert = __webpack_require__(293);
+var _statusVert = __webpack_require__(291);
 
 var _statusVert2 = _interopRequireDefault(_statusVert);
 
-var _statusFrag = __webpack_require__(294);
+var _statusFrag = __webpack_require__(292);
 
 var _statusFrag2 = _interopRequireDefault(_statusFrag);
 
@@ -55863,7 +54821,7 @@ var ShaderParticleStatus = function (_ShaderParticleProces) {
 exports.default = ShaderParticleStatus;
 
 /***/ }),
-/* 293 */
+/* 291 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -55875,7 +54833,7 @@ Object.defineProperty(exports, "__esModule", {
 exports.default = "\n\nprecision mediump float;\n\nattribute vec2 aVertexPosition;\nattribute vec2 aTextureCoord;\nvarying vec2 vTextureCoord;\n\nvoid main(void){\n   gl_Position = vec4(aVertexPosition, 0.0, 1.0);\n   vTextureCoord = aTextureCoord;\n}\n\n";
 
 /***/ }),
-/* 294 */
+/* 292 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -55887,7 +54845,7 @@ Object.defineProperty(exports, "__esModule", {
 exports.default = "\n\nprecision mediump float;\n\nvarying vec2 vTextureCoord;\nuniform sampler2D uStatusIn;\nuniform vec2 uViewSize;\n\nconst float gravity = 0.75;\n\nvoid main(void)\n{\n    vec4 position = texture2D(uStatusIn, vTextureCoord);\n\n    position.xy += position.zw;\n    position.w += gravity;\n\n    if(position.y > uViewSize.y)\n    {\n        position.y = uViewSize.y;\n        if(position.w > 25.0)\n        {\n            position.w = 25.0;\n        }\n        position.w *= -1.0;\n    }\n\n    if(position.x > uViewSize.x)\n    {\n        position.x = uViewSize.x;\n        position.z *= -1.0;\n    }\n    else if(position.x < 0.0)\n    {\n        position.x = 0.0;\n        position.z *= -1.0;\n    }\n\n    gl_FragColor = position;\n}\n\n";
 
 /***/ }),
-/* 295 */
+/* 293 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -55913,11 +54871,11 @@ var _ShaderParticle = __webpack_require__(30);
 
 var _ShaderParticle2 = _interopRequireDefault(_ShaderParticle);
 
-var _renderVert = __webpack_require__(296);
+var _renderVert = __webpack_require__(294);
 
 var _renderVert2 = _interopRequireDefault(_renderVert);
 
-var _renderFrag = __webpack_require__(297);
+var _renderFrag = __webpack_require__(295);
 
 var _renderFrag2 = _interopRequireDefault(_renderFrag);
 
@@ -56148,7 +55106,7 @@ exports.default = ShaderParticleRenderer;
 WebGLRenderer.registerPlugin('shaderparticle', ShaderParticleRenderer);
 
 /***/ }),
-/* 296 */
+/* 294 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -56160,7 +55118,7 @@ Object.defineProperty(exports, "__esModule", {
 exports.default = "\n\nprecision mediump float;\n\nattribute vec2 aVertexPosition;\nattribute vec2 aTextureCoord;\nvarying vec2 vTextureCoord;\n\nuniform float uFlipY;\n\nvoid main(void){\n    gl_Position = vec4(aVertexPosition.x, aVertexPosition.y * uFlipY, 0.0, 1.0);\n    vTextureCoord = aTextureCoord;\n}\n\n";
 
 /***/ }),
-/* 297 */
+/* 295 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -56172,8 +55130,8 @@ Object.defineProperty(exports, "__esModule", {
 exports.default = "\n\nprecision mediump float;\n\nuniform sampler2D uSampler;\nvarying vec2 vTextureCoord;\n\nvoid main(void)\n{\n    gl_FragColor = texture2D(uSampler, vTextureCoord);\n}\n\n";
 
 /***/ }),
-/* 298 */,
-/* 299 */
+/* 296 */,
+/* 297 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -56182,9 +55140,9 @@ exports.default = "\n\nprecision mediump float;\n\nuniform sampler2D uSampler;\n
 // require('../src/index.js');
 // global.PIXI = window.PIXI = require('./pixi.js');
 
-__webpack_require__(121);
+__webpack_require__(120);
 //global.PIXI = window.PIXI = require('../../../../../../../../github/gcavans_adapter/pixi/pixi.js/dist/pixi.js');
-global.PIXI = window.PIXI = __webpack_require__(143);
+global.PIXI = window.PIXI = __webpack_require__(142);
 
 var canvas = window.canvas;
 var ratio = window.devicePixelRatio;
@@ -56200,7 +55158,7 @@ var app = new PIXI.Application({
     view: canvas,
     width: width,
     height: height,
-    backgroundColor: 0x000000 //0x1099bb
+    backgroundColor: 0x1099bb
 });
 
 var container = new PIXI.Container();

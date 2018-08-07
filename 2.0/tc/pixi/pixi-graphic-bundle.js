@@ -60,7 +60,7 @@
 /******/ 	__webpack_require__.p = "";
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 296);
+/******/ 	return __webpack_require__(__webpack_require__.s = 303);
 /******/ })
 /************************************************************************/
 /******/ ([
@@ -55130,7 +55130,14 @@ Object.defineProperty(exports, "__esModule", {
 exports.default = "\n\nprecision mediump float;\n\nuniform sampler2D uSampler;\nvarying vec2 vTextureCoord;\n\nvoid main(void)\n{\n    gl_FragColor = texture2D(uSampler, vTextureCoord);\n}\n\n";
 
 /***/ }),
-/* 296 */
+/* 296 */,
+/* 297 */,
+/* 298 */,
+/* 299 */,
+/* 300 */,
+/* 301 */,
+/* 302 */,
+/* 303 */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -55160,26 +55167,40 @@ var app = new PIXI.Application({
     backgroundColor: 0x1099bb
 });
 
-// create a new Sprite from an image path
-//var bunny = PIXI.Sprite.fromImage('https://gw.alicdn.com/tfs/TB1KwRTlh6I8KJjy0FgXXXXzVXa-225-75.png')
-var bunny = PIXI.Sprite.fromImage('https://gw.alicdn.com/tfs/TB1RWaLGHGYBuNjy0FoXXciBFXa-26-37.png');
+var graphics = new PIXI.Graphics();
 
-// center the sprite's anchor point
-bunny.anchor.set(0.5);
+// set a fill and line style
+graphics.beginFill(0xFF3300);
+graphics.lineStyle(4, 0xffd900, 1);
 
-// move the sprite to the center of the screen
-bunny.x = app.screen.width / 2;
-bunny.y = app.screen.height / 2;
+// draw a shape
+graphics.moveTo(50, 50);
+graphics.lineTo(250, 50);
+graphics.lineTo(100, 100);
+graphics.lineTo(50, 50);
+graphics.endFill();
 
-app.stage.addChild(bunny);
+// set a fill and a line style again and draw a rectangle
+graphics.lineStyle(2, 0x0000FF, 1);
+graphics.beginFill(0xFF700B, 1);
+graphics.drawRect(50, 250, 120, 120);
 
-// Listen for animate update
-app.ticker.add(function (delta) {
-    // just for fun, let's rotate mr rabbit a little
-    // delta is 1 if running at 100% performance
-    // creates frame-independent transformation
-    bunny.rotation += 0.1 * delta;
-});
+// draw a rounded rectangle
+graphics.lineStyle(2, 0xFF00FF, 1);
+graphics.beginFill(0xFF00BB, 0.25);
+graphics.drawRoundedRect(150, 450, 300, 100, 15);
+graphics.endFill();
+
+// draw a circle, set the lineStyle to zero so the circle doesn't have an outline
+graphics.lineStyle(0);
+graphics.beginFill(0xFFFF0B, 0.5);
+graphics.drawCircle(470, 90, 60);
+graphics.endFill();
+
+graphics.x = 0;
+graphics.y = 200;
+
+app.stage.addChild(graphics);
 /* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(8)))
 
 /***/ })
